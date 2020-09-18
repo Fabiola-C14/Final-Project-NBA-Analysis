@@ -133,5 +133,4 @@ config.py
 test_files/
 /test_files
 /test_files/
-/group_files/cpompa
-/group_files/jane-branch
+
