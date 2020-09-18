@@ -1,0 +1,841 @@
+,Rank,Player,Team,Salary,Year
+0,1,"Stephen Curry, PG",Golden State Warriors,"$40,231,758",2020
+1,2,"Chris Paul, PG",Oklahoma City Thunder,"$38,506,482",2020
+2,3,"Russell Westbrook, PG",Houston Rockets,"$38,506,482",2020
+3,4,"John Wall, PG",Washington Wizards,"$38,199,000",2020
+4,5,"Kevin Durant, SF",Brooklyn Nets,"$38,199,000",2020
+5,6,"James Harden, SG",Houston Rockets,"$38,199,000",2020
+6,7,"LeBron James, SF",Los Angeles Lakers,"$37,436,858",2020
+7,8,"Kyle Lowry, PG",Toronto Raptors,"$34,996,296",2020
+8,9,"Blake Griffin, PF",Detroit Pistons,"$34,449,964",2020
+9,10,"Tobias Harris, SF",Philadelphia 76ers,"$32,742,000",2020
+10,11,"Jimmy Butler, SF",Miami Heat,"$32,742,000",2020
+11,12,"Kawhi Leonard, SF",LA Clippers,"$32,742,000",2020
+12,13,"Klay Thompson, SG",Golden State Warriors,"$32,742,000",2020
+13,14,"Kemba Walker, PG",Boston Celtics,"$32,742,000",2020
+14,15,"Gordon Hayward, F",Boston Celtics,"$32,700,690",2020
+15,16,"Mike Conley, PG",Utah Jazz,"$32,511,624",2020
+16,17,"Kyrie Irving, PG",Brooklyn Nets,"$31,742,000",2020
+17,18,"Khris Middleton, SF",Milwaukee Bucks,"$30,603,448",2020
+18,19,"Paul George, SG",LA Clippers,"$30,560,700",2020
+19,20,"Paul Millsap, PF",Denver Nuggets,"$30,350,000",2020
+20,21,"Damian Lillard, PG",Portland Trail Blazers,"$29,802,321",2020
+21,22,"Kevin Love, PF",Cleveland Cavaliers,"$28,942,830",2020
+22,23,"Al Horford, PF",Philadelphia 76ers,"$28,000,000",2020
+23,24,"Nikola Vucevic, C",Orlando Magic,"$28,000,000",2020
+24,25,"DeMar DeRozan, SF",San Antonio Spurs,"$27,739,975",2020
+25,26,"CJ McCollum, SG",Portland Trail Blazers,"$27,556,959",2020
+26,27,"Joel Embiid, C",Philadelphia 76ers,"$27,504,630",2020
+27,28,"Andrew Wiggins, SF",Minnesota Timberwolves,"$27,504,630",2020
+28,29,"Nikola Jokic, C",Denver Nuggets,"$27,504,630",2020
+29,30,"Devin Booker, SG",Phoenix Suns,"$27,285,000",2020
+30,31,"D'Angelo Russell, SG",Minnesota Timberwolves,"$27,285,000",2020
+31,32,"Karl-Anthony Towns, C",Minnesota Timberwolves,"$27,285,000",2020
+32,33,"Kristaps Porzingis, PF",Dallas Mavericks,"$27,285,000",2020
+33,34,"Otto Porter Jr., SF",Chicago Bulls,"$27,250,575",2020
+34,35,"Bradley Beal, SG",Washington Wizards,"$27,093,019",2020
+35,36,"Andre Drummond, C",Detroit Pistons,"$27,093,019",2020
+36,37,"Anthony Davis, PF",Los Angeles Lakers,"$27,093,018",2020
+37,38,"Hassan Whiteside, C",Portland Trail Blazers,"$27,093,017",2020
+38,39,"Jrue Holiday, SG",New Orleans Pelicans,"$26,231,111",2020
+39,40,"LaMarcus Aldridge, PF",San Antonio Spurs,"$26,000,000",2020
+40,1,"Stephen Curry, PG",Golden State Warriors,"$37,457,154",2019
+41,2,"Chris Paul, PG",Houston Rockets,"$35,654,150",2019
+42,3,"LeBron James, SF",Los Angeles Lakers,"$35,654,150",2019
+43,4,"Russell Westbrook, PG",Oklahoma City Thunder,"$35,654,150",2019
+44,5,"Blake Griffin, PF",Detroit Pistons,"$32,088,932",2019
+45,6,"Gordon Hayward, SF",Boston Celtics,"$31,214,295",2019
+46,7,"Kyle Lowry, PG",Toronto Raptors,"$31,200,000",2019
+47,8,"Paul George, SG",Oklahoma City Thunder,"$30,560,700",2019
+48,9,"Mike Conley, PG",Memphis Grizzlies,"$30,521,115",2019
+49,10,"James Harden, SG",Houston Rockets,"$30,421,854",2019
+50,11,"Kevin Durant, SF",Golden State Warriors,"$30,000,000",2019
+51,12,"Paul Millsap, PF",Denver Nuggets,"$29,230,769",2019
+52,13,"Al Horford, PF",Boston Celtics,"$28,928,709",2019
+53,14,"Damian Lillard, PG",Portland Trail Blazers,"$27,977,689",2019
+54,15,"DeMar DeRozan, SF",San Antonio Spurs,"$27,739,975",2019
+55,16,"Otto Porter Jr., SF",Washington Wizards,"$26,011,913",2019
+56,17,"Jrue Holiday, SG",New Orleans Pelicans,"$25,976,111",2019
+57,18,"CJ McCollum, SG",Portland Trail Blazers,"$25,759,766",2019
+58,19,"Joel Embiid, C",Philadelphia 76ers,"$25,467,250",2019
+59,20,"Andrew Wiggins, SF",Minnesota Timberwolves,"$25,467,250",2019
+60,21,"Bradley Beal, SG",Washington Wizards,"$25,434,263",2019
+61,22,"Anthony Davis, PF",New Orleans Pelicans,"$25,434,263",2019
+62,23,"Andre Drummond, C",Detroit Pistons,"$25,434,263",2019
+63,24,"Hassan Whiteside, C",Miami Heat,"$25,434,262",2019
+64,25,"Nikola Jokic, C",Denver Nuggets,"$24,605,181",2019
+65,26,"Steven Adams, C",Oklahoma City Thunder,"$24,157,303",2019
+66,27,"Giannis Antetokounmpo, PF",Milwaukee Bucks,"$24,157,303",2019
+67,28,"Marc Gasol, C",Memphis Grizzlies,"$24,119,025",2019
+68,29,"Kevin Love, PF",Cleveland Cavaliers,"$24,119,025",2019
+69,30,"Harrison Barnes, SF",Sacramento Kings,"$24,107,258",2019
+70,31,"Chandler Parsons, SF",Memphis Grizzlies,"$24,107,258",2019
+71,32,"Nicolas Batum, SG",Charlotte Hornets,"$24,000,000",2019
+72,33,"Rudy Gobert, C",Utah Jazz,"$23,241,573",2019
+73,34,"Kawhi Leonard, SF",Toronto Raptors,"$23,114,067",2019
+74,35,"DeAndre Jordan, C",New York Knicks,"$22,897,200",2019
+75,36,"LaMarcus Aldridge, PF",San Antonio Spurs,"$22,347,015",2019
+76,37,"Serge Ibaka, C",Toronto Raptors,"$21,666,667",2019
+77,38,"Aaron Gordon, PF",Orlando Magic,"$21,590,909",2019
+78,39,"Danilo Gallinari, PF",LA Clippers,"$21,587,579",2019
+79,40,"Victor Oladipo, SG",Indiana Pacers,"$21,000,000",2019
+80,1,"Stephen Curry, PG",Golden State Warriors,"$37,457,154",2018
+81,2,"Blake Griffin, PF",LA Clippers,"$32,088,932",2018
+82,3,"Paul Millsap, PF",Denver Nuggets,"$31,269,231",2018
+83,4,"Kyle Lowry, PG",Toronto Raptors,"$31,200,000",2018
+84,5,"Gordon Hayward, SF",Boston Celtics,"$29,727,900",2018
+85,6,"Mike Conley, PG",Memphis Grizzlies,"$28,530,608",2018
+86,7,"Russell Westbrook, PG",Oklahoma City Thunder,"$28,530,608",2018
+87,8,"James Harden, SG",Houston Rockets,"$28,299,399",2018
+88,9,"DeMar DeRozan, SF",Toronto Raptors,"$27,739,975",2018
+89,10,"Al Horford, PF",Boston Celtics,"$27,734,406",2018
+90,11,"Carmelo Anthony, PF",Oklahoma City Thunder,"$26,243,760",2018
+91,12,"Damian Lillard, PG",Portland Trail Blazers,"$26,153,057",2018
+92,13,"Otto Porter Jr., SF",Washington Wizards,"$26,011,913",2018
+93,14,"Jrue Holiday, SG",New Orleans Pelicans,"$25,686,667",2018
+94,15,"Bradley Beal, SG",Washington Wizards,"$25,434,263",2018
+95,16,"Andre Drummond, C",Detroit Pistons,"$25,434,263",2018
+96,17,"Hassan Whiteside, C",Miami Heat,"$25,434,262",2018
+97,18,"Joel Embiid, C",Philadelphia 76ers,"$25,250,000",2018
+98,19,"Chris Paul, PG",Houston Rockets,"$24,599,495",2018
+99,20,"Giannis Antetokounmpo, PF",Milwaukee Bucks,"$24,157,303",2018
+100,21,"Kevin Love, PF",Cleveland Cavaliers,"$24,119,025",2018
+101,22,"Nicolas Batum, SG",Charlotte Hornets,"$24,000,000",2018
+102,23,"CJ McCollum, SG",Portland Trail Blazers,"$23,962,573",2018
+103,24,"Dwight Howard, C",Charlotte Hornets,"$23,819,725",2018
+104,25,"Anthony Davis, PF",New Orleans Pelicans,"$23,775,506",2018
+105,26,"Harrison Barnes, SF",Dallas Mavericks,"$23,112,004",2018
+106,27,"Chandler Parsons, SF",Memphis Grizzlies,"$23,112,004",2018
+107,28,"Brook Lopez, C",Los Angeles Lakers,"$22,642,650",2018
+108,29,"Marc Gasol, C",Memphis Grizzlies,"$22,642,350",2018
+109,30,"DeAndre Jordan, C",LA Clippers,"$22,642,350",2018
+110,31,"Steven Adams, C",Oklahoma City Thunder,"$22,471,910",2018
+111,32,"Rudy Gobert, C",Utah Jazz,"$21,924,719",2018
+112,33,"Serge Ibaka, C",Toronto Raptors,"$21,666,667",2018
+113,34,"LaMarcus Aldridge, PF",San Antonio Spurs,"$21,461,010",2018
+114,35,"Victor Oladipo, SG",Indiana Pacers,"$21,000,000",2018
+115,36,"Danilo Gallinari, PF",LA Clippers,"$20,559,599",2018
+116,37,"Ryan Anderson, PF",Houston Rockets,"$19,578,455",2018
+117,38,"Paul George, SG",Oklahoma City Thunder,"$19,508,958",2018
+118,39,"Jimmy Butler, SF",Minnesota Timberwolves,"$19,301,070",2018
+119,40,"Tyler Johnson, SG",Miami Heat,"$19,245,370",2018
+120,1,"LeBron James, SF",Cleveland Cavaliers,"$30,963,450",2017
+121,2,"Mike Conley, PG",Memphis Grizzlies,"$26,540,100",2017
+122,3,"DeMar DeRozan, SF",Toronto Raptors,"$26,540,100",2017
+123,4,"Al Horford, PF",Boston Celtics,"$26,540,100",2017
+124,5,"Kevin Durant, SF",Golden State Warriors,"$26,540,100",2017
+125,6,"James Harden, SG",Houston Rockets,"$26,540,100",2017
+126,7,"Russell Westbrook, PG",Oklahoma City Thunder,"$26,540,100",2017
+127,8,"Dirk Nowitzki, F",Dallas Mavericks,"$25,000,000",2017
+128,9,"Carmelo Anthony, PF",New York Knicks,"$24,559,380",2017
+129,10,"Damian Lillard, PG",Portland Trail Blazers,"$24,328,425",2017
+130,11,"Chris Bosh, PF",Miami Heat,"$23,741,060",2017
+131,12,"Dwyane Wade, G",Chicago Bulls,"$23,200,000",2017
+132,13,"Dwight Howard, C",Atlanta Hawks,"$23,180,275",2017
+133,14,"Chris Paul, PG",LA Clippers,"$22,868,827",2017
+134,15,"Bradley Beal, SG",Washington Wizards,"$22,116,750",2017
+135,16,"Harrison Barnes, SF",Dallas Mavericks,"$22,116,750",2017
+136,17,"Hassan Whiteside, C",Miami Heat,"$22,116,750",2017
+137,18,"Anthony Davis, PF",New Orleans Pelicans,"$22,116,750",2017
+138,19,"Andre Drummond, C",Detroit Pistons,"$22,116,750",2017
+139,20,"Chandler Parsons, SF",Memphis Grizzlies,"$22,116,750",2017
+140,21,"Derrick Rose, PG",New York Knicks,"$21,323,252",2017
+141,22,"Marc Gasol, C",Memphis Grizzlies,"$21,165,675",2017
+142,23,"DeAndre Jordan, C",LA Clippers,"$21,165,675",2017
+143,24,"Brook Lopez, C",Brooklyn Nets,"$21,165,675",2017
+144,25,"Kevin Love, PF",Cleveland Cavaliers,"$21,165,675",2017
+145,26,"Nicolas Batum, SG",Charlotte Hornets,"$20,869,566",2017
+146,27,"LaMarcus Aldridge, PF",San Antonio Spurs,"$20,575,005",2017
+147,28,"Blake Griffin, PF",LA Clippers,"$20,140,839",2017
+148,29,"Paul Millsap, PF",Atlanta Hawks,"$20,072,033",2017
+149,30,"Ryan Anderson, PF",Houston Rockets,"$18,735,364",2017
+150,31,"Allen Crabbe, G",Portland Trail Blazers,"$18,500,000",2017
+151,32,"Paul George, SG",Indiana Pacers,"$18,314,532",2017
+152,33,"Luol Deng, F",Los Angeles Lakers,"$18,000,000",2017
+153,34,"Kyrie Irving, PG",Cleveland Cavaliers,"$17,638,063",2017
+154,35,"Kawhi Leonard, SF",San Antonio Spurs,"$17,638,063",2017
+155,36,"Jimmy Butler, SF",Chicago Bulls,"$17,552,209",2017
+156,37,"Tobias Harris, SF",Detroit Pistons,"$17,200,000",2017
+157,38,"Greg Monroe, C",Milwaukee Bucks,"$17,145,838",2017
+158,39,"Wesley Matthews, SG",Dallas Mavericks,"$17,145,838",2017
+159,40,"Enes Kanter, C",Oklahoma City Thunder,"$17,145,838",2017
+160,1,"Kobe Bryant, SF",Los Angeles Lakers,"$25,000,000",2016
+161,2,"LeBron James, SF",Cleveland Cavaliers,"$22,970,500",2016
+162,3,"Carmelo Anthony, PF",New York Knicks,"$22,875,000",2016
+163,4,"Dwight Howard, C",Houston Rockets,"$22,359,364",2016
+164,5,"Chris Bosh, PF",Miami Heat,"$22,192,730",2016
+165,6,"Chris Paul, PG",LA Clippers,"$21,468,695",2016
+166,7,"Kevin Durant, SF",Oklahoma City Thunder,"$20,158,622",2016
+167,8,"Derrick Rose, PG",Chicago Bulls,"$20,093,064",2016
+168,9,"Dwyane Wade, G",Miami Heat,"$20,000,000",2016
+169,10,"LaMarcus Aldridge, PF",San Antonio Spurs,"$19,689,000",2016
+170,11,"DeAndre Jordan, C",LA Clippers,"$19,689,000",2016
+171,12,"Brook Lopez, C",Brooklyn Nets,"$19,689,000",2016
+172,13,"Kevin Love, PF",Cleveland Cavaliers,"$19,689,000",2016
+173,14,"Marc Gasol, C",Memphis Grizzlies,"$19,688,000",2016
+174,15,"Blake Griffin, PF",LA Clippers,"$18,907,726",2016
+175,16,"Paul Millsap, PF",Atlanta Hawks,"$18,671,659",2016
+176,17,"Paul George, SG",Indiana Pacers,"$17,120,106",2016
+177,18,"Russell Westbrook, PG",Oklahoma City Thunder,"$16,744,218",2016
+178,19,"Kyrie Irving, PG",Cleveland Cavaliers,"$16,407,501",2016
+179,20,"Greg Monroe, C",Milwaukee Bucks,"$16,407,500",2016
+180,21,"Wesley Matthews, SG",Dallas Mavericks,"$16,407,500",2016
+181,22,"Jimmy Butler, SF",Chicago Bulls,"$16,407,500",2016
+182,23,"Kawhi Leonard, SF",San Antonio Spurs,"$16,407,500",2016
+183,24,"Enes Kanter, C",Oklahoma City Thunder,"$16,407,500",2016
+184,25,"Tobias Harris, SF",Orlando Magic,"$16,000,000",2016
+185,26,"John Wall, PG",Washington Wizards,"$15,851,950",2016
+186,27,"DeMarcus Cousins, C",Sacramento Kings,"$15,851,950",2016
+187,28,"James Harden, SG",Houston Rockets,"$15,756,438",2016
+188,29,"Roy Hibbert, C",Los Angeles Lakers,"$15,592,217",2016
+189,30,"Eric Gordon, SG",New Orleans Pelicans,"$15,514,031",2016
+190,31,"Klay Thompson, SG",Golden State Warriors,"$15,501,000",2016
+191,32,"Gordon Hayward, SF",Utah Jazz,"$15,409,570",2016
+192,33,"Chandler Parsons, SF",Dallas Mavericks,"$15,361,500",2016
+193,34,"Goran Dragic, PG",Miami Heat,"$14,783,000",2016
+194,35,"Khris Middleton, SF",Milwaukee Bucks,"$14,700,000",2016
+195,36,"Draymond Green, PF",Golden State Warriors,"$14,260,870",2016
+196,37,"Tristan Thompson, C",Cleveland Cavaliers,"$14,260,870",2016
+197,38,"Danilo Gallinari, PF",Denver Nuggets,"$14,000,000",2016
+198,39,"Reggie Jackson, PG",Detroit Pistons,"$13,913,044",2016
+199,40,"Andrew Bogut, C",Golden State Warriors,"$13,800,000",2016
+200,1,"Kobe Bryant, SF",Los Angeles Lakers,"$23,500,000",2015
+201,2,"Joe Johnson, G",Brooklyn Nets,"$23,180,790",2015
+202,3,"Carmelo Anthony, PF",New York Knicks,"$22,458,401",2015
+203,4,"Dwight Howard, C",Houston Rockets,"$21,436,271",2015
+204,5,"Chris Bosh, PF",Miami Heat,"$20,644,400",2015
+205,6,"LeBron James, SF",Cleveland Cavaliers,"$20,644,400",2015
+206,7,"Chris Paul, PG",LA Clippers,"$20,068,563",2015
+207,8,"Deron Williams, PG",Brooklyn Nets,"$19,754,465",2015
+208,9,"Rudy Gay, SF",Sacramento Kings,"$19,317,326",2015
+209,10,"Kevin Durant, SF",Oklahoma City Thunder,"$18,995,624",2015
+210,11,"Derrick Rose, PG",Chicago Bulls,"$18,862,876",2015
+211,12,"Blake Griffin, PF",LA Clippers,"$17,674,613",2015
+212,13,"Zach Randolph, F",Memphis Grizzlies,"$16,500,000",2015
+213,14,"LaMarcus Aldridge, PF",Portland Trail Blazers,"$16,006,000",2015
+214,15,"Paul George, SG",Indiana Pacers,"$15,937,290",2015
+215,16,"Marc Gasol, C",Memphis Grizzlies,"$15,829,688",2015
+216,17,"Kevin Love, PF",Cleveland Cavaliers,"$15,719,063",2015
+217,18,"Brook Lopez, C",Brooklyn Nets,"$15,719,062",2015
+218,19,"Russell Westbrook, PG",Oklahoma City Thunder,"$15,719,062",2015
+219,20,"David Lee, PF",Golden State Warriors,"$15,012,000",2015
+220,21,"Dwyane Wade, G",Miami Heat,"$15,000,000",2015
+221,22,"Eric Gordon, SG",New Orleans Pelicans,"$14,898,938",2015
+222,23,"Roy Hibbert, C",Indiana Pacers,"$14,898,938",2015
+223,24,"Tyson Chandler, C",Dallas Mavericks,"$14,846,888",2015
+224,25,"John Wall, PG",Washington Wizards,"$14,746,000",2015
+225,26,"DeMarcus Cousins, C",Sacramento Kings,"$14,746,000",2015
+226,27,"Gordon Hayward, SF",Utah Jazz,"$14,746,000",2015
+227,28,"James Harden, SG",Houston Rockets,"$14,728,844",2015
+228,29,"Chandler Parsons, SF",Dallas Mavericks,"$14,700,000",2015
+229,30,"Al Jefferson, C",Charlotte Hornets,"$13,500,000",2015
+230,31,"Eric Bledsoe, PG",Phoenix Suns,"$13,000,000",2015
+231,32,"Nene Hilario, C",Washington Wizards,"$13,000,000",2015
+232,33,"Andrew Bogut, C",Golden State Warriors,"$12,972,973",2015
+233,34,"Derrick Favors, C",Utah Jazz,"$12,950,000",2015
+234,35,"Rajon Rondo, PG",Dallas Mavericks,"$12,909,090",2015
+235,36,"Joakim Noah, C",Chicago Bulls,"$12,700,000",2015
+236,37,"Tony Parker, G",San Antonio Spurs,"$12,500,000",2015
+237,38,"Serge Ibaka, C",Oklahoma City Thunder,"$12,350,000",2015
+238,39,"Andre Iguodala, SG",Golden State Warriors,"$12,289,544",2015
+239,40,"Nikola Pekovic, C",Minnesota Timberwolves,"$12,100,000",2015
+240,1,"Kobe Bryant, SF",Los Angeles Lakers,"$30,453,805",2014
+241,2,"Dirk Nowitzki, F",Dallas Mavericks,"$22,721,381",2014
+242,3,"Amar'e Stoudemire, C",New York Knicks,"$21,679,893",2014
+243,4,"Joe Johnson, G",Brooklyn Nets,"$21,466,718",2014
+244,5,"Carmelo Anthony, PF",New York Knicks,"$21,388,953",2014
+245,6,"Dwight Howard, C",Houston Rockets,"$20,513,178",2014
+246,7,"Pau Gasol, PF",Los Angeles Lakers,"$19,285,850",2014
+247,8,"Chris Bosh, PF",Miami Heat,"$19,067,500",2014
+248,9,"LeBron James, SF",Miami Heat,"$19,067,500",2014
+249,10,"Dwyane Wade, G",Miami Heat,"$18,673,000",2014
+250,11,"Chris Paul, PG",LA Clippers,"$18,668,431",2014
+251,12,"Deron Williams, PG",Brooklyn Nets,"$18,466,130",2014
+252,13,"Zach Randolph, F",Memphis Grizzlies,"$18,238,333",2014
+253,14,"Rudy Gay, SF",Toronto Raptors,"$17,888,932",2014
+254,15,"Kevin Durant, SF",Oklahoma City Thunder,"$17,832,627",2014
+255,16,"Derrick Rose, PG",Chicago Bulls,"$17,632,688",2014
+256,17,"Blake Griffin, PF",LA Clippers,"$16,441,500",2014
+257,18,"Paul Pierce, SF",Brooklyn Nets,"$15,333,334",2014
+258,19,"Carlos Boozer, PF",Chicago Bulls,"$15,300,000",2014
+259,20,"LaMarcus Aldridge, PF",Portland Trail Blazers,"$14,878,000",2014
+260,21,"Marc Gasol, C",Memphis Grizzlies,"$14,860,523",2014
+261,22,"Brook Lopez, C",Brooklyn Nets,"$14,693,906",2014
+262,23,"Russell Westbrook, PG",Oklahoma City Thunder,"$14,693,906",2014
+263,24,"Kevin Love, PF",Minnesota Timberwolves,"$14,693,906",2014
+264,25,"Emeka Okafor, C",Philadelphia 76ers,"$14,487,500",2014
+265,26,"Eric Gordon, SG",New Orleans Pelicans,"$14,283,844",2014
+266,27,"Roy Hibbert, C",Indiana Pacers,"$14,283,844",2014
+267,28,"Luol Deng, F",Cleveland Cavaliers,"$14,275,000",2014
+268,29,"Tyson Chandler, C",New York Knicks,"$14,100,538",2014
+269,30,"Andrew Bogut, C",Golden State Warriors,"$14,000,000",2014
+270,31,"David Lee, PF",Golden State Warriors,"$13,878,000",2014
+271,32,"James Harden, SG",Houston Rockets,"$13,701,250",2014
+272,33,"Al Jefferson, C",Charlotte Bobcats,"$13,500,000",2014
+273,34,"Josh Smith, PF",Detroit Pistons,"$13,500,000",2014
+274,35,"Nene Hilario, C",Washington Wizards,"$13,000,000",2014
+275,36,"Andre Iguodala, SG",Golden State Warriors,"$12,868,632",2014
+276,37,"Tony Parker, G",San Antonio Spurs,"$12,500,000",2014
+277,38,"Kevin Garnett, PF",Brooklyn Nets,"$12,433,735",2014
+278,39,"Serge Ibaka, C",Oklahoma City Thunder,"$12,350,000",2014
+279,40,"Nikola Pekovic, C",Minnesota Timberwolves,"$12,100,000",2014
+280,1,"Kobe Bryant, SF",Los Angeles Lakers,"$30,453,805",2013
+281,2,"Dirk Nowitzki, F",Dallas Mavericks,"$20,907,128",2013
+282,3,"Amar'e Stoudemire, C",New York Knicks,"$19,948,799",2013
+283,4,"Joe Johnson, G",Brooklyn Nets,"$19,752,645",2013
+284,5,"Carmelo Anthony, PF",New York Knicks,"$19,444,503",2013
+285,6,"Pau Gasol, PF",Los Angeles Lakers,"$19,285,850",2013
+286,7,"Chris Bosh, PF",Miami Heat,"$19,067,500",2013
+287,8,"LeBron James, SF",Miami Heat,"$19,067,500",2013
+288,9,"Dwyane Wade, G",Miami Heat,"$18,673,000",2013
+289,10,"Chris Paul, PG",LA Clippers,"$18,668,431",2013
+290,11,"Kevin Durant, SF",Oklahoma City Thunder,"$17,832,626",2013
+291,12,"Derrick Rose, PG",Chicago Bulls,"$17,632,688",2013
+292,13,"Deron Williams, PG",Brooklyn Nets,"$17,177,795",2013
+293,14,"Andrew Bynum, C",Philadelphia 76ers,"$16,889,000",2013
+294,15,"Paul Pierce, SF",Boston Celtics,"$16,790,345",2013
+295,16,"Zach Randolph, F",Memphis Grizzlies,"$16,500,000",2013
+296,17,"Rudy Gay, SF",Memphis Grizzlies,"$16,460,538",2013
+297,18,"Carlos Boozer, PF",Chicago Bulls,"$15,300,000",2013
+298,19,"Andre Iguodala, SG",Denver Nuggets,"$14,968,250",2013
+299,20,"Russell Westbrook, PG",Oklahoma City Thunder,"$14,693,906",2013
+300,21,"Emeka Okafor, C",Washington Wizards,"$14,487,500",2013
+301,22,"Luol Deng, F",Chicago Bulls,"$14,275,000",2013
+302,23,"Manu Ginobili, G",San Antonio Spurs,"$14,107,492",2013
+303,24,"Marc Gasol, C",Memphis Grizzlies,"$13,891,359",2013
+304,25,"Blake Griffin, PF",LA Clippers,"$13,701,250",2013
+305,26,"Brook Lopez, C",Brooklyn Nets,"$13,668,750",2013
+306,27,"Eric Gordon, SG",New Orleans Hornets,"$13,668,750",2013
+307,28,"Roy Hibbert, C",Indiana Pacers,"$13,668,750",2013
+308,29,"Kevin Love, PF",Minnesota Timberwolves,"$13,668,750",2013
+309,30,"Tyson Chandler, C",New York Knicks,"$13,604,188",2013
+310,31,"LaMarcus Aldridge, PF",Portland Trail Blazers,"$13,500,000",2013
+311,32,"Al Jefferson, C",Utah Jazz,"$13,500,000",2013
+312,33,"Ben Gordon, SG",Charlotte Bobcats,"$13,200,000",2013
+313,34,"Josh Smith, PF",Atlanta Hawks,"$13,200,000",2013
+314,35,"Danny Granger, SF",Indiana Pacers,"$13,058,606",2013
+315,36,"Andrew Bogut, C",Golden State Warriors,"$13,000,000",2013
+316,37,"Nene Hilario, C",Washington Wizards,"$13,000,000",2013
+317,38,"David Lee, PF",Golden State Warriors,"$12,744,000",2013
+318,39,"Tony Parker, G",San Antonio Spurs,"$12,500,000",2013
+319,40,"Kevin Martin, SG",Oklahoma City Thunder,"$12,439,675",2013
+320,1,"Kobe Bryant, SF",Los Angeles Lakers,"$25,244,493",2012
+321,2,"Kevin Garnett, PF",Boston Celtics,"$21,247,044",2012
+322,3,"Tim Duncan, C",San Antonio Spurs,"$21,164,619",2012
+323,4,"Rashard Lewis, PF",Washington Wizards,"$21,136,631",2012
+324,5,"Dirk Nowitzki, F",Dallas Mavericks,"$19,092,873",2012
+325,6,"Pau Gasol, PF",Los Angeles Lakers,"$18,714,150",2012
+326,7,"Carmelo Anthony, PF",New York Knicks,"$18,518,574",2012
+327,8,"Amar'e Stoudemire, C",New York Knicks,"$18,217,705",2012
+328,9,"Elton Brand, PF",Philadelphia 76ers,"$18,160,355",2012
+329,10,"Dwight Howard, C",Orlando Magic,"$18,091,770",2012
+330,11,"Joe Johnson, G",Atlanta Hawks,"$18,038,573",2012
+331,12,"Andrei Kirilenko, SF",Philadelphia 76ers,"$17,823,000",2012
+332,13,"Chris Bosh, PF",Miami Heat,"$17,545,000",2012
+333,14,"LeBron James, SF",Miami Heat,"$17,545,000",2012
+334,15,"Chris Paul, PG",LA Clippers,"$16,359,805",2012
+335,16,"Deron Williams, PG",New Jersey Nets,"$16,359,805",2012
+336,17,"Dwyane Wade, G",Miami Heat,"$15,691,000",2012
+337,18,"Kevin Durant, SF",Oklahoma City Thunder,"$15,506,632",2012
+338,19,"Paul Pierce, SF",Boston Celtics,"$15,333,334",2012
+339,20,"Zach Randolph, F",Memphis Grizzlies,"$15,200,000",2012
+340,21,"Antawn Jamison, PF",Cleveland Cavaliers,"$15,076,715",2012
+341,22,"Rudy Gay, SF",Memphis Grizzlies,"$15,032,144",2012
+342,23,"Brandon Roy, SG",Minnesota Timberwolves,"$15,032,144",2012
+343,24,"Al Jefferson, C",Utah Jazz,"$15,000,000",2012
+344,25,"Andrew Bynum, C",Los Angeles Lakers,"$14,900,000",2012
+345,26,"Andre Iguodala, SG",Philadelphia 76ers,"$14,718,250",2012
+346,27,"Manu Ginobili, G",San Antonio Spurs,"$14,107,492",2012
+347,28,"Chris Kaman, C",New Orleans Hornets,"$14,030,000",2012
+348,29,"LaMarcus Aldridge, PF",Portland Trail Blazers,"$14,000,000",2012
+349,30,"Carlos Boozer, PF",Chicago Bulls,"$13,500,000",2012
+350,31,"Tyson Chandler, C",New York Knicks,"$13,107,837",2012
+351,32,"Nene Hilario, C",Washington Wizards,"$13,000,000",2012
+352,33,"Marc Gasol, C",Memphis Grizzlies,"$12,922,194",2012
+353,34,"Emeka Okafor, C",New Orleans Hornets,"$12,642,500",2012
+354,35,"Tony Parker, G",San Antonio Spurs,"$12,500,000",2012
+355,36,"Al Horford, PF",Atlanta Hawks,"$12,498,483",2012
+356,37,"Josh Smith, PF",Atlanta Hawks,"$12,400,000",2012
+357,38,"Luol Deng, F",Chicago Bulls,"$12,325,000",2012
+358,39,"Danny Granger, SF",Indiana Pacers,"$12,015,904",2012
+359,40,"Joakim Noah, C",Chicago Bulls,"$12,000,000",2012
+360,1,"Kobe Bryant, SF",Los Angeles Lakers,"$24,806,250",2011
+361,2,"Rashard Lewis, PF",Washington Wizards,"$19,573,711",2011
+362,3,"Tim Duncan, C",San Antonio Spurs,"$18,835,381",2011
+363,4,"Kevin Garnett, PF",Boston Celtics,"$18,832,044",2011
+364,5,"Michael Redd, SG",Milwaukee Bucks,"$18,300,000",2011
+365,6,"Pau Gasol, PF",Los Angeles Lakers,"$17,823,000",2011
+366,7,"Andrei Kirilenko, SF",Utah Jazz,"$17,823,000",2011
+367,8,"Gilbert Arenas, PG",Washington Wizards,"$17,730,694",2011
+368,9,"Yao Ming, C",Houston Rockets,"$17,686,100",2011
+369,10,"Zach Randolph, F",Memphis Grizzlies,"$17,666,666",2011
+370,11,"Vince Carter, G",Phoenix Suns,"$17,522,375",2011
+371,12,"Dirk Nowitzki, F",Dallas Mavericks,"$17,278,618",2011
+372,13,"Carmelo Anthony, PF",New York Knicks,"$17,149,243",2011
+373,14,"Dwight Howard, C",Orlando Magic,"$16,647,180",2011
+374,15,"Kenyon Martin, PF",Denver Nuggets,"$16,545,454",2011
+375,16,"Amar'e Stoudemire, C",New York Knicks,"$16,486,611",2011
+376,17,"Joe Johnson, G",Atlanta Hawks,"$16,324,500",2011
+377,18,"Elton Brand, PF",Philadelphia 76ers,"$15,959,099",2011
+378,19,"Chris Paul, PG",New Orleans Hornets,"$14,940,153",2011
+379,20,"Deron Williams, PG",Utah Jazz,"$14,940,153",2011
+380,21,"Chris Bosh, PF",Miami Heat,"$14,500,000",2011
+381,22,"LeBron James, SF",Miami Heat,"$14,500,000",2011
+382,23,"Jason Richardson, SG",Phoenix Suns,"$14,444,443",2011
+383,24,"Carlos Boozer, PF",Chicago Bulls,"$14,400,000",2011
+384,25,"Dwyane Wade, G",Miami Heat,"$14,200,000",2011
+385,26,"Baron Davis, PG",LA Clippers,"$14,000,000",2011
+386,27,"Paul Pierce, SF",Boston Celtics,"$13,876,321",2011
+387,28,"Andrew Bynum, C",Los Angeles Lakers,"$13,700,000",2011
+388,29,"Rudy Gay, SF",Memphis Grizzlies,"$13,603,750",2011
+389,30,"Brandon Roy, SG",Portland Trail Blazers,"$13,603,750",2011
+390,31,"Tony Parker, G",San Antonio Spurs,"$13,500,000",2011
+391,32,"Samuel Dalembert, C",Sacramento Kings,"$13,428,129",2011
+392,33,"Antawn Jamison, PF",Cleveland Cavaliers,"$13,358,905",2011
+393,34,"Nick Collison, F",Oklahoma City Thunder,"$13,270,000",2011
+394,35,"Chauncey Billups, PG",New York Knicks,"$13,150,000",2011
+395,36,"Al Jefferson, C",Utah Jazz,"$13,000,000",2011
+396,37,"Tyson Chandler, C",Dallas Mavericks,"$12,600,000",2011
+397,38,"Richard Hamilton, SG",Detroit Pistons,"$12,500,000",2011
+398,39,"Andre Iguodala, SG",Philadelphia 76ers,"$12,345,250",2011
+399,40,"Manu Ginobili, G",San Antonio Spurs,"$11,854,584",2011
+400,1,"Kobe Bryant, SF",Los Angeles Lakers,"$23,034,375",2010
+401,2,"Jermaine O'Neal, C",Miami Heat,"$23,016,000",2010
+402,3,"Tracy McGrady, SG",New York Knicks,"$22,843,124",2010
+403,4,"Tim Duncan, C",San Antonio Spurs,"$22,183,220",2010
+404,5,"Shaquille O'Neal, C",Cleveland Cavaliers,"$21,000,000",2010
+405,6,"Dirk Nowitzki, F",Dallas Mavericks,"$19,795,714",2010
+406,7,"Paul Pierce, SF",Boston Celtics,"$19,795,712",2010
+407,8,"Ray Allen, SG",Boston Celtics,"$18,776,860",2010
+408,9,"Rashard Lewis, PF",Orlando Magic,"$18,010,791",2010
+409,10,"Michael Redd, SG",Milwaukee Bucks,"$17,040,000",2010
+410,11,"Pau Gasol, PF",Los Angeles Lakers,"$16,452,000",2010
+411,12,"Andrei Kirilenko, SF",Utah Jazz,"$16,452,000",2010
+412,13,"Kevin Garnett, PF",Boston Celtics,"$16,417,044",2010
+413,14,"Amar'e Stoudemire, C",Phoenix Suns,"$16,378,325",2010
+414,15,"Yao Ming, C",Houston Rockets,"$16,378,325",2010
+415,16,"Gilbert Arenas, PG",Washington Wizards,"$16,192,080",2010
+416,17,"Vince Carter, G",Orlando Magic,"$16,123,250",2010
+417,18,"Zach Randolph, F",Memphis Grizzlies,"$16,000,000",2010
+418,19,"Kenyon Martin, PF",Denver Nuggets,"$15,852,511",2010
+419,20,"Carmelo Anthony, PF",Denver Nuggets,"$15,779,912",2010
+420,21,"Dwyane Wade, G",Miami Heat,"$15,779,912",2010
+421,22,"Chris Bosh, PF",Toronto Raptors,"$15,779,912",2010
+422,23,"LeBron James, SF",Cleveland Cavaliers,"$15,779,912",2010
+423,24,"Dwight Howard, C",Orlando Magic,"$15,202,590",2010
+424,25,"Joe Johnson, G",Atlanta Hawks,"$14,976,754",2010
+425,26,"Elton Brand, PF",Philadelphia 76ers,"$14,858,472",2010
+426,27,"Richard Jefferson, F",San Antonio Spurs,"$14,200,000",2010
+427,28,"Chris Paul, PG",New Orleans Hornets,"$13,520,500",2010
+428,29,"Deron Williams, PG",Utah Jazz,"$13,520,500",2010
+429,30,"Peja Stojakovic, SF",New Orleans Hornets,"$13,392,000",2010
+430,31,"Jason Richardson, SG",Phoenix Suns,"$13,333,332",2010
+431,32,"Steve Nash, PG",Phoenix Suns,"$13,125,000",2010
+432,33,"Tony Parker, G",San Antonio Spurs,"$12,600,000",2010
+433,34,"Andrew Bynum, C",Los Angeles Lakers,"$12,500,000",2010
+434,35,"Carlos Boozer, PF",Utah Jazz,"$12,323,900",2010
+435,36,"Brad Miller, C",Chicago Bulls,"$12,250,000",2010
+436,37,"Andre Iguodala, SG",Philadelphia 76ers,"$12,200,000",2010
+437,38,"Erick Dampier, C",Dallas Mavericks,"$12,115,500",2010
+438,39,"Baron Davis, PG",LA Clippers,"$12,100,000",2010
+439,40,"Chauncey Billups, PG",Denver Nuggets,"$12,100,000",2010
+440,1,"Kevin Garnett, PF",Boston Celtics,"$24,751,934",2009
+441,2,"Jason Kidd, PG",Dallas Mavericks,"$21,372,000",2009
+442,3,"Jermaine O'Neal, C",Toronto Raptors,"$21,372,000",2009
+443,4,"Kobe Bryant, SF",Los Angeles Lakers,"$21,262,500",2009
+444,5,"Shaquille O'Neal, C",Phoenix Suns,"$21,000,000",2009
+445,6,"Allen Iverson, SG",Detroit Pistons,"$20,840,625",2009
+446,7,"Stephon Marbury, PG",Boston Celtics,"$20,840,625",2009
+447,8,"Tim Duncan, C",San Antonio Spurs,"$20,598,704",2009
+448,9,"Tracy McGrady, SG",Houston Rockets,"$20,370,437",2009
+449,10,"Ray Allen, SG",Boston Celtics,"$18,388,430",2009
+450,11,"Dirk Nowitzki, F",Dallas Mavericks,"$18,077,904",2009
+451,12,"Paul Pierce, SF",Boston Celtics,"$18,077,903",2009
+452,13,"Shawn Marion, SG",Toronto Raptors,"$17,810,000",2009
+453,14,"Rashard Lewis, PF",Orlando Magic,"$16,447,871",2009
+454,15,"Michael Redd, SG",Milwaukee Bucks,"$15,780,000",2009
+455,16,"Pau Gasol, PF",Los Angeles Lakers,"$15,106,000",2009
+456,17,"Andrei Kirilenko, SF",Utah Jazz,"$15,106,000",2009
+457,18,"Amar'e Stoudemire, C",Phoenix Suns,"$15,070,550",2009
+458,19,"Yao Ming, C",Houston Rockets,"$15,070,550",2009
+459,20,"Mike Bibby, PG",Atlanta Hawks,"$14,983,603",2009
+460,21,"Vince Carter, G",New Jersey Nets,"$14,724,125",2009
+461,22,"Zach Randolph, F",New York Knicks,"$14,666,667",2009
+462,23,"Gilbert Arenas, PG",Washington Wizards,"$14,653,466",2009
+463,24,"Ben Wallace, PF",Cleveland Cavaliers,"$14,500,000",2009
+464,25,"Kenyon Martin, PF",Denver Nuggets,"$14,431,816",2009
+465,26,"Carmelo Anthony, PF",Denver Nuggets,"$14,410,581",2009
+466,27,"Dwyane Wade, G",Miami Heat,"$14,410,581",2009
+467,28,"Chris Bosh, PF",Toronto Raptors,"$14,410,581",2009
+468,29,"LeBron James, SF",Cleveland Cavaliers,"$14,410,581",2009
+469,30,"Joe Johnson, G",Atlanta Hawks,"$14,232,567",2009
+470,31,"Lamar Odom, PF",Los Angeles Lakers,"$14,148,596",2009
+471,32,"Rasheed Wallace, PF",Detroit Pistons,"$13,930,000",2009
+472,33,"Wally Szczerbiak, SG",Cleveland Cavaliers,"$13,775,000",2009
+473,34,"Dwight Howard, C",Orlando Magic,"$13,758,000",2009
+474,35,"Elton Brand, PF",Philadelphia 76ers,"$13,757,844",2009
+475,36,"Richard Jefferson, F",Milwaukee Bucks,"$13,200,000",2009
+476,37,"Larry Hughes, SG",New York Knicks,"$12,827,676",2009
+477,38,"Raef LaFrentz, C",Portland Trail Blazers,"$12,722,500",2009
+478,39,"Peja Stojakovic, SF",New Orleans Hornets,"$12,528,000",2009
+479,40,"Steve Nash, PG",Phoenix Suns,"$12,250,000",2009
+480,1,"Kevin Garnett, PF",Boston Celtics,"$23,751,934",2008
+481,2,"Shaquille O'Neal, C",Phoenix Suns,"$21,000,000",2008
+482,3,"Jason Kidd, PG",New Jersey Nets,"$19,728,000",2008
+483,4,"Jermaine O'Neal, C",Indiana Pacers,"$19,728,000",2008
+484,5,"Kobe Bryant, SF",Los Angeles Lakers,"$19,490,625",2008
+485,6,"Tim Duncan, C",San Antonio Spurs,"$19,014,188",2008
+486,7,"Allen Iverson, SG",Denver Nuggets,"$19,012,500",2008
+487,8,"Stephon Marbury, PG",New York Knicks,"$19,012,500",2008
+488,9,"Tracy McGrady, SG",Houston Rockets,"$18,257,750",2008
+489,10,"Baron Davis, PG",Golden State Warriors,"$16,440,000",2008
+490,11,"Shawn Marion, SG",Phoenix Suns,"$16,440,000",2008
+491,12,"Paul Pierce, SF",Boston Celtics,"$16,360,094",2008
+492,13,"Dirk Nowitzki, F",Dallas Mavericks,"$16,360,094",2008
+493,14,"Antawn Jamison, PF",Washington Wizards,"$16,360,094",2008
+494,15,"Ray Allen, SG",Boston Celtics,"$16,000,000",2008
+495,16,"Ben Wallace, PF",Cleveland Cavaliers,"$15,500,000",2008
+496,17,"Elton Brand, PF",LA Clippers,"$15,344,000",2008
+497,18,"Mike Bibby, PG",Sacramento Kings,"$14,983,603",2008
+498,19,"Rashard Lewis, PF",Orlando Magic,"$14,884,951",2008
+499,20,"Michael Redd, SG",Milwaukee Bucks,"$14,520,000",2008
+500,21,"Amar'e Stoudemire, C",Phoenix Suns,"$13,762,775",2008
+501,22,"Yao Ming, C",Houston Rockets,"$13,762,775",2008
+502,23,"Pau Gasol, PF",Memphis Grizzlies,"$13,735,000",2008
+503,24,"Andrei Kirilenko, SF",Utah Jazz,"$13,735,000",2008
+504,25,"Joe Johnson, G",Atlanta Hawks,"$13,488,378",2008
+505,26,"Zach Randolph, F",New York Knicks,"$13,333,333",2008
+506,27,"Vince Carter, G",New Jersey Nets,"$13,325,000",2008
+507,28,"Kenyon Martin, PF",Denver Nuggets,"$13,250,000",2008
+508,29,"Lamar Odom, PF",Los Angeles Lakers,"$13,248,596",2008
+509,30,"Carmelo Anthony, PF",Denver Nuggets,"$13,041,250",2008
+510,31,"Dwyane Wade, G",Miami Heat,"$13,041,250",2008
+511,32,"Chris Bosh, PF",Toronto Raptors,"$13,041,250",2008
+512,33,"LeBron James, SF",Cleveland Cavaliers,"$13,041,250",2008
+513,34,"Rasheed Wallace, PF",Detroit Pistons,"$12,540,000",2008
+514,35,"Raef LaFrentz, C",Portland Trail Blazers,"$12,440,787",2008
+515,36,"Wally Szczerbiak, SG",Seattle SuperSonics,"$12,275,000",2008
+516,37,"Richard Jefferson, F",New Jersey Nets,"$12,200,000",2008
+517,38,"Larry Hughes, SG",Cleveland Cavaliers,"$12,000,084",2008
+518,39,"Gilbert Arenas, PG",Washington Wizards,"$11,950,400",2008
+519,40,"Peja Stojakovic, SF",New Orleans Hornets,"$11,664,000",2008
+520,1,"Kevin Garnett, PF",Minnesota Timberwolves,"$21,000,000",2007
+521,2,"Shaquille O'Neal, C",Miami Heat,"$20,000,000",2007
+522,3,"Jason Kidd, PG",New Jersey Nets,"$18,084,000",2007
+523,4,"Jermaine O'Neal, C",Indiana Pacers,"$18,084,000",2007
+524,5,"Kobe Bryant, SF",Los Angeles Lakers,"$17,718,750",2007
+525,6,"Tim Duncan, C",San Antonio Spurs,"$17,429,673",2007
+526,7,"Allen Iverson, SG",Philadelphia 76ers,"$17,184,375",2007
+527,8,"Stephon Marbury, PG",New York Knicks,"$17,184,375",2007
+528,9,"Tracy McGrady, SG",Houston Rockets,"$16,901,500",2007
+529,10,"Grant Hill, SF",Orlando Magic,"$16,901,500",2007
+530,11,"Ben Wallace, PF",Chicago Bulls,"$16,000,000",2007
+531,12,"Paul Pierce, SF",Boston Celtics,"$15,101,626",2007
+532,13,"Antawn Jamison, PF",Washington Wizards,"$15,101,626",2007
+533,14,"Vince Carter, G",New Jersey Nets,"$15,101,626",2007
+534,15,"Dirk Nowitzki, F",Dallas Mavericks,"$15,101,622",2007
+535,16,"Steve Francis, PG",New York Knicks,"$15,070,000",2007
+536,17,"Baron Davis, PG",Golden State Warriors,"$15,070,000",2007
+537,18,"Shawn Marion, SG",Phoenix Suns,"$15,070,000",2007
+538,19,"Ray Allen, SG",Seattle SuperSonics,"$14,611,570",2007
+539,20,"Elton Brand, PF",LA Clippers,"$14,248,000",2007
+540,21,"Larry Hughes, SG",Cleveland Cavaliers,"$13,363,012",2007
+541,22,"Michael Redd, SG",Milwaukee Bucks,"$13,260,000",2007
+542,23,"Joe Johnson, G",Atlanta Hawks,"$12,744,190",2007
+543,24,"Mike Bibby, PG",Sacramento Kings,"$12,500,000",2007
+544,25,"Amar'e Stoudemire, C",Phoenix Suns,"$12,455,000",2007
+545,26,"Yao Ming, C",Houston Rockets,"$12,455,000",2007
+546,27,"Pau Gasol, PF",Memphis Grizzlies,"$12,364,000",2007
+547,28,"Andrei Kirilenko, SF",Utah Jazz,"$12,364,000",2007
+548,29,"Lamar Odom, PF",Los Angeles Lakers,"$12,348,596",2007
+549,30,"Kenyon Martin, PF",Denver Nuggets,"$12,068,182",2007
+550,31,"Zach Randolph, F",Portland Trail Blazers,"$12,000,000",2007
+551,32,"Wally Szczerbiak, SG",Boston Celtics,"$11,775,000",2007
+552,33,"Theo Ratliff, C",Boston Celtics,"$11,666,666",2007
+553,34,"Rasheed Wallace, PF",Detroit Pistons,"$11,650,000",2007
+554,35,"Raef LaFrentz, C",Portland Trail Blazers,"$11,532,037",2007
+555,36,"Carlos Boozer, PF",Utah Jazz,"$11,260,483",2007
+556,37,"Richard Jefferson, F",New Jersey Nets,"$11,200,000",2007
+557,38,"Gilbert Arenas, PG",Washington Wizards,"$11,096,800",2007
+558,39,"Peja Stojakovic, SF",NO/Oklahoma City Hornets,"$10,800,000",2007
+559,40,"Steve Nash, PG",Phoenix Suns,"$10,500,000",2007
+560,1,"Shaquille O'Neal, C",Miami Heat,"$20,000,000",2006
+561,2,"Chris Webber, C",Philadelphia 76ers,"$19,125,000",2006
+562,3,"Kevin Garnett, PF",Minnesota Timberwolves,"$18,000,000",2006
+563,4,"Allen Iverson, SG",Philadelphia 76ers,"$16,453,125",2006
+564,5,"Stephon Marbury, PG",New York Knicks,"$16,453,125",2006
+565,6,"Jason Kidd, PG",New Jersey Nets,"$16,440,000",2006
+566,7,"Jermaine O'Neal, C",Indiana Pacers,"$16,440,000",2006
+567,8,"Kobe Bryant, SF",Los Angeles Lakers,"$15,946,875",2006
+568,9,"Tim Duncan, C",San Antonio Spurs,"$15,845,157",2006
+569,10,"Vin Baker, PF",LA Clippers,"$15,750,000",2006
+570,11,"Anfernee Hardaway, SF",Orlando Magic,"$15,750,000",2006
+571,12,"Tracy McGrady, SG",Houston Rockets,"$15,694,250",2006
+572,13,"Jalen Rose, SG",Toronto Raptors,"$15,694,250",2006
+573,14,"Keith Van Horn, PF",Dallas Mavericks,"$15,694,250",2006
+574,15,"Grant Hill, SF",Orlando Magic,"$15,694,250",2006
+575,16,"Eddie Jones, SG",Memphis Grizzlies,"$14,666,250",2006
+576,17,"Tim Thomas, PF",Phoenix Suns,"$13,975,000",2006
+577,18,"Antonio Davis, PF",Toronto Raptors,"$13,865,000",2006
+578,19,"Paul Pierce, SF",Boston Celtics,"$13,843,156",2006
+579,20,"Dirk Nowitzki, F",Dallas Mavericks,"$13,843,156",2006
+580,21,"Antawn Jamison, PF",Washington Wizards,"$13,843,156",2006
+581,22,"Vince Carter, G",New Jersey Nets,"$13,843,156",2006
+582,23,"Steve Francis, PG",Orlando Magic,"$13,700,000",2006
+583,24,"Baron Davis, PG",Golden State Warriors,"$13,700,000",2006
+584,25,"Shawn Marion, SG",Phoenix Suns,"$13,700,000",2006
+585,26,"Ray Allen, SG",Seattle SuperSonics,"$13,223,140",2006
+586,27,"Elton Brand, PF",LA Clippers,"$13,152,000",2006
+587,28,"Michael Redd, SG",Milwaukee Bucks,"$12,000,000",2006
+588,29,"Joe Johnson, G",Atlanta Hawks,"$12,000,000",2006
+589,30,"Theo Ratliff, C",Portland Trail Blazers,"$11,666,666",2006
+590,31,"Mike Bibby, PG",Sacramento Kings,"$11,500,000",2006
+591,32,"Lamar Odom, PF",Los Angeles Lakers,"$11,448,596",2006
+592,33,"Carlos Boozer, PF",Utah Jazz,"$11,260,483",2006
+593,34,"Pau Gasol, PF",Memphis Grizzlies,"$10,993,000",2006
+594,35,"Andrei Kirilenko, SF",Utah Jazz,"$10,983,000",2006
+595,36,"Kenyon Martin, PF",Denver Nuggets,"$10,886,364",2006
+596,37,"Rasheed Wallace, PF",Detroit Pistons,"$10,860,000",2006
+597,38,"Zach Randolph, F",Portland Trail Blazers,"$10,666,667",2006
+598,39,"Raef LaFrentz, C",Boston Celtics,"$10,623,288",2006
+599,40,"Wally Szczerbiak, SG",Minnesota Timberwolves,"$10,500,000",2006
+600,1,"Shaquille O'Neal, C",Miami Heat,"$29,464,000",2005
+601,2,"Dikembe Mutombo, C",Houston Rockets,"$19,684,000",2005
+602,3,"Allan Houston, SG",New York Knicks,"$17,531,000",2005
+603,4,"Chris Webber, C",Sacramento Kings,"$17,351,000",2005
+604,5,"Damon Stoudamire, PG",Portland Trail Blazers,"$15,750,000",2005
+605,6,"Antoine Walker, PF",Boston Celtics,"$14,625,000",2005
+606,7,"Shareef Abdur-Rahim, PF",Portland Trail Blazers,"$14,625,000",2005
+607,8,"Allen Iverson, SG",Philadelphia 76ers,"$14,625,000",2005
+608,9,"Latrell Sprewell, SG",Minnesota Timberwolves,"$14,625,000",2005
+609,10,"Vin Baker, PF",New York Knicks,"$14,625,000",2005
+610,11,"Zydrunas Ilgauskas, C",Cleveland Cavaliers,"$14,625,000",2005
+611,12,"Anfernee Hardaway, SF",New York Knicks,"$14,625,000",2005
+612,13,"Ray Allen, SG",Seattle SuperSonics,"$14,625,000",2005
+613,14,"Kobe Bryant, SF",Los Angeles Lakers,"$14,625,000",2005
+614,15,"Stephon Marbury, PG",New York Knicks,"$14,625,000",2005
+615,16,"Michael Finley, SG",Dallas Mavericks,"$14,609,000",2005
+616,17,"Tracy McGrady, SG",Houston Rockets,"$14,487,000",2005
+617,18,"Jalen Rose, SG",Toronto Raptors,"$14,487,000",2005
+618,19,"Keith Van Horn, PF",Milwaukee Bucks,"$14,487,000",2005
+619,20,"Grant Hill, SF",Orlando Magic,"$14,487,000",2005
+620,21,"Eddie Jones, SG",Miami Heat,"$13,440,000",2005
+621,22,"Brian Grant, PF",Los Angeles Lakers,"$13,346,000",2005
+622,23,"Vince Carter, G",Toronto Raptors,"$13,281,000",2005
+623,24,"Tim Thomas, PF",New York Knicks,"$12,900,000",2005
+624,25,"Antonio Davis, PF",Chicago Bulls,"$12,000,000",2005
+625,26,"Glenn Robinson, SF",San Antonio Spurs,"$12,000,000",2005
+626,27,"Nick Van Exel, PG",Portland Trail Blazers,"$11,821,000",2005
+627,28,"Theo Ratliff, C",Portland Trail Blazers,"$10,937,000",2005
+628,29,"Kerry Kittles, SG",LA Clippers,"$9,817,000",2005
+629,30,"Jamal Mashburn, SF",Philadelphia 76ers,"$9,300,000",2005
+630,31,"Maurice Taylor, PF",New York Knicks,"$8,450,000",2005
+631,32,"Derek Anderson, SG",Portland Trail Blazers,"$8,444,000",2005
+632,33,"Alan Henderson, PF",Dallas Mavericks,"$8,273,000",2005
+633,34,"Austin Croshere, PF",Indiana Pacers,"$8,260,000",2005
+634,35,"Erick Dampier, C",Dallas Mavericks,"$8,105,000",2005
+635,36,"Kelvin Cato, C",Orlando Magic,"$7,992,000",2005
+636,37,"Marcus Camby, C",Denver Nuggets,"$7,750,000",2005
+637,38,"Shandon Anderson, SF",New York Knicks,"$7,300,000",2005
+638,39,"Lorenzen Wright, PF",Memphis Grizzlies,"$7,150,000",2005
+639,40,"Jerry Stackhouse, SF",Dallas Mavericks,"$7,000,000",2005
+640,1,"Kevin Garnett, PF",Minnesota Timberwolves,"$28,000,000",2004
+641,2,"Shaquille O'Neal, C",Los Angeles Lakers,"$26,571,000",2004
+642,3,"Rasheed Wallace, PF",Portland Trail Blazers,"$18,000,000",2004
+643,4,"Dikembe Mutombo, C",New York Knicks,"$17,895,000",2004
+644,5,"Allan Houston, SG",New York Knicks,"$15,937,000",2004
+645,6,"Chris Webber, C",Sacramento Kings,"$15,937,000",2004
+646,7,"Damon Stoudamire, PG",Portland Trail Blazers,"$14,625,000",2004
+647,8,"Antoine Walker, PF",Dallas Mavericks,"$13,500,000",2004
+648,9,"Antonio McDyess, PF",Phoenix Suns,"$13,500,000",2004
+649,10,"Shareef Abdur-Rahim, PF",Portland Trail Blazers,"$13,500,000",2004
+650,11,"Allen Iverson, SG",Philadelphia 76ers,"$13,500,000",2004
+651,12,"Latrell Sprewell, SG",Minnesota Timberwolves,"$13,500,000",2004
+652,13,"Vin Baker, PF",New York Knicks,"$13,500,000",2004
+653,14,"Zydrunas Ilgauskas, C",Cleveland Cavaliers,"$13,500,000",2004
+654,15,"Anfernee Hardaway, SF",Phoenix Suns,"$13,500,000",2004
+655,16,"Ray Allen, SG",Seattle SuperSonics,"$13,500,000",2004
+656,17,"Kobe Bryant, SF",Los Angeles Lakers,"$13,500,000",2004
+657,18,"Stephon Marbury, PG",Phoenix Suns,"$13,500,000",2004
+658,19,"Michael Finley, SG",Dallas Mavericks,"$13,281,000",2004
+659,20,"Keith Van Horn, PF",New York Knicks,"$13,280,000",2004
+660,21,"Tracy McGrady, SG",Orlando Magic,"$13,279,000",2004
+661,22,"Tim Duncan, C",San Antonio Spurs,"$13,279,000",2004
+662,23,"Jalen Rose, SG",Toronto Raptors,"$13,279,000",2004
+663,24,"Eddie Jones, SG",Miami Heat,"$12,320,000",2004
+664,25,"Brian Grant, PF",Miami Heat,"$12,234,000",2004
+665,26,"Vlade Divac, C",Sacramento Kings,"$12,051,000",2004
+666,27,"Antonio Davis, PF",Toronto Raptors,"$12,000,000",2004
+667,28,"Vince Carter, G",Toronto Raptors,"$11,953,000",2004
+668,29,"Tim Thomas, PF",New York Knicks,"$11,825,000",2004
+669,30,"Tom Gugliotta, PF",Utah Jazz,"$11,668,000",2004
+670,31,"Jason Kidd, PG",New Jersey Nets,"$10,950,000",2004
+671,32,"Nick Van Exel, PG",Golden State Warriors,"$10,912,000",2004
+672,33,"Glenn Robinson, SF",Philadelphia 76ers,"$10,730,000",2004
+673,34,"Theo Ratliff, C",Portland Trail Blazers,"$10,156,000",2004
+674,35,"Glen Rice, SF",LA Clippers,"$9,600,000",2004
+675,36,"Kerry Kittles, SG",New Jersey Nets,"$9,267,000",2004
+676,37,"Greg Ostertag, C",Utah Jazz,"$8,666,000",2004
+677,38,"Jamal Mashburn, SF",New Orleans Hornets,"$8,525,000",2004
+678,39,"Toni Kukoc, SF",Milwaukee Bucks,"$8,050,000",2004
+679,40,"Maurice Taylor, PF",Houston Rockets,"$7,800,000",2004
+680,1,"Kevin Garnett, PF",Minnesota Timberwolves,"$25,200,000",2003
+681,2,"Shaquille O'Neal, C",Los Angeles Lakers,"$23,571,000",2003
+682,3,"Shawn Kemp, C",Orlando Magic,"$21,500,000",2003
+683,4,"Juwan Howard, PF",Denver Nuggets,"$20,625,000",2003
+684,5,"Scottie Pippen, SF",Portland Trail Blazers,"$19,727,000",2003
+685,6,"Karl Malone, PF",Utah Jazz,"$19,250,000",2003
+686,7,"Rasheed Wallace, PF",Portland Trail Blazers,"$16,200,000",2003
+687,8,"Dikembe Mutombo, C",New Jersey Nets,"$16,105,000",2003
+688,9,"Chris Webber, C",Sacramento Kings,"$14,343,000",2003
+689,10,"Damon Stoudamire, PG",Portland Trail Blazers,"$13,500,000",2003
+690,11,"Gary Payton, PG",Seattle SuperSonics,"$13,080,000",2003
+691,12,"Antoine Walker, PF",Boston Celtics,"$12,375,000",2003
+692,13,"Shareef Abdur-Rahim, PF",Atlanta Hawks,"$12,375,000",2003
+693,14,"Allen Iverson, SG",Philadelphia 76ers,"$12,375,000",2003
+694,15,"Latrell Sprewell, SG",New York Knicks,"$12,375,000",2003
+695,16,"Vin Baker, PF",Boston Celtics,"$12,375,000",2003
+696,17,"Zydrunas Ilgauskas, C",Cleveland Cavaliers,"$12,375,000",2003
+697,18,"Anfernee Hardaway, SF",Phoenix Suns,"$12,375,000",2003
+698,19,"Ray Allen, SG",Seattle SuperSonics,"$12,375,000",2003
+699,20,"Kobe Bryant, SF",Los Angeles Lakers,"$12,375,000",2003
+700,21,"Stephon Marbury, PG",Phoenix Suns,"$12,375,000",2003
+701,22,"Tracy McGrady, SG",Orlando Magic,"$12,072,000",2003
+702,23,"Tim Duncan, C",San Antonio Spurs,"$12,072,000",2003
+703,24,"Jalen Rose, SG",Chicago Bulls,"$12,072,000",2003
+704,25,"Keith Van Horn, PF",Philadelphia 76ers,"$12,072,000",2003
+705,26,"Grant Hill, SF",Orlando Magic,"$12,072,000",2003
+706,27,"Reggie Miller, SG",Indiana Pacers,"$12,046,000",2003
+707,28,"Antonio Davis, PF",Toronto Raptors,"$12,000,000",2003
+708,29,"Michael Finley, SG",Dallas Mavericks,"$11,953,000",2003
+709,30,"Vlade Divac, C",Sacramento Kings,"$11,248,000",2003
+710,31,"Eddie Jones, SG",Miami Heat,"$11,200,000",2003
+711,32,"Brian Grant, PF",Miami Heat,"$11,121,000",2003
+712,33,"Allan Houston, SG",New York Knicks,"$11,000,000",2003
+713,34,"Tom Gugliotta, PF",Phoenix Suns,"$10,890,000",2003
+714,35,"Tim Thomas, PF",Milwaukee Bucks,"$10,750,000",2003
+715,36,"Vince Carter, G",Toronto Raptors,"$10,625,000",2003
+716,37,"David Robinson, C",San Antonio Spurs,"$10,500,000",2003
+717,38,"Nick Van Exel, PG",Dallas Mavericks,"$10,003,000",2003
+718,39,"Steve Smith, SG",San Antonio Spurs,"$9,900,000",2003
+719,40,"Glenn Robinson, SF",Atlanta Hawks,"$9,860,000",2003
+720,1,"Kevin Garnett, PF",Minnesota Timberwolves,"$22,400,000",2002
+721,2,"Shaquille O'Neal, C",Los Angeles Lakers,"$21,428,000",2002
+722,3,"Alonzo Mourning, C",Miami Heat,"$18,756,000",2002
+723,4,"Juwan Howard, PF",Denver Nuggets,"$18,750,000",2002
+724,5,"Scottie Pippen, SF",Portland Trail Blazers,"$18,083,000",2002
+725,6,"Karl Malone, PF",Utah Jazz,"$17,500,000",2002
+726,7,"Rasheed Wallace, PF",Portland Trail Blazers,"$14,400,000",2002
+727,8,"Dikembe Mutombo, C",Philadelphia 76ers,"$14,315,000",2002
+728,9,"Gary Payton, PG",Seattle SuperSonics,"$12,926,000",2002
+729,10,"Shawn Kemp, C",Portland Trail Blazers,"$12,770,000",2002
+730,11,"Chris Webber, C",Sacramento Kings,"$12,750,000",2002
+731,12,"Damon Stoudamire, PG",Portland Trail Blazers,"$12,375,000",2002
+732,13,"Reggie Miller, SG",Indiana Pacers,"$12,045,000",2002
+733,14,"Antonio McDyess, PF",Denver Nuggets,"$11,700,000",2002
+734,15,"Antoine Walker, PF",Boston Celtics,"$11,250,000",2002
+735,16,"Shareef Abdur-Rahim, PF",Atlanta Hawks,"$11,250,000",2002
+736,17,"Allen Iverson, SG",Philadelphia 76ers,"$11,250,000",2002
+737,18,"Latrell Sprewell, SG",New York Knicks,"$11,250,000",2002
+738,19,"Vin Baker, PF",Seattle SuperSonics,"$11,250,000",2002
+739,20,"Zydrunas Ilgauskas, C",Cleveland Cavaliers,"$11,250,000",2002
+740,21,"Anfernee Hardaway, SF",Phoenix Suns,"$11,250,000",2002
+741,22,"Ray Allen, SG",Milwaukee Bucks,"$11,250,000",2002
+742,23,"Kobe Bryant, SF",Los Angeles Lakers,"$11,250,000",2002
+743,24,"Stephon Marbury, PG",Phoenix Suns,"$11,250,000",2002
+744,25,"Antonio Davis, PF",Toronto Raptors,"$11,000,000",2002
+745,26,"Tracy McGrady, SG",Orlando Magic,"$10,865,000",2002
+746,27,"Tim Duncan, C",San Antonio Spurs,"$10,865,000",2002
+747,28,"Jalen Rose, SG",Indiana Pacers,"$10,865,000",2002
+748,29,"Keith Van Horn, PF",New Jersey Nets,"$10,865,000",2002
+749,30,"Grant Hill, SF",Orlando Magic,"$10,865,000",2002
+750,31,"Michael Finley, SG",Dallas Mavericks,"$10,625,000",2002
+751,32,"Vlade Divac, C",Sacramento Kings,"$10,444,000",2002
+752,33,"Tom Gugliotta, PF",Phoenix Suns,"$10,113,000",2002
+753,34,"Eddie Jones, SG",Miami Heat,"$10,080,000",2002
+754,35,"Brian Grant, PF",Miami Heat,"$10,009,000",2002
+755,36,"Allan Houston, SG",New York Knicks,"$10,000,000",2002
+756,37,"Tim Thomas, PF",Milwaukee Bucks,"$9,675,000",2002
+757,38,"David Robinson, C",San Antonio Spurs,"$9,500,000",2002
+758,39,"Terrell Brandon, PG",Minnesota Timberwolves,"$9,250,000",2002
+759,40,"Nick Van Exel, PG",Denver Nuggets,"$9,093,000",2002
+760,1,"Kevin Garnett, PF",Minnesota Timberwolves,"$19,600,000",2001
+761,2,"Shaquille O'Neal, C",Los Angeles Lakers,"$19,285,000",2001
+762,3,"Alonzo Mourning, C",Miami Heat,"$16,879,000",2001
+763,4,"Juwan Howard, PF",Washington Wizards,"$16,875,000",2001
+764,5,"Hakeem Olajuwon, C",Houston Rockets,"$16,685,000",2001
+765,6,"Karl Malone, PF",Utah Jazz,"$15,750,000",2001
+766,7,"Dikembe Mutombo, C",Philadelphia 76ers,"$14,422,000",2001
+767,8,"Patrick Ewing, C",Seattle SuperSonics,"$14,000,000",2001
+768,9,"David Robinson, C",San Antonio Spurs,"$13,196,000",2001
+769,10,"Scottie Pippen, SF",Portland Trail Blazers,"$13,151,000",2001
+770,11,"Rasheed Wallace, PF",Portland Trail Blazers,"$12,600,000",2001
+771,12,"Larry Johnson, F",New York Knicks,"$12,485,000",2001
+772,13,"Gary Payton, PG",Seattle SuperSonics,"$12,200,000",2001
+773,14,"Tim Hardaway, G",Miami Heat,"$12,000,000",2001
+774,15,"Chris Webber, C",Sacramento Kings,"$12,000,000",2001
+775,16,"Shawn Kemp, C",Portland Trail Blazers,"$11,720,000",2001
+776,17,"Damon Stoudamire, PG",Portland Trail Blazers,"$11,250,000",2001
+777,18,"John Stockton, G",Utah Jazz,"$11,000,000",2001
+778,19,"Antonio McDyess, PF",Denver Nuggets,"$10,800,000",2001
+779,20,"Reggie Miller, SG",Indiana Pacers,"$10,666,000",2001
+780,21,"Arvydas Sabonis, C",Portland Trail Blazers,"$10,636,000",2001
+781,22,"Zydrunas Ilgauskas, C",Cleveland Cavaliers,"$10,130,000",2001
+782,23,"Anfernee Hardaway, SF",Phoenix Suns,"$10,130,000",2001
+783,24,"Stephon Marbury, PG",New Jersey Nets,"$10,130,000",2001
+784,25,"Antoine Walker, PF",Boston Celtics,"$10,125,000",2001
+785,26,"Shareef Abdur-Rahim, PF",Vancouver Grizzlies,"$10,125,000",2001
+786,27,"Allen Iverson, SG",Philadelphia 76ers,"$10,125,000",2001
+787,28,"Latrell Sprewell, SG",New York Knicks,"$10,125,000",2001
+788,29,"Vin Baker, PF",Seattle SuperSonics,"$10,125,000",2001
+789,30,"Ray Allen, SG",Milwaukee Bucks,"$10,125,000",2001
+790,31,"Kobe Bryant, SF",Los Angeles Lakers,"$10,125,000",2001
+791,32,"Bryant Reeves, C",Vancouver Grizzlies,"$10,110,000",2001
+792,33,"Tracy McGrady, SG",Orlando Magic,"$9,658,000",2001
+793,34,"Tim Duncan, C",San Antonio Spurs,"$9,658,000",2001
+794,35,"Jalen Rose, SG",Indiana Pacers,"$9,658,000",2001
+795,36,"Grant Hill, SF",Orlando Magic,"$9,658,000",2001
+796,37,"Vlade Divac, C",Sacramento Kings,"$9,641,000",2001
+797,38,"Tom Gugliotta, PF",Phoenix Suns,"$9,336,000",2001
+798,39,"Allan Houston, SG",New York Knicks,"$9,000,000",2001
+799,40,"Keith Van Horn, PF",New Jersey Nets,"$9,000,000",2001
+800,1,"Shaquille O'Neal, C",Los Angeles Lakers,"$17,142,000",2000
+801,2,"Kevin Garnett, PF",Minnesota Timberwolves,"$16,806,000",2000
+802,3,"Alonzo Mourning, C",Miami Heat,"$15,004,000",2000
+803,4,"Juwan Howard, PF",Washington Wizards,"$15,000,000",2000
+804,5,"Scottie Pippen, SF",Portland Trail Blazers,"$14,795,000",2000
+805,6,"Karl Malone, PF",Utah Jazz,"$14,000,000",2000
+806,7,"Larry Johnson, F",New York Knicks,"$11,910,000",2000
+807,8,"Gary Payton, PG",Seattle SuperSonics,"$11,020,000",2000
+808,9,"Rasheed Wallace, PF",Portland Trail Blazers,"$10,800,000",2000
+809,10,"Shawn Kemp, C",Cleveland Cavaliers,"$10,780,000",2000
+810,11,"Damon Stoudamire, PG",Portland Trail Blazers,"$10,125,000",2000
+811,12,"Antonio McDyess, PF",Denver Nuggets,"$9,900,000",2000
+812,13,"Antoine Walker, PF",Boston Celtics,"$9,000,000",2000
+813,14,"Shareef Abdur-Rahim, PF",Vancouver Grizzlies,"$9,000,000",2000
+814,15,"Allen Iverson, SG",Philadelphia 76ers,"$9,000,000",2000
+815,16,"Vin Baker, PF",Seattle SuperSonics,"$9,000,000",2000
+816,17,"Anfernee Hardaway, SF",Phoenix Suns,"$9,000,000",2000
+817,18,"Ray Allen, SG",Milwaukee Bucks,"$9,000,000",2000
+818,19,"Kobe Bryant, SF",Los Angeles Lakers,"$9,000,000",2000
+819,20,"Stephon Marbury, PG",New Jersey Nets,"$9,000,000",2000
+820,21,"Vlade Divac, C",Sacramento Kings,"$8,837,000",2000
+821,22,"Bryant Reeves, C",Vancouver Grizzlies,"$8,666,000",2000
+822,23,"Tom Gugliotta, PF",Phoenix Suns,"$8,558,000",2000
+823,24,"Nick Van Exel, PG",Denver Nuggets,"$8,354,000",2000
+824,25,"Elden Campbell, C",Charlotte Hornets,"$7,975,000",2000
+825,26,"Terrell Brandon, PG",Minnesota Timberwolves,"$7,400,000",2000
+826,27,"Derrick Coleman, PF",Charlotte Hornets,"$7,370,000",2000
+827,28,"Glenn Robinson, SF",Milwaukee Bucks,"$7,250,000",2000
+828,29,"Steve Smith, SG",Portland Trail Blazers,"$7,200,000",2000
+829,30,"Kerry Kittles, SG",New Jersey Nets,"$7,166,000",2000
+830,31,"Chris Dudley, C",New York Knicks,"$7,100,000",2000
+831,32,"Theo Ratliff, C",Philadelphia 76ers,"$7,031,000",2000
+832,33,"Matt Geiger, C",Philadelphia 76ers,"$6,889,000",2000
+833,34,"Jason Kidd, PG",Phoenix Suns,"$6,858,000",2000
+834,35,"Kenny Anderson, PG",Boston Celtics,"$6,680,000",2000
+835,36,"Tyrone Hill, PF",Philadelphia 76ers,"$6,422,000",2000
+836,37,"Clifford Robinson, PF",Phoenix Suns,"$6,125,000",2000
+837,38,"Jamal Mashburn, SF",Miami Heat,"$5,600,000",2000
+838,39,"Steve Nash, PG",Dallas Mavericks,"$5,500,000",2000
+839,40,"Alan Henderson, PF",Atlanta Hawks,"$5,318,000",2000
