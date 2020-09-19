@@ -133,5 +133,5 @@ config.py
 test_files/
 /test_files
 /test_files/
-.ipynb_checkpoints
-_pycache_
+/.ipynb_checkpoints/
+/_pycache_/
