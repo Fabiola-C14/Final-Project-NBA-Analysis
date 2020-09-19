@@ -1,0 +1,841 @@
+Position,Player,Team,Salary,Year
+ PG,Stephen Curry,Golden State Warriors,40231758,2020
+ PG,Chris Paul,Oklahoma City Thunder,38506482,2020
+ PG,Russell Westbrook,Houston Rockets,38506482,2020
+ PG,John Wall,Washington Wizards,38199000,2020
+ SF,Kevin Durant,Brooklyn Nets,38199000,2020
+ SG,James Harden,Houston Rockets,38199000,2020
+ SF,LeBron James,Los Angeles Lakers,37436858,2020
+ PG,Kyle Lowry,Toronto Raptors,34996296,2020
+ PF,Blake Griffin,Detroit Pistons,34449964,2020
+ SF,Tobias Harris,Philadelphia 76ers,32742000,2020
+ SF,Jimmy Butler,Miami Heat,32742000,2020
+ SF,Kawhi Leonard,LA Clippers,32742000,2020
+ SG,Klay Thompson,Golden State Warriors,32742000,2020
+ PG,Kemba Walker,Boston Celtics,32742000,2020
+ SF,Gordon Hayward,Boston Celtics,32700690,2020
+ PG,Mike Conley,Utah Jazz,32511624,2020
+ PG,Kyrie Irving,Brooklyn Nets,31742000,2020
+ SF,Khris Middleton,Milwaukee Bucks,30603448,2020
+ SG,Paul George,LA Clippers,30560700,2020
+ PF,Paul Millsap,Denver Nuggets,30350000,2020
+ PG,Damian Lillard,Portland Trail Blazers,29802321,2020
+ PF,Kevin Love,Cleveland Cavaliers,28942830,2020
+ PF,Al Horford,Philadelphia 76ers,28000000,2020
+ C,Nikola Vucevic,Orlando Magic,28000000,2020
+ SF,DeMar DeRozan,San Antonio Spurs,27739975,2020
+ SG,CJ McCollum,Portland Trail Blazers,27556959,2020
+ C,Joel Embiid,Philadelphia 76ers,27504630,2020
+ SF,Andrew Wiggins,Minnesota Timberwolves,27504630,2020
+ C,Nikola Jokic,Denver Nuggets,27504630,2020
+ SG,Devin Booker,Phoenix Suns,27285000,2020
+ SG,D'Angelo Russell,Minnesota Timberwolves,27285000,2020
+ C,Karl-Anthony Towns,Minnesota Timberwolves,27285000,2020
+ PF,Kristaps Porzingis,Dallas Mavericks,27285000,2020
+ SF,Otto Porter Jr.,Chicago Bulls,27250575,2020
+ SG,Bradley Beal,Washington Wizards,27093019,2020
+ C,Andre Drummond,Detroit Pistons,27093019,2020
+ PF,Anthony Davis,Los Angeles Lakers,27093018,2020
+ C,Hassan Whiteside,Portland Trail Blazers,27093017,2020
+ SG,Jrue Holiday,New Orleans Pelicans,26231111,2020
+ PF,LaMarcus Aldridge,San Antonio Spurs,26000000,2020
+ PG,Stephen Curry,Golden State Warriors,37457154,2019
+ PG,Chris Paul,Houston Rockets,35654150,2019
+ SF,LeBron James,Los Angeles Lakers,35654150,2019
+ PG,Russell Westbrook,Oklahoma City Thunder,35654150,2019
+ PF,Blake Griffin,Detroit Pistons,32088932,2019
+ SF,Gordon Hayward,Boston Celtics,31214295,2019
+ PG,Kyle Lowry,Toronto Raptors,31200000,2019
+ SG,Paul George,Oklahoma City Thunder,30560700,2019
+ PG,Mike Conley,Memphis Grizzlies,30521115,2019
+ SG,James Harden,Houston Rockets,30421854,2019
+ SF,Kevin Durant,Golden State Warriors,30000000,2019
+ PF,Paul Millsap,Denver Nuggets,29230769,2019
+ PF,Al Horford,Boston Celtics,28928709,2019
+ PG,Damian Lillard,Portland Trail Blazers,27977689,2019
+ SF,DeMar DeRozan,San Antonio Spurs,27739975,2019
+ SF,Otto Porter Jr.,Washington Wizards,26011913,2019
+ SG,Jrue Holiday,New Orleans Pelicans,25976111,2019
+ SG,CJ McCollum,Portland Trail Blazers,25759766,2019
+ C,Joel Embiid,Philadelphia 76ers,25467250,2019
+ SF,Andrew Wiggins,Minnesota Timberwolves,25467250,2019
+ SG,Bradley Beal,Washington Wizards,25434263,2019
+ PF,Anthony Davis,New Orleans Pelicans,25434263,2019
+ C,Andre Drummond,Detroit Pistons,25434263,2019
+ C,Hassan Whiteside,Miami Heat,25434262,2019
+ C,Nikola Jokic,Denver Nuggets,24605181,2019
+ C,Steven Adams,Oklahoma City Thunder,24157303,2019
+ PF,Giannis Antetokounmpo,Milwaukee Bucks,24157303,2019
+ C,Marc Gasol,Memphis Grizzlies,24119025,2019
+ PF,Kevin Love,Cleveland Cavaliers,24119025,2019
+ SF,Harrison Barnes,Sacramento Kings,24107258,2019
+ SF,Chandler Parsons,Memphis Grizzlies,24107258,2019
+ SG,Nicolas Batum,Charlotte Hornets,24000000,2019
+ C,Rudy Gobert,Utah Jazz,23241573,2019
+ SF,Kawhi Leonard,Toronto Raptors,23114067,2019
+ C,DeAndre Jordan,New York Knicks,22897200,2019
+ PF,LaMarcus Aldridge,San Antonio Spurs,22347015,2019
+ C,Serge Ibaka,Toronto Raptors,21666667,2019
+ PF,Aaron Gordon,Orlando Magic,21590909,2019
+ PF,Danilo Gallinari,LA Clippers,21587579,2019
+ SG,Victor Oladipo,Indiana Pacers,21000000,2019
+ PG,Stephen Curry,Golden State Warriors,37457154,2018
+ PF,Blake Griffin,LA Clippers,32088932,2018
+ PF,Paul Millsap,Denver Nuggets,31269231,2018
+ PG,Kyle Lowry,Toronto Raptors,31200000,2018
+ SF,Gordon Hayward,Boston Celtics,29727900,2018
+ PG,Mike Conley,Memphis Grizzlies,28530608,2018
+ PG,Russell Westbrook,Oklahoma City Thunder,28530608,2018
+ SG,James Harden,Houston Rockets,28299399,2018
+ SF,DeMar DeRozan,Toronto Raptors,27739975,2018
+ PF,Al Horford,Boston Celtics,27734406,2018
+ PF,Carmelo Anthony,Oklahoma City Thunder,26243760,2018
+ PG,Damian Lillard,Portland Trail Blazers,26153057,2018
+ SF,Otto Porter Jr.,Washington Wizards,26011913,2018
+ SG,Jrue Holiday,New Orleans Pelicans,25686667,2018
+ SG,Bradley Beal,Washington Wizards,25434263,2018
+ C,Andre Drummond,Detroit Pistons,25434263,2018
+ C,Hassan Whiteside,Miami Heat,25434262,2018
+ C,Joel Embiid,Philadelphia 76ers,25250000,2018
+ PG,Chris Paul,Houston Rockets,24599495,2018
+ PF,Giannis Antetokounmpo,Milwaukee Bucks,24157303,2018
+ PF,Kevin Love,Cleveland Cavaliers,24119025,2018
+ SG,Nicolas Batum,Charlotte Hornets,24000000,2018
+ SG,CJ McCollum,Portland Trail Blazers,23962573,2018
+ C,Dwight Howard,Charlotte Hornets,23819725,2018
+ PF,Anthony Davis,New Orleans Pelicans,23775506,2018
+ SF,Harrison Barnes,Dallas Mavericks,23112004,2018
+ SF,Chandler Parsons,Memphis Grizzlies,23112004,2018
+ C,Brook Lopez,Los Angeles Lakers,22642650,2018
+ C,Marc Gasol,Memphis Grizzlies,22642350,2018
+ C,DeAndre Jordan,LA Clippers,22642350,2018
+ C,Steven Adams,Oklahoma City Thunder,22471910,2018
+ C,Rudy Gobert,Utah Jazz,21924719,2018
+ C,Serge Ibaka,Toronto Raptors,21666667,2018
+ PF,LaMarcus Aldridge,San Antonio Spurs,21461010,2018
+ SG,Victor Oladipo,Indiana Pacers,21000000,2018
+ PF,Danilo Gallinari,LA Clippers,20559599,2018
+ PF,Ryan Anderson,Houston Rockets,19578455,2018
+ SG,Paul George,Oklahoma City Thunder,19508958,2018
+ SF,Jimmy Butler,Minnesota Timberwolves,19301070,2018
+ SG,Tyler Johnson,Miami Heat,19245370,2018
+ SF,LeBron James,Cleveland Cavaliers,30963450,2017
+ PG,Mike Conley,Memphis Grizzlies,26540100,2017
+ SF,DeMar DeRozan,Toronto Raptors,26540100,2017
+ PF,Al Horford,Boston Celtics,26540100,2017
+ SF,Kevin Durant,Golden State Warriors,26540100,2017
+ SG,James Harden,Houston Rockets,26540100,2017
+ PG,Russell Westbrook,Oklahoma City Thunder,26540100,2017
+ F,Dirk Nowitzki,Dallas Mavericks,25000000,2017
+ PF,Carmelo Anthony,New York Knicks,24559380,2017
+ PG,Damian Lillard,Portland Trail Blazers,24328425,2017
+ PF,Chris Bosh,Miami Heat,23741060,2017
+ G,Dwyane Wade,Chicago Bulls,23200000,2017
+ C,Dwight Howard,Atlanta Hawks,23180275,2017
+ PG,Chris Paul,LA Clippers,22868827,2017
+ SG,Bradley Beal,Washington Wizards,22116750,2017
+ SF,Harrison Barnes,Dallas Mavericks,22116750,2017
+ C,Hassan Whiteside,Miami Heat,22116750,2017
+ PF,Anthony Davis,New Orleans Pelicans,22116750,2017
+ C,Andre Drummond,Detroit Pistons,22116750,2017
+ SF,Chandler Parsons,Memphis Grizzlies,22116750,2017
+ PG,Derrick Rose,New York Knicks,21323252,2017
+ C,Marc Gasol,Memphis Grizzlies,21165675,2017
+ C,DeAndre Jordan,LA Clippers,21165675,2017
+ C,Brook Lopez,Brooklyn Nets,21165675,2017
+ PF,Kevin Love,Cleveland Cavaliers,21165675,2017
+ SG,Nicolas Batum,Charlotte Hornets,20869566,2017
+ PF,LaMarcus Aldridge,San Antonio Spurs,20575005,2017
+ PF,Blake Griffin,LA Clippers,20140839,2017
+ PF,Paul Millsap,Atlanta Hawks,20072033,2017
+ PF,Ryan Anderson,Houston Rockets,18735364,2017
+ G,Allen Crabbe,Portland Trail Blazers,18500000,2017
+ SG,Paul George,Indiana Pacers,18314532,2017
+ F,Luol Deng,Los Angeles Lakers,18000000,2017
+ PG,Kyrie Irving,Cleveland Cavaliers,17638063,2017
+ SF,Kawhi Leonard,San Antonio Spurs,17638063,2017
+ SF,Jimmy Butler,Chicago Bulls,17552209,2017
+ SF,Tobias Harris,Detroit Pistons,17200000,2017
+ C,Greg Monroe,Milwaukee Bucks,17145838,2017
+ SG,Wesley Matthews,Dallas Mavericks,17145838,2017
+ C,Enes Kanter,Oklahoma City Thunder,17145838,2017
+ SF,Kobe Bryant,Los Angeles Lakers,25000000,2016
+ SF,LeBron James,Cleveland Cavaliers,22970500,2016
+ PF,Carmelo Anthony,New York Knicks,22875000,2016
+ C,Dwight Howard,Houston Rockets,22359364,2016
+ PF,Chris Bosh,Miami Heat,22192730,2016
+ PG,Chris Paul,LA Clippers,21468695,2016
+ SF,Kevin Durant,Oklahoma City Thunder,20158622,2016
+ PG,Derrick Rose,Chicago Bulls,20093064,2016
+ G,Dwyane Wade,Miami Heat,20000000,2016
+ PF,LaMarcus Aldridge,San Antonio Spurs,19689000,2016
+ C,DeAndre Jordan,LA Clippers,19689000,2016
+ C,Brook Lopez,Brooklyn Nets,19689000,2016
+ PF,Kevin Love,Cleveland Cavaliers,19689000,2016
+ C,Marc Gasol,Memphis Grizzlies,19688000,2016
+ PF,Blake Griffin,LA Clippers,18907726,2016
+ PF,Paul Millsap,Atlanta Hawks,18671659,2016
+ SG,Paul George,Indiana Pacers,17120106,2016
+ PG,Russell Westbrook,Oklahoma City Thunder,16744218,2016
+ PG,Kyrie Irving,Cleveland Cavaliers,16407501,2016
+ C,Greg Monroe,Milwaukee Bucks,16407500,2016
+ SG,Wesley Matthews,Dallas Mavericks,16407500,2016
+ SF,Jimmy Butler,Chicago Bulls,16407500,2016
+ SF,Kawhi Leonard,San Antonio Spurs,16407500,2016
+ C,Enes Kanter,Oklahoma City Thunder,16407500,2016
+ SF,Tobias Harris,Orlando Magic,16000000,2016
+ PG,John Wall,Washington Wizards,15851950,2016
+ C,DeMarcus Cousins,Sacramento Kings,15851950,2016
+ SG,James Harden,Houston Rockets,15756438,2016
+ C,Roy Hibbert,Los Angeles Lakers,15592217,2016
+ SG,Eric Gordon,New Orleans Pelicans,15514031,2016
+ SG,Klay Thompson,Golden State Warriors,15501000,2016
+ SF,Gordon Hayward,Utah Jazz,15409570,2016
+ SF,Chandler Parsons,Dallas Mavericks,15361500,2016
+ PG,Goran Dragic,Miami Heat,14783000,2016
+ SF,Khris Middleton,Milwaukee Bucks,14700000,2016
+ PF,Draymond Green,Golden State Warriors,14260870,2016
+ C,Tristan Thompson,Cleveland Cavaliers,14260870,2016
+ PF,Danilo Gallinari,Denver Nuggets,14000000,2016
+ PG,Reggie Jackson,Detroit Pistons,13913044,2016
+ C,Andrew Bogut,Golden State Warriors,13800000,2016
+ SF,Kobe Bryant,Los Angeles Lakers,23500000,2015
+ G,Joe Johnson,Brooklyn Nets,23180790,2015
+ PF,Carmelo Anthony,New York Knicks,22458401,2015
+ C,Dwight Howard,Houston Rockets,21436271,2015
+ PF,Chris Bosh,Miami Heat,20644400,2015
+ SF,LeBron James,Cleveland Cavaliers,20644400,2015
+ PG,Chris Paul,LA Clippers,20068563,2015
+ PG,Deron Williams,Brooklyn Nets,19754465,2015
+ SF,Rudy Gay,Sacramento Kings,19317326,2015
+ SF,Kevin Durant,Oklahoma City Thunder,18995624,2015
+ PG,Derrick Rose,Chicago Bulls,18862876,2015
+ PF,Blake Griffin,LA Clippers,17674613,2015
+ F,Zach Randolph,Memphis Grizzlies,16500000,2015
+ PF,LaMarcus Aldridge,Portland Trail Blazers,16006000,2015
+ SG,Paul George,Indiana Pacers,15937290,2015
+ C,Marc Gasol,Memphis Grizzlies,15829688,2015
+ PF,Kevin Love,Cleveland Cavaliers,15719063,2015
+ C,Brook Lopez,Brooklyn Nets,15719062,2015
+ PG,Russell Westbrook,Oklahoma City Thunder,15719062,2015
+ PF,David Lee,Golden State Warriors,15012000,2015
+ G,Dwyane Wade,Miami Heat,15000000,2015
+ SG,Eric Gordon,New Orleans Pelicans,14898938,2015
+ C,Roy Hibbert,Indiana Pacers,14898938,2015
+ C,Tyson Chandler,Dallas Mavericks,14846888,2015
+ PG,John Wall,Washington Wizards,14746000,2015
+ C,DeMarcus Cousins,Sacramento Kings,14746000,2015
+ SF,Gordon Hayward,Utah Jazz,14746000,2015
+ SG,James Harden,Houston Rockets,14728844,2015
+ SF,Chandler Parsons,Dallas Mavericks,14700000,2015
+ C,Al Jefferson,Charlotte Hornets,13500000,2015
+ PG,Eric Bledsoe,Phoenix Suns,13000000,2015
+ C,Nene Hilario,Washington Wizards,13000000,2015
+ C,Andrew Bogut,Golden State Warriors,12972973,2015
+ C,Derrick Favors,Utah Jazz,12950000,2015
+ PG,Rajon Rondo,Dallas Mavericks,12909090,2015
+ C,Joakim Noah,Chicago Bulls,12700000,2015
+ G,Tony Parker,San Antonio Spurs,12500000,2015
+ C,Serge Ibaka,Oklahoma City Thunder,12350000,2015
+ SG,Andre Iguodala,Golden State Warriors,12289544,2015
+ C,Nikola Pekovic,Minnesota Timberwolves,12100000,2015
+ SF,Kobe Bryant,Los Angeles Lakers,30453805,2014
+ F,Dirk Nowitzki,Dallas Mavericks,22721381,2014
+ C,Amar'e Stoudemire,New York Knicks,21679893,2014
+ G,Joe Johnson,Brooklyn Nets,21466718,2014
+ PF,Carmelo Anthony,New York Knicks,21388953,2014
+ C,Dwight Howard,Houston Rockets,20513178,2014
+ PF,Pau Gasol,Los Angeles Lakers,19285850,2014
+ PF,Chris Bosh,Miami Heat,19067500,2014
+ SF,LeBron James,Miami Heat,19067500,2014
+ G,Dwyane Wade,Miami Heat,18673000,2014
+ PG,Chris Paul,LA Clippers,18668431,2014
+ PG,Deron Williams,Brooklyn Nets,18466130,2014
+ F,Zach Randolph,Memphis Grizzlies,18238333,2014
+ SF,Rudy Gay,Toronto Raptors,17888932,2014
+ SF,Kevin Durant,Oklahoma City Thunder,17832627,2014
+ PG,Derrick Rose,Chicago Bulls,17632688,2014
+ PF,Blake Griffin,LA Clippers,16441500,2014
+ SF,Paul Pierce,Brooklyn Nets,15333334,2014
+ PF,Carlos Boozer,Chicago Bulls,15300000,2014
+ PF,LaMarcus Aldridge,Portland Trail Blazers,14878000,2014
+ C,Marc Gasol,Memphis Grizzlies,14860523,2014
+ C,Brook Lopez,Brooklyn Nets,14693906,2014
+ PG,Russell Westbrook,Oklahoma City Thunder,14693906,2014
+ PF,Kevin Love,Minnesota Timberwolves,14693906,2014
+ C,Emeka Okafor,Philadelphia 76ers,14487500,2014
+ SG,Eric Gordon,New Orleans Pelicans,14283844,2014
+ C,Roy Hibbert,Indiana Pacers,14283844,2014
+ F,Luol Deng,Cleveland Cavaliers,14275000,2014
+ C,Tyson Chandler,New York Knicks,14100538,2014
+ C,Andrew Bogut,Golden State Warriors,14000000,2014
+ PF,David Lee,Golden State Warriors,13878000,2014
+ SG,James Harden,Houston Rockets,13701250,2014
+ C,Al Jefferson,Charlotte Bobcats,13500000,2014
+ PF,Josh Smith,Detroit Pistons,13500000,2014
+ C,Nene Hilario,Washington Wizards,13000000,2014
+ SG,Andre Iguodala,Golden State Warriors,12868632,2014
+ G,Tony Parker,San Antonio Spurs,12500000,2014
+ PF,Kevin Garnett,Brooklyn Nets,12433735,2014
+ C,Serge Ibaka,Oklahoma City Thunder,12350000,2014
+ C,Nikola Pekovic,Minnesota Timberwolves,12100000,2014
+ SF,Kobe Bryant,Los Angeles Lakers,30453805,2013
+ F,Dirk Nowitzki,Dallas Mavericks,20907128,2013
+ C,Amar'e Stoudemire,New York Knicks,19948799,2013
+ G,Joe Johnson,Brooklyn Nets,19752645,2013
+ PF,Carmelo Anthony,New York Knicks,19444503,2013
+ PF,Pau Gasol,Los Angeles Lakers,19285850,2013
+ PF,Chris Bosh,Miami Heat,19067500,2013
+ SF,LeBron James,Miami Heat,19067500,2013
+ G,Dwyane Wade,Miami Heat,18673000,2013
+ PG,Chris Paul,LA Clippers,18668431,2013
+ SF,Kevin Durant,Oklahoma City Thunder,17832626,2013
+ PG,Derrick Rose,Chicago Bulls,17632688,2013
+ PG,Deron Williams,Brooklyn Nets,17177795,2013
+ C,Andrew Bynum,Philadelphia 76ers,16889000,2013
+ SF,Paul Pierce,Boston Celtics,16790345,2013
+ F,Zach Randolph,Memphis Grizzlies,16500000,2013
+ SF,Rudy Gay,Memphis Grizzlies,16460538,2013
+ PF,Carlos Boozer,Chicago Bulls,15300000,2013
+ SG,Andre Iguodala,Denver Nuggets,14968250,2013
+ PG,Russell Westbrook,Oklahoma City Thunder,14693906,2013
+ C,Emeka Okafor,Washington Wizards,14487500,2013
+ F,Luol Deng,Chicago Bulls,14275000,2013
+ G,Manu Ginobili,San Antonio Spurs,14107492,2013
+ C,Marc Gasol,Memphis Grizzlies,13891359,2013
+ PF,Blake Griffin,LA Clippers,13701250,2013
+ C,Brook Lopez,Brooklyn Nets,13668750,2013
+ SG,Eric Gordon,New Orleans Hornets,13668750,2013
+ C,Roy Hibbert,Indiana Pacers,13668750,2013
+ PF,Kevin Love,Minnesota Timberwolves,13668750,2013
+ C,Tyson Chandler,New York Knicks,13604188,2013
+ PF,LaMarcus Aldridge,Portland Trail Blazers,13500000,2013
+ C,Al Jefferson,Utah Jazz,13500000,2013
+ SG,Ben Gordon,Charlotte Bobcats,13200000,2013
+ PF,Josh Smith,Atlanta Hawks,13200000,2013
+ SF,Danny Granger,Indiana Pacers,13058606,2013
+ C,Andrew Bogut,Golden State Warriors,13000000,2013
+ C,Nene Hilario,Washington Wizards,13000000,2013
+ PF,David Lee,Golden State Warriors,12744000,2013
+ G,Tony Parker,San Antonio Spurs,12500000,2013
+ SG,Kevin Martin,Oklahoma City Thunder,12439675,2013
+ SF,Kobe Bryant,Los Angeles Lakers,25244493,2012
+ PF,Kevin Garnett,Boston Celtics,21247044,2012
+ C,Tim Duncan,San Antonio Spurs,21164619,2012
+ PF,Rashard Lewis,Washington Wizards,21136631,2012
+ F,Dirk Nowitzki,Dallas Mavericks,19092873,2012
+ PF,Pau Gasol,Los Angeles Lakers,18714150,2012
+ PF,Carmelo Anthony,New York Knicks,18518574,2012
+ C,Amar'e Stoudemire,New York Knicks,18217705,2012
+ PF,Elton Brand,Philadelphia 76ers,18160355,2012
+ C,Dwight Howard,Orlando Magic,18091770,2012
+ G,Joe Johnson,Atlanta Hawks,18038573,2012
+ SF,Andrei Kirilenko,Philadelphia 76ers,17823000,2012
+ PF,Chris Bosh,Miami Heat,17545000,2012
+ SF,LeBron James,Miami Heat,17545000,2012
+ PG,Chris Paul,LA Clippers,16359805,2012
+ PG,Deron Williams,New Jersey Nets,16359805,2012
+ G,Dwyane Wade,Miami Heat,15691000,2012
+ SF,Kevin Durant,Oklahoma City Thunder,15506632,2012
+ SF,Paul Pierce,Boston Celtics,15333334,2012
+ F,Zach Randolph,Memphis Grizzlies,15200000,2012
+ PF,Antawn Jamison,Cleveland Cavaliers,15076715,2012
+ SF,Rudy Gay,Memphis Grizzlies,15032144,2012
+ SG,Brandon Roy,Minnesota Timberwolves,15032144,2012
+ C,Al Jefferson,Utah Jazz,15000000,2012
+ C,Andrew Bynum,Los Angeles Lakers,14900000,2012
+ SG,Andre Iguodala,Philadelphia 76ers,14718250,2012
+ G,Manu Ginobili,San Antonio Spurs,14107492,2012
+ C,Chris Kaman,New Orleans Hornets,14030000,2012
+ PF,LaMarcus Aldridge,Portland Trail Blazers,14000000,2012
+ PF,Carlos Boozer,Chicago Bulls,13500000,2012
+ C,Tyson Chandler,New York Knicks,13107837,2012
+ C,Nene Hilario,Washington Wizards,13000000,2012
+ C,Marc Gasol,Memphis Grizzlies,12922194,2012
+ C,Emeka Okafor,New Orleans Hornets,12642500,2012
+ G,Tony Parker,San Antonio Spurs,12500000,2012
+ PF,Al Horford,Atlanta Hawks,12498483,2012
+ PF,Josh Smith,Atlanta Hawks,12400000,2012
+ F,Luol Deng,Chicago Bulls,12325000,2012
+ SF,Danny Granger,Indiana Pacers,12015904,2012
+ C,Joakim Noah,Chicago Bulls,12000000,2012
+ SF,Kobe Bryant,Los Angeles Lakers,24806250,2011
+ PF,Rashard Lewis,Washington Wizards,19573711,2011
+ C,Tim Duncan,San Antonio Spurs,18835381,2011
+ PF,Kevin Garnett,Boston Celtics,18832044,2011
+ SG,Michael Redd,Milwaukee Bucks,18300000,2011
+ PF,Pau Gasol,Los Angeles Lakers,17823000,2011
+ SF,Andrei Kirilenko,Utah Jazz,17823000,2011
+ PG,Gilbert Arenas,Washington Wizards,17730694,2011
+ C,Yao Ming,Houston Rockets,17686100,2011
+ F,Zach Randolph,Memphis Grizzlies,17666666,2011
+ G,Vince Carter,Phoenix Suns,17522375,2011
+ F,Dirk Nowitzki,Dallas Mavericks,17278618,2011
+ PF,Carmelo Anthony,New York Knicks,17149243,2011
+ C,Dwight Howard,Orlando Magic,16647180,2011
+ PF,Kenyon Martin,Denver Nuggets,16545454,2011
+ C,Amar'e Stoudemire,New York Knicks,16486611,2011
+ G,Joe Johnson,Atlanta Hawks,16324500,2011
+ PF,Elton Brand,Philadelphia 76ers,15959099,2011
+ PG,Chris Paul,New Orleans Hornets,14940153,2011
+ PG,Deron Williams,Utah Jazz,14940153,2011
+ PF,Chris Bosh,Miami Heat,14500000,2011
+ SF,LeBron James,Miami Heat,14500000,2011
+ SG,Jason Richardson,Phoenix Suns,14444443,2011
+ PF,Carlos Boozer,Chicago Bulls,14400000,2011
+ G,Dwyane Wade,Miami Heat,14200000,2011
+ PG,Baron Davis,LA Clippers,14000000,2011
+ SF,Paul Pierce,Boston Celtics,13876321,2011
+ C,Andrew Bynum,Los Angeles Lakers,13700000,2011
+ SF,Rudy Gay,Memphis Grizzlies,13603750,2011
+ SG,Brandon Roy,Portland Trail Blazers,13603750,2011
+ G,Tony Parker,San Antonio Spurs,13500000,2011
+ C,Samuel Dalembert,Sacramento Kings,13428129,2011
+ PF,Antawn Jamison,Cleveland Cavaliers,13358905,2011
+ F,Nick Collison,Oklahoma City Thunder,13270000,2011
+ PG,Chauncey Billups,New York Knicks,13150000,2011
+ C,Al Jefferson,Utah Jazz,13000000,2011
+ C,Tyson Chandler,Dallas Mavericks,12600000,2011
+ SG,Richard Hamilton,Detroit Pistons,12500000,2011
+ SG,Andre Iguodala,Philadelphia 76ers,12345250,2011
+ G,Manu Ginobili,San Antonio Spurs,11854584,2011
+ SF,Kobe Bryant,Los Angeles Lakers,23034375,2010
+ C,Jermaine O'Neal,Miami Heat,23016000,2010
+ SG,Tracy McGrady,New York Knicks,22843124,2010
+ C,Tim Duncan,San Antonio Spurs,22183220,2010
+ C,Shaquille O'Neal,Cleveland Cavaliers,21000000,2010
+ F,Dirk Nowitzki,Dallas Mavericks,19795714,2010
+ SF,Paul Pierce,Boston Celtics,19795712,2010
+ SG,Ray Allen,Boston Celtics,18776860,2010
+ PF,Rashard Lewis,Orlando Magic,18010791,2010
+ SG,Michael Redd,Milwaukee Bucks,17040000,2010
+ PF,Pau Gasol,Los Angeles Lakers,16452000,2010
+ SF,Andrei Kirilenko,Utah Jazz,16452000,2010
+ PF,Kevin Garnett,Boston Celtics,16417044,2010
+ C,Amar'e Stoudemire,Phoenix Suns,16378325,2010
+ C,Yao Ming,Houston Rockets,16378325,2010
+ PG,Gilbert Arenas,Washington Wizards,16192080,2010
+ G,Vince Carter,Orlando Magic,16123250,2010
+ F,Zach Randolph,Memphis Grizzlies,16000000,2010
+ PF,Kenyon Martin,Denver Nuggets,15852511,2010
+ PF,Carmelo Anthony,Denver Nuggets,15779912,2010
+ G,Dwyane Wade,Miami Heat,15779912,2010
+ PF,Chris Bosh,Toronto Raptors,15779912,2010
+ SF,LeBron James,Cleveland Cavaliers,15779912,2010
+ C,Dwight Howard,Orlando Magic,15202590,2010
+ G,Joe Johnson,Atlanta Hawks,14976754,2010
+ PF,Elton Brand,Philadelphia 76ers,14858472,2010
+ F,Richard Jefferson,San Antonio Spurs,14200000,2010
+ PG,Chris Paul,New Orleans Hornets,13520500,2010
+ PG,Deron Williams,Utah Jazz,13520500,2010
+ SF,Peja Stojakovic,New Orleans Hornets,13392000,2010
+ SG,Jason Richardson,Phoenix Suns,13333332,2010
+ PG,Steve Nash,Phoenix Suns,13125000,2010
+ G,Tony Parker,San Antonio Spurs,12600000,2010
+ C,Andrew Bynum,Los Angeles Lakers,12500000,2010
+ PF,Carlos Boozer,Utah Jazz,12323900,2010
+ C,Brad Miller,Chicago Bulls,12250000,2010
+ SG,Andre Iguodala,Philadelphia 76ers,12200000,2010
+ C,Erick Dampier,Dallas Mavericks,12115500,2010
+ PG,Baron Davis,LA Clippers,12100000,2010
+ PG,Chauncey Billups,Denver Nuggets,12100000,2010
+ PF,Kevin Garnett,Boston Celtics,24751934,2009
+ PG,Jason Kidd,Dallas Mavericks,21372000,2009
+ C,Jermaine O'Neal,Toronto Raptors,21372000,2009
+ SF,Kobe Bryant,Los Angeles Lakers,21262500,2009
+ C,Shaquille O'Neal,Phoenix Suns,21000000,2009
+ SG,Allen Iverson,Detroit Pistons,20840625,2009
+ PG,Stephon Marbury,Boston Celtics,20840625,2009
+ C,Tim Duncan,San Antonio Spurs,20598704,2009
+ SG,Tracy McGrady,Houston Rockets,20370437,2009
+ SG,Ray Allen,Boston Celtics,18388430,2009
+ F,Dirk Nowitzki,Dallas Mavericks,18077904,2009
+ SF,Paul Pierce,Boston Celtics,18077903,2009
+ SG,Shawn Marion,Toronto Raptors,17810000,2009
+ PF,Rashard Lewis,Orlando Magic,16447871,2009
+ SG,Michael Redd,Milwaukee Bucks,15780000,2009
+ PF,Pau Gasol,Los Angeles Lakers,15106000,2009
+ SF,Andrei Kirilenko,Utah Jazz,15106000,2009
+ C,Amar'e Stoudemire,Phoenix Suns,15070550,2009
+ C,Yao Ming,Houston Rockets,15070550,2009
+ PG,Mike Bibby,Atlanta Hawks,14983603,2009
+ G,Vince Carter,New Jersey Nets,14724125,2009
+ F,Zach Randolph,New York Knicks,14666667,2009
+ PG,Gilbert Arenas,Washington Wizards,14653466,2009
+ PF,Ben Wallace,Cleveland Cavaliers,14500000,2009
+ PF,Kenyon Martin,Denver Nuggets,14431816,2009
+ PF,Carmelo Anthony,Denver Nuggets,14410581,2009
+ G,Dwyane Wade,Miami Heat,14410581,2009
+ PF,Chris Bosh,Toronto Raptors,14410581,2009
+ SF,LeBron James,Cleveland Cavaliers,14410581,2009
+ G,Joe Johnson,Atlanta Hawks,14232567,2009
+ PF,Lamar Odom,Los Angeles Lakers,14148596,2009
+ PF,Rasheed Wallace,Detroit Pistons,13930000,2009
+ SG,Wally Szczerbiak,Cleveland Cavaliers,13775000,2009
+ C,Dwight Howard,Orlando Magic,13758000,2009
+ PF,Elton Brand,Philadelphia 76ers,13757844,2009
+ F,Richard Jefferson,Milwaukee Bucks,13200000,2009
+ SG,Larry Hughes,New York Knicks,12827676,2009
+ C,Raef LaFrentz,Portland Trail Blazers,12722500,2009
+ SF,Peja Stojakovic,New Orleans Hornets,12528000,2009
+ PG,Steve Nash,Phoenix Suns,12250000,2009
+ PF,Kevin Garnett,Boston Celtics,23751934,2008
+ C,Shaquille O'Neal,Phoenix Suns,21000000,2008
+ PG,Jason Kidd,New Jersey Nets,19728000,2008
+ C,Jermaine O'Neal,Indiana Pacers,19728000,2008
+ SF,Kobe Bryant,Los Angeles Lakers,19490625,2008
+ C,Tim Duncan,San Antonio Spurs,19014188,2008
+ SG,Allen Iverson,Denver Nuggets,19012500,2008
+ PG,Stephon Marbury,New York Knicks,19012500,2008
+ SG,Tracy McGrady,Houston Rockets,18257750,2008
+ PG,Baron Davis,Golden State Warriors,16440000,2008
+ SG,Shawn Marion,Phoenix Suns,16440000,2008
+ SF,Paul Pierce,Boston Celtics,16360094,2008
+ F,Dirk Nowitzki,Dallas Mavericks,16360094,2008
+ PF,Antawn Jamison,Washington Wizards,16360094,2008
+ SG,Ray Allen,Boston Celtics,16000000,2008
+ PF,Ben Wallace,Cleveland Cavaliers,15500000,2008
+ PF,Elton Brand,LA Clippers,15344000,2008
+ PG,Mike Bibby,Sacramento Kings,14983603,2008
+ PF,Rashard Lewis,Orlando Magic,14884951,2008
+ SG,Michael Redd,Milwaukee Bucks,14520000,2008
+ C,Amar'e Stoudemire,Phoenix Suns,13762775,2008
+ C,Yao Ming,Houston Rockets,13762775,2008
+ PF,Pau Gasol,Memphis Grizzlies,13735000,2008
+ SF,Andrei Kirilenko,Utah Jazz,13735000,2008
+ G,Joe Johnson,Atlanta Hawks,13488378,2008
+ F,Zach Randolph,New York Knicks,13333333,2008
+ G,Vince Carter,New Jersey Nets,13325000,2008
+ PF,Kenyon Martin,Denver Nuggets,13250000,2008
+ PF,Lamar Odom,Los Angeles Lakers,13248596,2008
+ PF,Carmelo Anthony,Denver Nuggets,13041250,2008
+ G,Dwyane Wade,Miami Heat,13041250,2008
+ PF,Chris Bosh,Toronto Raptors,13041250,2008
+ SF,LeBron James,Cleveland Cavaliers,13041250,2008
+ PF,Rasheed Wallace,Detroit Pistons,12540000,2008
+ C,Raef LaFrentz,Portland Trail Blazers,12440787,2008
+ SG,Wally Szczerbiak,Seattle SuperSonics,12275000,2008
+ F,Richard Jefferson,New Jersey Nets,12200000,2008
+ SG,Larry Hughes,Cleveland Cavaliers,12000084,2008
+ PG,Gilbert Arenas,Washington Wizards,11950400,2008
+ SF,Peja Stojakovic,New Orleans Hornets,11664000,2008
+ PF,Kevin Garnett,Minnesota Timberwolves,21000000,2007
+ C,Shaquille O'Neal,Miami Heat,20000000,2007
+ PG,Jason Kidd,New Jersey Nets,18084000,2007
+ C,Jermaine O'Neal,Indiana Pacers,18084000,2007
+ SF,Kobe Bryant,Los Angeles Lakers,17718750,2007
+ C,Tim Duncan,San Antonio Spurs,17429673,2007
+ SG,Allen Iverson,Philadelphia 76ers,17184375,2007
+ PG,Stephon Marbury,New York Knicks,17184375,2007
+ SG,Tracy McGrady,Houston Rockets,16901500,2007
+ SF,Grant Hill,Orlando Magic,16901500,2007
+ PF,Ben Wallace,Chicago Bulls,16000000,2007
+ SF,Paul Pierce,Boston Celtics,15101626,2007
+ PF,Antawn Jamison,Washington Wizards,15101626,2007
+ G,Vince Carter,New Jersey Nets,15101626,2007
+ F,Dirk Nowitzki,Dallas Mavericks,15101622,2007
+ PG,Steve Francis,New York Knicks,15070000,2007
+ PG,Baron Davis,Golden State Warriors,15070000,2007
+ SG,Shawn Marion,Phoenix Suns,15070000,2007
+ SG,Ray Allen,Seattle SuperSonics,14611570,2007
+ PF,Elton Brand,LA Clippers,14248000,2007
+ SG,Larry Hughes,Cleveland Cavaliers,13363012,2007
+ SG,Michael Redd,Milwaukee Bucks,13260000,2007
+ G,Joe Johnson,Atlanta Hawks,12744190,2007
+ PG,Mike Bibby,Sacramento Kings,12500000,2007
+ C,Amar'e Stoudemire,Phoenix Suns,12455000,2007
+ C,Yao Ming,Houston Rockets,12455000,2007
+ PF,Pau Gasol,Memphis Grizzlies,12364000,2007
+ SF,Andrei Kirilenko,Utah Jazz,12364000,2007
+ PF,Lamar Odom,Los Angeles Lakers,12348596,2007
+ PF,Kenyon Martin,Denver Nuggets,12068182,2007
+ F,Zach Randolph,Portland Trail Blazers,12000000,2007
+ SG,Wally Szczerbiak,Boston Celtics,11775000,2007
+ C,Theo Ratliff,Boston Celtics,11666666,2007
+ PF,Rasheed Wallace,Detroit Pistons,11650000,2007
+ C,Raef LaFrentz,Portland Trail Blazers,11532037,2007
+ PF,Carlos Boozer,Utah Jazz,11260483,2007
+ F,Richard Jefferson,New Jersey Nets,11200000,2007
+ PG,Gilbert Arenas,Washington Wizards,11096800,2007
+ SF,Peja Stojakovic,NO/Oklahoma City Hornets,10800000,2007
+ PG,Steve Nash,Phoenix Suns,10500000,2007
+ C,Shaquille O'Neal,Miami Heat,20000000,2006
+ C,Chris Webber,Philadelphia 76ers,19125000,2006
+ PF,Kevin Garnett,Minnesota Timberwolves,18000000,2006
+ SG,Allen Iverson,Philadelphia 76ers,16453125,2006
+ PG,Stephon Marbury,New York Knicks,16453125,2006
+ PG,Jason Kidd,New Jersey Nets,16440000,2006
+ C,Jermaine O'Neal,Indiana Pacers,16440000,2006
+ SF,Kobe Bryant,Los Angeles Lakers,15946875,2006
+ C,Tim Duncan,San Antonio Spurs,15845157,2006
+ PF,Vin Baker,LA Clippers,15750000,2006
+ SF,Anfernee Hardaway,Orlando Magic,15750000,2006
+ SG,Tracy McGrady,Houston Rockets,15694250,2006
+ SG,Jalen Rose,Toronto Raptors,15694250,2006
+ PF,Keith Van Horn,Dallas Mavericks,15694250,2006
+ SF,Grant Hill,Orlando Magic,15694250,2006
+ SG,Eddie Jones,Memphis Grizzlies,14666250,2006
+ PF,Tim Thomas,Phoenix Suns,13975000,2006
+ PF,Antonio Davis,Toronto Raptors,13865000,2006
+ SF,Paul Pierce,Boston Celtics,13843156,2006
+ F,Dirk Nowitzki,Dallas Mavericks,13843156,2006
+ PF,Antawn Jamison,Washington Wizards,13843156,2006
+ G,Vince Carter,New Jersey Nets,13843156,2006
+ PG,Steve Francis,Orlando Magic,13700000,2006
+ PG,Baron Davis,Golden State Warriors,13700000,2006
+ SG,Shawn Marion,Phoenix Suns,13700000,2006
+ SG,Ray Allen,Seattle SuperSonics,13223140,2006
+ PF,Elton Brand,LA Clippers,13152000,2006
+ SG,Michael Redd,Milwaukee Bucks,12000000,2006
+ G,Joe Johnson,Atlanta Hawks,12000000,2006
+ C,Theo Ratliff,Portland Trail Blazers,11666666,2006
+ PG,Mike Bibby,Sacramento Kings,11500000,2006
+ PF,Lamar Odom,Los Angeles Lakers,11448596,2006
+ PF,Carlos Boozer,Utah Jazz,11260483,2006
+ PF,Pau Gasol,Memphis Grizzlies,10993000,2006
+ SF,Andrei Kirilenko,Utah Jazz,10983000,2006
+ PF,Kenyon Martin,Denver Nuggets,10886364,2006
+ PF,Rasheed Wallace,Detroit Pistons,10860000,2006
+ F,Zach Randolph,Portland Trail Blazers,10666667,2006
+ C,Raef LaFrentz,Boston Celtics,10623288,2006
+ SG,Wally Szczerbiak,Minnesota Timberwolves,10500000,2006
+ C,Shaquille O'Neal,Miami Heat,29464000,2005
+ C,Dikembe Mutombo,Houston Rockets,19684000,2005
+ SG,Allan Houston,New York Knicks,17531000,2005
+ C,Chris Webber,Sacramento Kings,17351000,2005
+ PG,Damon Stoudamire,Portland Trail Blazers,15750000,2005
+ PF,Antoine Walker,Boston Celtics,14625000,2005
+ PF,Shareef Abdur-Rahim,Portland Trail Blazers,14625000,2005
+ SG,Allen Iverson,Philadelphia 76ers,14625000,2005
+ SG,Latrell Sprewell,Minnesota Timberwolves,14625000,2005
+ PF,Vin Baker,New York Knicks,14625000,2005
+ C,Zydrunas Ilgauskas,Cleveland Cavaliers,14625000,2005
+ SF,Anfernee Hardaway,New York Knicks,14625000,2005
+ SG,Ray Allen,Seattle SuperSonics,14625000,2005
+ SF,Kobe Bryant,Los Angeles Lakers,14625000,2005
+ PG,Stephon Marbury,New York Knicks,14625000,2005
+ SG,Michael Finley,Dallas Mavericks,14609000,2005
+ SG,Tracy McGrady,Houston Rockets,14487000,2005
+ SG,Jalen Rose,Toronto Raptors,14487000,2005
+ PF,Keith Van Horn,Milwaukee Bucks,14487000,2005
+ SF,Grant Hill,Orlando Magic,14487000,2005
+ SG,Eddie Jones,Miami Heat,13440000,2005
+ PF,Brian Grant,Los Angeles Lakers,13346000,2005
+ G,Vince Carter,Toronto Raptors,13281000,2005
+ PF,Tim Thomas,New York Knicks,12900000,2005
+ PF,Antonio Davis,Chicago Bulls,12000000,2005
+ SF,Glenn Robinson,San Antonio Spurs,12000000,2005
+ PG,Nick Van Exel,Portland Trail Blazers,11821000,2005
+ C,Theo Ratliff,Portland Trail Blazers,10937000,2005
+ SG,Kerry Kittles,LA Clippers,9817000,2005
+ SF,Jamal Mashburn,Philadelphia 76ers,9300000,2005
+ PF,Maurice Taylor,New York Knicks,8450000,2005
+ SG,Derek Anderson,Portland Trail Blazers,8444000,2005
+ PF,Alan Henderson,Dallas Mavericks,8273000,2005
+ PF,Austin Croshere,Indiana Pacers,8260000,2005
+ C,Erick Dampier,Dallas Mavericks,8105000,2005
+ C,Kelvin Cato,Orlando Magic,7992000,2005
+ C,Marcus Camby,Denver Nuggets,7750000,2005
+ SF,Shandon Anderson,New York Knicks,7300000,2005
+ PF,Lorenzen Wright,Memphis Grizzlies,7150000,2005
+ SF,Jerry Stackhouse,Dallas Mavericks,7000000,2005
+ PF,Kevin Garnett,Minnesota Timberwolves,28000000,2004
+ C,Shaquille O'Neal,Los Angeles Lakers,26571000,2004
+ PF,Rasheed Wallace,Portland Trail Blazers,18000000,2004
+ C,Dikembe Mutombo,New York Knicks,17895000,2004
+ SG,Allan Houston,New York Knicks,15937000,2004
+ C,Chris Webber,Sacramento Kings,15937000,2004
+ PG,Damon Stoudamire,Portland Trail Blazers,14625000,2004
+ PF,Antoine Walker,Dallas Mavericks,13500000,2004
+ PF,Antonio McDyess,Phoenix Suns,13500000,2004
+ PF,Shareef Abdur-Rahim,Portland Trail Blazers,13500000,2004
+ SG,Allen Iverson,Philadelphia 76ers,13500000,2004
+ SG,Latrell Sprewell,Minnesota Timberwolves,13500000,2004
+ PF,Vin Baker,New York Knicks,13500000,2004
+ C,Zydrunas Ilgauskas,Cleveland Cavaliers,13500000,2004
+ SF,Anfernee Hardaway,Phoenix Suns,13500000,2004
+ SG,Ray Allen,Seattle SuperSonics,13500000,2004
+ SF,Kobe Bryant,Los Angeles Lakers,13500000,2004
+ PG,Stephon Marbury,Phoenix Suns,13500000,2004
+ SG,Michael Finley,Dallas Mavericks,13281000,2004
+ PF,Keith Van Horn,New York Knicks,13280000,2004
+ SG,Tracy McGrady,Orlando Magic,13279000,2004
+ C,Tim Duncan,San Antonio Spurs,13279000,2004
+ SG,Jalen Rose,Toronto Raptors,13279000,2004
+ SG,Eddie Jones,Miami Heat,12320000,2004
+ PF,Brian Grant,Miami Heat,12234000,2004
+ C,Vlade Divac,Sacramento Kings,12051000,2004
+ PF,Antonio Davis,Toronto Raptors,12000000,2004
+ G,Vince Carter,Toronto Raptors,11953000,2004
+ PF,Tim Thomas,New York Knicks,11825000,2004
+ PF,Tom Gugliotta,Utah Jazz,11668000,2004
+ PG,Jason Kidd,New Jersey Nets,10950000,2004
+ PG,Nick Van Exel,Golden State Warriors,10912000,2004
+ SF,Glenn Robinson,Philadelphia 76ers,10730000,2004
+ C,Theo Ratliff,Portland Trail Blazers,10156000,2004
+ SF,Glen Rice,LA Clippers,9600000,2004
+ SG,Kerry Kittles,New Jersey Nets,9267000,2004
+ C,Greg Ostertag,Utah Jazz,8666000,2004
+ SF,Jamal Mashburn,New Orleans Hornets,8525000,2004
+ SF,Toni Kukoc,Milwaukee Bucks,8050000,2004
+ PF,Maurice Taylor,Houston Rockets,7800000,2004
+ PF,Kevin Garnett,Minnesota Timberwolves,25200000,2003
+ C,Shaquille O'Neal,Los Angeles Lakers,23571000,2003
+ C,Shawn Kemp,Orlando Magic,21500000,2003
+ PF,Juwan Howard,Denver Nuggets,20625000,2003
+ SF,Scottie Pippen,Portland Trail Blazers,19727000,2003
+ PF,Karl Malone,Utah Jazz,19250000,2003
+ PF,Rasheed Wallace,Portland Trail Blazers,16200000,2003
+ C,Dikembe Mutombo,New Jersey Nets,16105000,2003
+ C,Chris Webber,Sacramento Kings,14343000,2003
+ PG,Damon Stoudamire,Portland Trail Blazers,13500000,2003
+ PG,Gary Payton,Seattle SuperSonics,13080000,2003
+ PF,Antoine Walker,Boston Celtics,12375000,2003
+ PF,Shareef Abdur-Rahim,Atlanta Hawks,12375000,2003
+ SG,Allen Iverson,Philadelphia 76ers,12375000,2003
+ SG,Latrell Sprewell,New York Knicks,12375000,2003
+ PF,Vin Baker,Boston Celtics,12375000,2003
+ C,Zydrunas Ilgauskas,Cleveland Cavaliers,12375000,2003
+ SF,Anfernee Hardaway,Phoenix Suns,12375000,2003
+ SG,Ray Allen,Seattle SuperSonics,12375000,2003
+ SF,Kobe Bryant,Los Angeles Lakers,12375000,2003
+ PG,Stephon Marbury,Phoenix Suns,12375000,2003
+ SG,Tracy McGrady,Orlando Magic,12072000,2003
+ C,Tim Duncan,San Antonio Spurs,12072000,2003
+ SG,Jalen Rose,Chicago Bulls,12072000,2003
+ PF,Keith Van Horn,Philadelphia 76ers,12072000,2003
+ SF,Grant Hill,Orlando Magic,12072000,2003
+ SG,Reggie Miller,Indiana Pacers,12046000,2003
+ PF,Antonio Davis,Toronto Raptors,12000000,2003
+ SG,Michael Finley,Dallas Mavericks,11953000,2003
+ C,Vlade Divac,Sacramento Kings,11248000,2003
+ SG,Eddie Jones,Miami Heat,11200000,2003
+ PF,Brian Grant,Miami Heat,11121000,2003
+ SG,Allan Houston,New York Knicks,11000000,2003
+ PF,Tom Gugliotta,Phoenix Suns,10890000,2003
+ PF,Tim Thomas,Milwaukee Bucks,10750000,2003
+ G,Vince Carter,Toronto Raptors,10625000,2003
+ C,David Robinson,San Antonio Spurs,10500000,2003
+ PG,Nick Van Exel,Dallas Mavericks,10003000,2003
+ SG,Steve Smith,San Antonio Spurs,9900000,2003
+ SF,Glenn Robinson,Atlanta Hawks,9860000,2003
+ PF,Kevin Garnett,Minnesota Timberwolves,22400000,2002
+ C,Shaquille O'Neal,Los Angeles Lakers,21428000,2002
+ C,Alonzo Mourning,Miami Heat,18756000,2002
+ PF,Juwan Howard,Denver Nuggets,18750000,2002
+ SF,Scottie Pippen,Portland Trail Blazers,18083000,2002
+ PF,Karl Malone,Utah Jazz,17500000,2002
+ PF,Rasheed Wallace,Portland Trail Blazers,14400000,2002
+ C,Dikembe Mutombo,Philadelphia 76ers,14315000,2002
+ PG,Gary Payton,Seattle SuperSonics,12926000,2002
+ C,Shawn Kemp,Portland Trail Blazers,12770000,2002
+ C,Chris Webber,Sacramento Kings,12750000,2002
+ PG,Damon Stoudamire,Portland Trail Blazers,12375000,2002
+ SG,Reggie Miller,Indiana Pacers,12045000,2002
+ PF,Antonio McDyess,Denver Nuggets,11700000,2002
+ PF,Antoine Walker,Boston Celtics,11250000,2002
+ PF,Shareef Abdur-Rahim,Atlanta Hawks,11250000,2002
+ SG,Allen Iverson,Philadelphia 76ers,11250000,2002
+ SG,Latrell Sprewell,New York Knicks,11250000,2002
+ PF,Vin Baker,Seattle SuperSonics,11250000,2002
+ C,Zydrunas Ilgauskas,Cleveland Cavaliers,11250000,2002
+ SF,Anfernee Hardaway,Phoenix Suns,11250000,2002
+ SG,Ray Allen,Milwaukee Bucks,11250000,2002
+ SF,Kobe Bryant,Los Angeles Lakers,11250000,2002
+ PG,Stephon Marbury,Phoenix Suns,11250000,2002
+ PF,Antonio Davis,Toronto Raptors,11000000,2002
+ SG,Tracy McGrady,Orlando Magic,10865000,2002
+ C,Tim Duncan,San Antonio Spurs,10865000,2002
+ SG,Jalen Rose,Indiana Pacers,10865000,2002
+ PF,Keith Van Horn,New Jersey Nets,10865000,2002
+ SF,Grant Hill,Orlando Magic,10865000,2002
+ SG,Michael Finley,Dallas Mavericks,10625000,2002
+ C,Vlade Divac,Sacramento Kings,10444000,2002
+ PF,Tom Gugliotta,Phoenix Suns,10113000,2002
+ SG,Eddie Jones,Miami Heat,10080000,2002
+ PF,Brian Grant,Miami Heat,10009000,2002
+ SG,Allan Houston,New York Knicks,10000000,2002
+ PF,Tim Thomas,Milwaukee Bucks,9675000,2002
+ C,David Robinson,San Antonio Spurs,9500000,2002
+ PG,Terrell Brandon,Minnesota Timberwolves,9250000,2002
+ PG,Nick Van Exel,Denver Nuggets,9093000,2002
+ PF,Kevin Garnett,Minnesota Timberwolves,19600000,2001
+ C,Shaquille O'Neal,Los Angeles Lakers,19285000,2001
+ C,Alonzo Mourning,Miami Heat,16879000,2001
+ PF,Juwan Howard,Washington Wizards,16875000,2001
+ C,Hakeem Olajuwon,Houston Rockets,16685000,2001
+ PF,Karl Malone,Utah Jazz,15750000,2001
+ C,Dikembe Mutombo,Philadelphia 76ers,14422000,2001
+ C,Patrick Ewing,Seattle SuperSonics,14000000,2001
+ C,David Robinson,San Antonio Spurs,13196000,2001
+ SF,Scottie Pippen,Portland Trail Blazers,13151000,2001
+ PF,Rasheed Wallace,Portland Trail Blazers,12600000,2001
+ F,Larry Johnson,New York Knicks,12485000,2001
+ PG,Gary Payton,Seattle SuperSonics,12200000,2001
+ G,Tim Hardaway,Miami Heat,12000000,2001
+ C,Chris Webber,Sacramento Kings,12000000,2001
+ C,Shawn Kemp,Portland Trail Blazers,11720000,2001
+ PG,Damon Stoudamire,Portland Trail Blazers,11250000,2001
+ G,John Stockton,Utah Jazz,11000000,2001
+ PF,Antonio McDyess,Denver Nuggets,10800000,2001
+ SG,Reggie Miller,Indiana Pacers,10666000,2001
+ C,Arvydas Sabonis,Portland Trail Blazers,10636000,2001
+ C,Zydrunas Ilgauskas,Cleveland Cavaliers,10130000,2001
+ SF,Anfernee Hardaway,Phoenix Suns,10130000,2001
+ PG,Stephon Marbury,New Jersey Nets,10130000,2001
+ PF,Antoine Walker,Boston Celtics,10125000,2001
+ PF,Shareef Abdur-Rahim,Vancouver Grizzlies,10125000,2001
+ SG,Allen Iverson,Philadelphia 76ers,10125000,2001
+ SG,Latrell Sprewell,New York Knicks,10125000,2001
+ PF,Vin Baker,Seattle SuperSonics,10125000,2001
+ SG,Ray Allen,Milwaukee Bucks,10125000,2001
+ SF,Kobe Bryant,Los Angeles Lakers,10125000,2001
+ C,Bryant Reeves,Vancouver Grizzlies,10110000,2001
+ SG,Tracy McGrady,Orlando Magic,9658000,2001
+ C,Tim Duncan,San Antonio Spurs,9658000,2001
+ SG,Jalen Rose,Indiana Pacers,9658000,2001
+ SF,Grant Hill,Orlando Magic,9658000,2001
+ C,Vlade Divac,Sacramento Kings,9641000,2001
+ PF,Tom Gugliotta,Phoenix Suns,9336000,2001
+ SG,Allan Houston,New York Knicks,9000000,2001
+ PF,Keith Van Horn,New Jersey Nets,9000000,2001
+ C,Shaquille O'Neal,Los Angeles Lakers,17142000,2000
+ PF,Kevin Garnett,Minnesota Timberwolves,16806000,2000
+ C,Alonzo Mourning,Miami Heat,15004000,2000
+ PF,Juwan Howard,Washington Wizards,15000000,2000
+ SF,Scottie Pippen,Portland Trail Blazers,14795000,2000
+ PF,Karl Malone,Utah Jazz,14000000,2000
+ F,Larry Johnson,New York Knicks,11910000,2000
+ PG,Gary Payton,Seattle SuperSonics,11020000,2000
+ PF,Rasheed Wallace,Portland Trail Blazers,10800000,2000
+ C,Shawn Kemp,Cleveland Cavaliers,10780000,2000
+ PG,Damon Stoudamire,Portland Trail Blazers,10125000,2000
+ PF,Antonio McDyess,Denver Nuggets,9900000,2000
+ PF,Antoine Walker,Boston Celtics,9000000,2000
+ PF,Shareef Abdur-Rahim,Vancouver Grizzlies,9000000,2000
+ SG,Allen Iverson,Philadelphia 76ers,9000000,2000
+ PF,Vin Baker,Seattle SuperSonics,9000000,2000
+ SF,Anfernee Hardaway,Phoenix Suns,9000000,2000
+ SG,Ray Allen,Milwaukee Bucks,9000000,2000
+ SF,Kobe Bryant,Los Angeles Lakers,9000000,2000
+ PG,Stephon Marbury,New Jersey Nets,9000000,2000
+ C,Vlade Divac,Sacramento Kings,8837000,2000
+ C,Bryant Reeves,Vancouver Grizzlies,8666000,2000
+ PF,Tom Gugliotta,Phoenix Suns,8558000,2000
+ PG,Nick Van Exel,Denver Nuggets,8354000,2000
+ C,Elden Campbell,Charlotte Hornets,7975000,2000
+ PG,Terrell Brandon,Minnesota Timberwolves,7400000,2000
+ PF,Derrick Coleman,Charlotte Hornets,7370000,2000
+ SF,Glenn Robinson,Milwaukee Bucks,7250000,2000
+ SG,Steve Smith,Portland Trail Blazers,7200000,2000
+ SG,Kerry Kittles,New Jersey Nets,7166000,2000
+ C,Chris Dudley,New York Knicks,7100000,2000
+ C,Theo Ratliff,Philadelphia 76ers,7031000,2000
+ C,Matt Geiger,Philadelphia 76ers,6889000,2000
+ PG,Jason Kidd,Phoenix Suns,6858000,2000
+ PG,Kenny Anderson,Boston Celtics,6680000,2000
+ PF,Tyrone Hill,Philadelphia 76ers,6422000,2000
+ PF,Clifford Robinson,Phoenix Suns,6125000,2000
+ SF,Jamal Mashburn,Miami Heat,5600000,2000
+ PG,Steve Nash,Dallas Mavericks,5500000,2000
+ PF,Alan Henderson,Atlanta Hawks,5318000,2000
