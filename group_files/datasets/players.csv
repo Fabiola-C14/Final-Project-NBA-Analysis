@@ -1,0 +1,511 @@
+Player ID,First Name,Last Name,Team,Jersey,Position Category,Position,Height,Weight,Birth Date,Birth City,Birth State,Birth Country,College,Salary,Photo Url,Experience
+20000441,Bradley,Beal,WAS,3.0,G,SG,75,207,1993-06-28T00:00:00,St. Louis,Missouri,,Florida,27093019.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000441.png,6
+20000442,John,Wall,WAS,2.0,G,PG,76,210,1990-09-06T00:00:00,Raleigh,North Carolina,,Kentucky,38199000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000442.png,8
+20000443,Otto,Porter,CHI,22.0,F,SF,80,198,1993-06-03T00:00:00,St. Louis,Missouri,,Georgetown,27250575.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000443.png,5
+20000452,Garrett,Temple,BKN,17.0,G,SG,77,195,1986-05-08T00:00:00,Baton Rouge,Louisiana,,LSU,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000452.png,8
+20000453,Terrence,Ross,ORL,31.0,G,SG,78,206,1991-02-05T00:00:00,Portland,Oregon,Oregon,Washington,12500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000453.png,6
+20000455,Jonas,Valanciunas,MEM,17.0,C,C,83,265,1992-05-06T00:00:00,Utena,Lithuania,,,16000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000455.png,6
+20000456,DeMar,DeRozan,SA,10.0,G,SG,78,220,1989-08-07T00:00:00,Compton,California,,USC,27739975.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000456.png,9
+20000457,Kyle,Lowry,TOR,7.0,G,PG,72,196,1986-03-25T00:00:00,Philadelphia,Pennsylvania,,Villanova,34996296.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000457.png,12
+20000459,Lou,Williams,LAC,23.0,G,SG,73,175,1986-10-27T00:00:00,Memphis,Tennessee,,,8000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000459.png,13
+20000460,Patrick,Patterson,LAC,54.0,F,PF,80,235,1989-03-14T00:00:00,Washington,District of Columbia,,Kentucky,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000460.png,8
+20000464,James,Johnson,MIN,16.0,F,PF,79,240,1987-02-20T00:00:00,Cheyenne,Wyoming,,Wake Forest,15349400.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000464.png,9
+20000466,Bruno,Caboclo,HOU,5.0,F,SF,81,218,1995-09-21T00:00:00,Osasco,Brazil,,,1845301.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000466.png,4
+20000468,Anthony,Davis,LAL,3.0,F,PF,82,253,1993-03-11T00:00:00,Chicago,Illinois,,Kentucky,27093018.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000468.png,6
+20000471,Eric,Gordon,HOU,10.0,G,SG,75,215,1988-12-25T00:00:00,Indianapolis,Indiana,,Indiana,14057730.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000471.png,10
+20000474,Jrue,Holiday,NO,11.0,G,PG,75,205,1990-06-12T00:00:00,Mission Hills,California,,UCLA,26231111.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000474.png,9
+20000482,Draymond,Green,GS,23.0,F,PF,78,230,1990-03-04T00:00:00,Saginaw,Michigan,,Michigan State,18539130.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000482.png,6
+20000483,Harrison,Barnes,SAC,40.0,F,SF,80,225,1992-05-30T00:00:00,Ames,Iowa,,North Carolina,24147727.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000483.png,6
+20000485,Stephen,Curry,GS,30.0,G,PG,75,185,1988-03-14T00:00:00,Akron,Ohio,,Davidson,40231758.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000485.png,9
+20000486,Klay,Thompson,GS,11.0,G,SG,78,215,1990-02-08T00:00:00,Los Angeles,California,,Washington State,32742000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000486.png,7
+20000487,Andre,Iguodala,MIA,28.0,F,SF,78,215,1984-01-28T00:00:00,Springfield,Illinois,,Arizona,17185185.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000487.png,14
+20000492,Justin,Holiday,IND,8.0,G,SG,78,180,1989-04-05T00:00:00,Mission Hills,California,,Washington,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000492.png,5
+20000497,Giannis,Antetokounmpo,MIL,34.0,F,PF,83,242,1994-12-06T00:00:00,Athens,Greece,,,25842697.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000497.png,5
+20000498,Ersan,Ilyasova,MIL,7.0,F,PF,81,235,1987-05-15T00:00:00,Eskisehir,Turkey,,,7000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000498.png,10
+20000500,Khris,Middleton,MIL,22.0,F,SF,79,222,1991-08-12T00:00:00,North Charleston,South Carolina,,Texas A&amp;M,30603448.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000500.png,6
+20000501,Michael,Carter-Williams,ORL,7.0,G,PG,77,190,1991-10-10T00:00:00,Hamilton,Massachusetts,,Syracuse,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000501.png,5
+20000502,John,Henson,DET,31.0,F,PF,81,219,1990-12-28T00:00:00,Greensoboro,North Carolina,,North Carolina,9732396.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000502.png,6
+20000505,Jared,Dudley,LAL,10.0,F,SF,78,237,1985-07-10T00:00:00,San Diego,California,,Boston College,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000505.png,11
+20000511,Jabari,Parker,SAC,33.0,F,PF,80,245,1995-03-15T00:00:00,Chicago,Illinois,,Duke,6500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000511.png,4
+20000514,Joakim,Noah,LAC,55.0,C,C,83,230,1985-02-25T00:00:00,New York,New York,,Florida,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000514.png,11
+20000515,Jimmy,Butler,MIA,22.0,G,SG,79,230,1989-09-14T00:00:00,Houston,Texas,,Marquette,32742000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000515.png,7
+20000516,Derrick,Rose,DET,25.0,G,PG,74,200,1988-10-04T00:00:00,Chicago,Illinois,,Memphis,7317073.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000516.png,9
+20000517,Taj,Gibson,NY,67.0,F,PF,81,232,1985-06-24T00:00:00,Brooklyn,New York,,USC,9000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000517.png,9
+20000519,Tony,Snell,DET,17.0,G,SG,78,213,1991-11-10T00:00:00,Los Angeles,California,,New Mexico,11392857.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000519.png,5
+20000522,Doug,McDermott,IND,20.0,F,SF,79,225,1992-01-03T00:00:00,Grand Forks,North Dakota,,Creighton,7333333.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000522.png,4
+20000524,E'Twaun,Moore,NO,55.0,G,SG,75,191,1989-02-25T00:00:00,East Chicago,Indiana,,Purdue,8664928.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000524.png,7
+20000528,Tyson,Chandler,HOU,19.0,C,C,84,235,1982-10-02T00:00:00,Hanford,California,,,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000528.png,17
+20000530,Rajon,Rondo,LAL,9.0,G,PG,73,180,1986-02-22T00:00:00,Louisville,Kentucky,,Kentucky,2564753.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000530.png,12
+20000531,J.J.,Barea,DAL,5.0,G,PG,70,180,1984-06-26T00:00:00,Mayaguez,Puerto Rico,,Northeastern,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000531.png,12
+20000532,Al-Farouq,Aminu,ORL,2.0,F,PF,80,220,1990-09-21T00:00:00,Atlanta,Georgia,,Wake Forest,9258000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000532.png,8
+20000539,Dwight,Powell,DAL,7.0,F,PF,82,240,1991-07-20T00:00:00,Toronto,Ontario,,Stanford,10259375.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000539.png,4
+20000541,Trevor,Ariza,POR,8.0,F,SF,80,215,1985-06-30T00:00:00,Miami,Florida,,UCLA,12195122.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000541.png,14
+20000543,Dwight,Howard,LAL,39.0,C,C,82,265,1985-12-08T00:00:00,Atlanta,Georgia,,,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000543.png,14
+20000544,James,Harden,HOU,13.0,G,PG,77,220,1989-08-26T00:00:00,Bellflower,California,,Arizona State,38199000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000544.png,9
+20000547,Corey,Brewer,SAC,13.0,F,SF,81,186,1986-03-05T00:00:00,Portland,Tennessee,,Florida,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000547.png,11
+20000549,Clint,Capela,ATL,17.0,C,C,82,240,1994-05-18T00:00:00,Geneva,Switzerland,,,14896552.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000549.png,4
+20000554,Patrick,Beverley,LAC,21.0,G,PG,73,180,1988-07-12T00:00:00,Chicago,Illinois,,Arkansas,12345680.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000554.png,6
+20000556,Evan,Turner,MIN,1.0,G,SG,78,220,1988-10-27T00:00:00,Chicago,Illinois,,Ohio State,18606556.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000556.png,8
+20000558,Tyler,Zeller,SA,40.0,C,C,84,255,1990-01-17T00:00:00,Visalia,California,,North Carolina,245686.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000558.png,6
+20000559,Avery,Bradley,LAL,11.0,G,SG,75,180,1990-11-26T00:00:00,Tacoma,Washington,,Texas,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000559.png,8
+20000560,Marcus,Smart,BOS,36.0,G,PG,75,220,1994-03-06T00:00:00,Flower Mound,Texas,,Oklahoma State,12553571.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000560.png,4
+20000562,Jae,Crowder,MIA,99.0,F,PF,78,235,1990-07-06T00:00:00,Villa Rica,Georgia,,Marquette,7815533.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000562.png,6
+20000564,Kelly,Olynyk,MIA,9.0,C,C,83,240,1991-04-19T00:00:00,Toronto,Ontario,,Gonzaga,12667885.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000564.png,5
+20000571,LeBron,James,LAL,23.0,F,SF,81,250,1984-12-30T00:00:00,Akron,Ohio,,,37436858.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000571.png,15
+20000572,Kevin,Love,CLE,0.0,F,PF,80,251,1988-09-07T00:00:00,Santa Monica,California,,UCLA,28942830.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000572.png,10
+20000574,Kyrie,Irving,BKN,11.0,G,PG,74,195,1992-03-23T00:00:00,Melbourne,Victoria,,Duke,31742000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000574.png,7
+20000575,J.R.,Smith,LAL,21.0,G,SG,78,225,1985-09-09T00:00:00,Freehold,New Jersey,,,15680000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000575.png,14
+20000577,Tristan,Thompson,CLE,13.0,C,C,81,254,1991-03-13T00:00:00,Brampton,Ontario,,Texas,18539130.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000577.png,7
+20000579,Matthew,Dellavedova,CLE,18.0,G,PG,75,200,1990-09-08T00:00:00,Maryborough,Australia,,Saint Mary&#x27;s,9607500.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000579.png,5
+20000584,Joe,Harris,BKN,12.0,F,SF,78,220,1991-09-06T00:00:00,Chelan,Washington,,Virginia,7666667.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000584.png,4
+20000587,Thaddeus,Young,CHI,21.0,F,PF,80,235,1988-06-21T00:00:00,New Orleans,Louisiana,,Georgia Tech,12900000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000587.png,11
+20000588,Brook,Lopez,MIL,11.0,C,C,84,282,1988-04-01T00:00:00,Panorama City,California,,Stanford,12093023.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000588.png,10
+20000591,Bojan,Bogdanovic,UTA,44.0,F,SF,80,226,1989-04-18T00:00:00,Mostar,Yugoslavia,,,17000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000591.png,4
+20000594,Mason,Plumlee,DEN,7.0,C,C,83,254,1990-03-05T00:00:00,Warsaw,Indiana,,Duke,14041096.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000594.png,5
+20000601,DeMarre,Carroll,HOU,9.0,F,SF,78,215,1986-07-27T00:00:00,Birmingham,Alabama,,Missouri,512721.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000601.png,9
+20000602,Paul,Millsap,DEN,4.0,F,PF,79,257,1985-02-10T00:00:00,Monroe,Louisiana,,Louisiana Tech,30350000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000602.png,12
+20000603,Al,Horford,PHI,42.0,F,PF,81,240,1986-06-03T00:00:00,Puerto Plata,Dominican Republic,,Florida,28000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000603.png,11
+20000604,Kyle,Korver,MIL,26.0,G,SG,79,212,1981-03-17T00:00:00,Lakewood,California,,Creighton,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000604.png,15
+20000605,Jeff,Teague,ATL,0.0,G,PG,75,195,1988-06-10T00:00:00,Indianapolis,Indiana,,Wake Forest,19000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000605.png,9
+20000606,Dennis,Schroder,OKC,17.0,G,PG,73,172,1993-09-15T00:00:00,Braunschweig,Germany,,,15500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000606.png,5
+20000608,Kent,Bazemore,SAC,26.0,G,SG,76,195,1989-07-01T00:00:00,Kelford,North Carolina,,Old Dominion,19269662.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000608.png,6
+20000609,Mike,Scott,PHI,1.0,F,PF,79,237,1988-07-16T00:00:00,Chesapeake,Virginia,,Virginia,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000609.png,6
+20000613,Mike,Muscala,OKC,33.0,F,PF,82,240,1991-07-01T00:00:00,St. Louis Park,Minnesota,,Bucknell,2028594.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000613.png,5
+20000615,Thabo,Sefolosha,HOU,18.0,F,SF,78,215,1984-05-02T00:00:00,Vevey,Switzerland,,,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000615.png,12
+20000616,LaMarcus,Aldridge,SA,12.0,F,PF,83,250,1985-07-19T00:00:00,Dallas,Texas,,Texas,26000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000616.png,12
+20000617,Nicolas,Batum,CHA,5.0,G,SG,81,230,1988-12-14T00:00:00,Lisieux,France,,,25565217.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000617.png,10
+20000618,Robin,Lopez,MIL,42.0,C,C,84,281,1988-04-01T00:00:00,North Hollywood,California,,Stanford,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000618.png,10
+20000619,Damian,Lillard,POR,0.0,G,PG,74,195,1990-07-15T00:00:00,Oakland,California,,Weber State,29802321.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000619.png,6
+20000620,C.J.,McCollum,POR,3.0,G,SG,75,190,1991-09-19T00:00:00,Canton,Ohio,,Lehigh,27556959.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000620.png,5
+20000621,Meyers,Leonard,MIA,0.0,C,C,84,260,1992-02-27T00:00:00,Robinson,Illinois,,Illinois,11286516.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000621.png,6
+20000629,Wesley,Matthews,MIL,9.0,G,SG,76,220,1986-10-14T00:00:00,San Antonio,Texas,,Marquette,2564753.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000629.png,9
+20000632,Jeff,Green,HOU,32.0,F,SF,80,235,1986-08-28T00:00:00,Cheverly,Maryland,,Georgetown,439475.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000632.png,10
+20000633,Marc,Gasol,TOR,33.0,C,C,83,255,1985-01-29T00:00:00,Barcelona,Spain,,,25595700.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000633.png,10
+20000634,Courtney,Lee,DAL,1.0,G,SG,77,215,1985-10-03T00:00:00,Indianapolis,Indiana,,Western Kentucky,12759670.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000634.png,10
+20000635,Mike,Conley,UTA,10.0,G,PG,73,175,1987-10-11T00:00:00,Fayetteville,Arkansas,,Ohio State,32511624.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000635.png,11
+20000638,Vince,Carter,ATL,,G,SG,78,220,1977-01-26T00:00:00,Daytona Beach,Florida,,North Carolina,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000638.png,20
+20000642,JaMychal,Green,LAC,4.0,F,PF,80,227,1990-06-21T00:00:00,Montgomery,Alabama,,Alabama,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000642.png,4
+20000646,Kawhi,Leonard,LAC,2.0,F,SF,79,225,1991-06-29T00:00:00,Riverside,California,,San Diego State,32742000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000646.png,7
+20000650,Danny,Green,LAL,14.0,G,SG,78,215,1987-06-22T00:00:00,North Babylon,New York,,North Carolina,14634146.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000650.png,9
+20000652,Aron,Baynes,PHO,46.0,C,C,82,260,1986-12-09T00:00:00,Gisborne,New Zealand,,Washington State,5453280.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000652.png,6
+20000654,Marco,Belinelli,SA,18.0,G,SG,77,220,1986-03-25T00:00:00,Bologna,Italy,,,5846154.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000654.png,11
+20000655,Cory,Joseph,SAC,9.0,G,PG,75,200,1991-08-20T00:00:00,Toronto,Ontario,,Texas,12000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000655.png,7
+20000656,Patty,Mills,SA,8.0,G,PG,73,180,1988-08-11T00:00:00,Canberra,Australia,,Saint Mary&#x27;s,12428571.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000656.png,9
+20000659,Kyle,Anderson,MEM,1.0,F,SF,81,230,1993-09-20T00:00:00,New York,New York,,UCLA,9073050.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000659.png,4
+20000661,Blake,Griffin,DET,23.0,F,PF,81,250,1989-03-16T00:00:00,Oklahoma City,Oklahoma,,Oklahoma,34449964.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000661.png,8
+20000663,DeAndre,Jordan,BKN,6.0,C,C,83,265,1988-07-21T00:00:00,Houston,Texas,,Texas A&amp;M,9881598.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000663.png,10
+20000664,Chris,Paul,OKC,3.0,G,PG,73,175,1985-05-06T00:00:00,Winston-Salem,North Carolina,,Wake Forest,38506482.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000664.png,13
+20000665,J.J.,Redick,NO,4.0,F,SF,75,200,1984-06-24T00:00:00,Cookeville,Tennessee,,Duke,13486300.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000665.png,12
+20000666,Jamal,Crawford,BKN,1.0,G,SG,77,185,1980-03-20T00:00:00,Seattle,Washington,,Michigan,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000666.png,18
+20000667,Austin,Rivers,HOU,25.0,G,PG,75,200,1992-08-01T00:00:00,Santa Monica,California,,Duke,2147317.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000667.png,6
+20000676,Tobias,Harris,PHI,12.0,F,SF,80,226,1992-07-15T00:00:00,Islip,New York,,Tennessee,32742000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000676.png,7
+20000677,Kyle,O'Quinn,PHI,9.0,C,C,81,250,1990-03-26T00:00:00,Jamaica,New York,,Norfolk State,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000677.png,6
+20000678,Nikola,Vucevic,ORL,9.0,C,C,83,260,1990-10-24T00:00:00,Morges,Switzerland,,USC,28000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000678.png,7
+20000679,Evan,Fournier,ORL,10.0,F,SF,79,205,1992-10-29T00:00:00,Saint-Maurice,France,,,17150000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000679.png,6
+20000680,Elfrid,Payton,NY,6.0,G,PG,75,195,1994-02-22T00:00:00,Gretna,Louisiana,,Louisiana-Lafayette,8000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000680.png,4
+20000681,Aaron,Gordon,ORL,0.0,F,PF,80,235,1995-09-16T00:00:00,San Jose,California,,Arizona,19863636.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000681.png,4
+20000684,Dewayne,Dedmon,ATL,14.0,C,C,84,245,1989-08-12T00:00:00,Lancaster,California,,USC,13333333.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000684.png,5
+20000686,Maurice,Harkless,NY,3.0,F,SF,79,220,1993-05-11T00:00:00,Queens,New York,,St. John&#x27;s,11011234.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000686.png,6
+20000689,Victor,Oladipo,IND,4.0,G,SG,76,213,1992-05-04T00:00:00,Upper Marlboro,Maryland,,Indiana,21000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000689.png,5
+20000691,Darius,Miller,NO,21.0,F,SF,78,225,1990-03-21T00:00:00,Maysville,Kentucky,,Kentucky,7000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000691.png,4
+20000698,Troy,Daniels,DEN,30.0,G,SG,76,205,1991-07-15T00:00:00,Roanoke,Virginia,,Virginia Commonwealth,384541.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000698.png,5
+20000707,Ed,Davis,UTA,17.0,F,PF,81,218,1989-06-05T00:00:00,Washington,District of Columbia,,North Carolina,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000707.png,8
+20000708,Jordan,Clarkson,UTA,0.0,G,PG,76,192,1992-06-07T00:00:00,San Antonio,Texas,,Missouri,13437500.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000708.png,4
+20000710,Julius,Randle,NY,30.0,F,PF,80,250,1994-11-29T00:00:00,Dallas,Texas,,Kentucky,18000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000710.png,4
+20000712,Wayne,Ellington,NY,2.0,G,SG,76,207,1987-11-29T00:00:00,Wynnewood,Pennsylvania,,North Carolina,8000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000712.png,9
+20000716,Nerlens,Noel,OKC,9.0,C,C,82,220,1994-04-10T00:00:00,Malden,Massachusetts,,Kentucky,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000716.png,4
+20000724,Jakarr,Sampson,IND,14.0,F,SF,79,214,1993-03-20T00:00:00,Cleveland,Ohio,,St. John&#x27;s,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000724.png,3
+20000725,Luc,Richard Mbah a Moute,HOU,12.0,F,PF,80,230,1986-09-09T00:00:00,Yaounde,Cameroon,,UCLA,4320500.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000725.png,10
+20000726,Joel,Embiid,PHI,21.0,C,C,84,280,1994-03-16T00:00:00,Yaounde,Cameroon,,Kansas,27504630.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000726.png,2
+20000727,Jerami,Grant,DEN,9.0,F,SF,80,210,1994-03-12T00:00:00,Portland,Oregon,,Syracuse,9346153.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000727.png,4
+20000730,Solomon,Hill,MIA,44.0,F,SF,78,226,1991-03-18T00:00:00,Harvey,Illinois,,Arizona,12758781.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000730.png,5
+20000737,Ian,Mahinmi,WAS,28.0,C,C,83,262,1986-11-05T00:00:00,Rouen,France,,,15450051.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000737.png,10
+20000742,Paul,George,LAC,13.0,F,SF,80,220,1990-05-02T00:00:00,Palmdale,California,,Fresno State,30560700.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000742.png,8
+20000743,George,Hill,MIL,3.0,G,PG,75,188,1986-05-04T00:00:00,Indianapolis,Indiana,,IUPUI,9133907.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000743.png,10
+20000745,Brandon,Knight,DET,20.0,G,PG,74,182,1991-12-02T00:00:00,Miami,Florida,,Kentucky,15643750.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000745.png,6
+20000748,Michael,Kidd-Gilchrist,DAL,9.0,F,SF,78,230,1993-09-26T00:00:00,Philadelphia,Pennsylvania,,Kentucky,595122.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000748.png,6
+20000749,Marvin,Williams,MIL,20.0,F,PF,80,237,1986-06-19T00:00:00,Bremerton,Washington,,North Carolina,604278.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000749.png,13
+20000752,Kemba,Walker,BOS,8.0,G,PG,72,184,1990-05-08T00:00:00,Bronx,New York,,Connecticut,32742000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000752.png,7
+20000754,Cody,Zeller,CHA,40.0,C,C,84,240,1992-10-05T00:00:00,Washington,Indiana,,Indiana,14471910.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000754.png,5
+20000758,Bismack,Biyombo,CHA,8.0,C,C,80,255,1992-08-28T00:00:00,Lubumbashi,Congo,,,17000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000758.png,7
+20000762,Noah,Vonleh,DEN,32.0,F,PF,82,257,1995-08-24T00:00:00,Haverhill,Massachusetts,,Indiana,2000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000762.png,4
+20000775,Shabazz,Napier,WAS,5.0,G,PG,72,175,1991-07-14T00:00:00,Roxbury,Massachusetts,,Connecticut,1845301.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000775.png,4
+20000776,James,Ennis,ORL,11.0,F,SF,78,215,1990-07-01T00:00:00,Ventura,California,,Long Beach State,1882867.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000776.png,4
+20000780,Udonis,Haslem,MIA,40.0,F,PF,80,235,1980-06-09T00:00:00,Miami,Florida,,Florida,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000780.png,15
+20000784,Carmelo,Anthony,POR,0.0,F,PF,80,238,1984-05-29T00:00:00,Brooklyn,New York,,Syracuse,1364204.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000784.png,15
+20000788,Tim,Hardaway Jr.,DAL,11.0,F,SF,77,205,1992-03-16T00:00:00,Miami,Florida,,Michigan,20025127.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000788.png,5
+20000795,Andrew,Wiggins,GS,22.0,F,SF,79,197,1995-02-23T00:00:00,Toronto,Ontario,,Kansas,27504630.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000795.png,4
+20000797,Ricky,Rubio,PHO,11.0,G,PG,75,190,1990-10-21T00:00:00,El Masnou,Spain,,,16200000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000797.png,7
+20000800,Gorgui,Dieng,MEM,14.0,C,C,82,252,1990-01-18T00:00:00,Kebemer,Senegal,,Louisville,16229213.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000800.png,5
+20000804,Zach,LaVine,CHI,8.0,G,PG,78,200,1995-03-10T00:00:00,Renton,Washington,,UCLA,19500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000804.png,4
+20000806,Glenn,Robinson III,PHI,40.0,G,SG,78,222,1994-01-08T00:00:00,Gary,Indiana,,Michigan,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000806.png,4
+20000810,Andre,Drummond,CLE,3.0,C,C,82,279,1993-08-10T00:00:00,Mount Vernon,New York,,Connecticut,27093019.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000810.png,6
+20000811,Kentavious,Caldwell-Pope,LAL,1.0,G,SG,77,204,1993-02-18T00:00:00,Thomaston,Georgia,,Georgia,8089282.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000811.png,5
+20000813,D.J.,Augustin,ORL,14.0,G,PG,71,183,1987-11-10T00:00:00,New Orleans,Louisiana,,Texas,7250000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000813.png,10
+20000816,Spencer,Dinwiddie,BKN,26.0,G,PG,77,215,1993-04-06T00:00:00,Los Angeles,California,,Colorado,10605600.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000816.png,4
+20000822,Danilo,Gallinari,OKC,8.0,F,SF,82,233,1988-08-08T00:00:00,Sant'Angelo Lodigiano,Italy,,,22615559.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000822.png,9
+20000824,Wilson,Chandler,BKN,21.0,F,SF,80,235,1987-05-10T00:00:00,Benton Harbor,Michigan,,DePaul,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000824.png,10
+20000827,Jusuf,Nurkic,POR,27.0,C,C,84,290,1994-08-23T00:00:00,Tuzla,Bosnia,,,13125000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000827.png,4
+20000828,JaVale,McGee,LAL,7.0,C,C,84,270,1988-01-19T00:00:00,Flint,Michigan,,Nevada,4000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000828.png,10
+20000832,Gary,Harris,DEN,14.0,G,SG,76,210,1994-09-14T00:00:00,Fishers,Indiana,,Michigan State,17839286.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000832.png,4
+20000833,Gordon,Hayward,BOS,20.0,F,SF,79,225,1990-03-23T00:00:00,Brownsburg,Indiana,,Butler,32700690.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000833.png,8
+20000834,Derrick,Favors,NO,22.0,F,PF,81,265,1991-07-15T00:00:00,Atlanta,Georgia,,Georgia Tech,17650000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000834.png,8
+20000835,Enes,Kanter,BOS,11.0,C,C,82,250,1992-05-20T00:00:00,Zurich,Switzerland,,Kentucky,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000835.png,7
+20000836,Trey,Burke,DAL,32.0,G,PG,72,185,1992-11-12T00:00:00,Columbus,Ohio,,Michigan,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000836.png,5
+20000837,Alec,Burks,PHI,20.0,G,SG,78,214,1991-07-20T00:00:00,Grandview,Missouri,,Colorado,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000837.png,7
+20000839,Rodney,Hood,POR,5.0,G,SG,80,208,1992-10-20T00:00:00,Meridian,Mississippi,,Duke,5718000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000839.png,4
+20000840,Rudy,Gobert,UTA,27.0,C,C,85,258,1992-06-26T00:00:00,Saint-Quentin,France,,,23241573.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000840.png,5
+20000841,Dante,Exum,CLE,1.0,G,PG,77,214,1995-07-13T00:00:00,Melbourne,Australia,,,9600000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000841.png,3
+20000842,Joe,Ingles,UTA,2.0,F,SF,79,220,1987-10-02T00:00:00,Happy Valley,South Australia,,,11954546.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000842.png,4
+20000847,Marcus,Morris,LAC,31.0,F,PF,80,218,1989-09-02T00:00:00,Philadelphia,Pennsylvania,,Kansas,15000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000847.png,7
+20000848,Markieff,Morris,LAL,88.0,F,PF,80,245,1989-09-02T00:00:00,Philadelphia,Pennsylvania,,Kansas,1750000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000848.png,7
+20000849,Goran,Dragic,MIA,7.0,G,PG,75,190,1986-05-06T00:00:00,Ljubljana,Yugoslavia,,,19217900.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000849.png,10
+20000850,Eric,Bledsoe,MIL,6.0,G,PG,73,214,1989-12-09T00:00:00,Birmingham,Alabama,,Kentucky,15625000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000850.png,8
+20000852,Alex,Len,SAC,25.0,C,C,84,250,1993-06-16T00:00:00,Antratsit,Ukraine,,Maryland,4160000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000852.png,5
+20000854,Anthony,Tolliver,MEM,44.0,F,PF,80,240,1985-06-01T00:00:00,Springfield,Missouri,,Creighton,183115.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000854.png,10
+20000856,P.J.,Tucker,HOU,17.0,F,SF,77,245,1985-05-05T00:00:00,Raleigh,North Carolina,,Texas,8349039.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000856.png,7
+20000858,T.J.,Warren,IND,1.0,F,SF,80,220,1993-09-05T00:00:00,Durham,North Carolina,,North Carolina State,10810000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000858.png,4
+20000860,Rudy,Gay,SA,22.0,F,SF,80,250,1986-08-17T00:00:00,Baltimore,Maryland,,Connecticut,14500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000860.png,12
+20000864,Ben,McLemore,HOU,16.0,G,SG,75,195,1993-02-11T00:00:00,St. Louis,Missouri,,Kansas,2028594.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000864.png,5
+20000874,Serge,Ibaka,TOR,9.0,F,PF,84,235,1989-09-18T00:00:00,Brazzaville,Congo,,,23271604.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000874.png,9
+20000875,Steven,Adams,OKC,12.0,C,C,83,265,1993-07-20T00:00:00,Rotorua,New Zealand,,Pittsburgh,25842697.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000875.png,5
+20000876,Andre,Roberson,OKC,21.0,G,SG,79,210,1991-12-04T00:00:00,Las Cruces,New Mexico,,Colorado,10740740.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000876.png,5
+20000877,Russell,Westbrook,HOU,0.0,G,PG,75,200,1988-11-12T00:00:00,Long Beach,California,,UCLA,38506482.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000877.png,10
+20000878,Lance,Thomas,BKN,42.0,F,SF,80,235,1988-04-24T00:00:00,Brooklyn,New York,,Duke,7119650.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000878.png,7
+20000881,Reggie,Jackson,LAC,1.0,G,PG,75,208,1990-04-16T00:00:00,Pordenone,Italy,,Boston College,512721.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000881.png,7
+20000882,Jeremy,Lamb,IND,26.0,G,SG,77,180,1992-05-30T00:00:00,Henrico,Virginia,,Connecticut,10500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000882.png,6
+20000884,Kevin,Durant,BKN,7.0,F,SF,82,240,1988-09-29T00:00:00,Washington,District of Columbia,,Texas,38199000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000884.png,11
+20000887,Will,Barton,DEN,5.0,G,SG,77,181,1991-01-06T00:00:00,Baltimore,Maryland,,Memphis,12776786.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000887.png,6
+20000890,Dion,Waiters,LAL,18.0,G,SG,75,210,1991-12-10T00:00:00,Philadelphia,Pennsylvania,,Syracuse,375385.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000890.png,6
+20000896,Reggie,Bullock,NY,25.0,F,SF,78,205,1991-03-16T00:00:00,Kinston,North Carolina,,North Carolina,4000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000896.png,5
+20000901,Ish,Smith,WAS,14.0,G,PG,72,175,1988-07-05T00:00:00,Charlotte,North Carolina,,Wake Forest,6000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000901.png,8
+20000903,Robert,Covington,HOU,33.0,F,SF,79,209,1990-12-14T00:00:00,Bellwood,Illinois,,Tennessee State,11301219.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000903.png,5
+20000904,Hassan,Whiteside,POR,21.0,C,C,84,265,1989-06-13T00:00:00,Gastonia,North Carolina,,Marshall,27093017.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000904.png,6
+20000912,Langston,Galloway,DET,9.0,G,SG,73,200,1991-12-09T00:00:00,Baton Rouge,Louisiana,,Saint Joseph&#x27;s,7333333.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000912.png,4
+20000916,Tyler,Johnson,BKN,8.0,G,SG,76,190,1992-05-07T00:00:00,Grand Forks,North Dakota,,Fresno State,183115.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000916.png,4
+20000933,Seth,Curry,DAL,30.0,G,SG,74,185,1990-08-23T00:00:00,Charlotte,North Carolina,,Duke,7461380.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000933.png,4
+20001389,Richaun,Holmes,SAC,22.0,F,PF,82,235,1993-10-15T00:00:00,Lockport,Illinois,,Bowling Green,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001389.png,3
+20001391,Jahlil,Okafor,NO,9.0,C,C,82,270,1995-12-15T00:00:00,Chicago,Illinois,,Duke,1702486.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001391.png,3
+20001393,Kelly,Oubre Jr.,PHO,3.0,F,SF,79,203,1995-12-09T00:00:00,New Orleans,Louisiana,,Kansas,15625000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001393.png,3
+20001396,Frank,Kaminsky,PHO,8.0,F,PF,84,240,1993-04-04T00:00:00,Lisle,Illinois,,Wisconsin,4767000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001396.png,3
+20001400,Josh,Richardson,PHI,0.0,F,SF,77,200,1993-09-15T00:00:00,Edmond,Oklahoma,,Tennessee,10116576.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001400.png,3
+20001401,Justise,Winslow,MEM,7.0,F,SF,78,222,1996-03-26T00:00:00,Houston,Texas,,Duke,13000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001401.png,3
+20001403,Mario,Hezonja,POR,44.0,G,SG,80,220,1995-02-25T00:00:00,Dubrovnik,Croatia,,,1737145.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001403.png,3
+20001404,Jerian,Grant,WAS,22.0,G,PG,76,204,1992-10-09T00:00:00,Silver Spring,Maryland,,Notre Dame,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001404.png,3
+20001405,Guillermo,Hernangomez,CHA,9.0,C,C,83,250,1994-05-27T00:00:00,Madrid,Spain,,,1676735.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001405.png,2
+20001406,Kristaps,Porzingis,DAL,6.0,F,PF,87,240,1995-08-02T00:00:00,Liepaja,Latvia,,,27285000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001406.png,3
+20001408,Rondae,Hollis-Jefferson,TOR,4.0,F,SF,78,217,1995-01-03T00:00:00,Chester,Pennsylvania,,Arizona,2500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001408.png,3
+20001413,Terry,Rozier,CHA,3.0,G,PG,73,190,1994-03-17T00:00:00,Youngstown,Ohio,,Louisville,19894737.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001413.png,3
+20001416,Norman,Powell,TOR,24.0,F,SF,75,215,1993-05-25T00:00:00,San Diego,California,,UCLA,10116576.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001416.png,3
+20001418,Delon,Wright,DAL,55.0,G,PG,77,185,1992-04-26T00:00:00,Los Angeles,California,,Utah,9473684.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001418.png,3
+20001419,Cristiano,Da Silva Felicio,CHI,6.0,C,C,82,270,1992-07-07T00:00:00,Pouso Alegre,Brazil,,,8156500.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001419.png,3
+20001420,Bobby,Portis,NY,1.0,F,PF,82,250,1995-02-10T00:00:00,Little Rock,Arkansas,,Arkansas,15000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001420.png,3
+20001421,Cedi,Osman,CLE,16.0,F,SF,79,230,1995-04-08T00:00:00,Ohrid,Macedonia,,,2907143.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001421.png,1
+20001424,Myles,Turner,IND,33.0,C,C,83,250,1996-03-24T00:00:00,Bedford,Texas,,Texas,18000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001424.png,3
+20001427,Stanley,Johnson,TOR,5.0,F,SF,78,242,1996-05-29T00:00:00,Fullerton,California,,Arizona,3623000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001427.png,3
+20001429,Nemanja,Bjelica,SAC,88.0,F,PF,82,234,1988-05-09T00:00:00,Belgrade,Yugoslavia,,,6825000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001429.png,3
+20001430,Tyus,Jones,MEM,21.0,G,PG,72,196,1996-05-10T00:00:00,Burnsville,Minnesota,,Duke,9258000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001430.png,3
+20001431,Karl-Anthony,Towns,MIN,32.0,C,C,83,248,1995-11-15T00:00:00,Piscataway,New Jersey,,Kentucky,27285000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001431.png,3
+20001433,Trey,Lyles,SA,41.0,F,PF,81,234,1995-11-05T00:00:00,Saskatoon,Saskatchewan,,Kentucky,5500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001433.png,3
+20001434,Raul,Neto,PHI,19.0,G,PG,73,180,1992-05-19T00:00:00,Belo Horizonte,Brazil,,,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001434.png,3
+20001437,Cameron,Payne,PHO,15.0,G,PG,75,190,1994-08-08T00:00:00,Bartlett,Tennessee,,Murray State,1737145.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001437.png,3
+20001438,Pat,Connaughton,MIL,24.0,G,SG,77,209,1993-01-06T00:00:00,Arlington,Massachusetts,,Notre Dame,1723050.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001438.png,3
+20001441,Nikola,Jokic,DEN,15.0,C,C,84,284,1995-02-19T00:00:00,Sombor,Serbia and Montenegro,,,27504630.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001441.png,3
+20001442,Emmanuel,Mudiay,UTA,15.0,G,PG,75,200,1996-03-05T00:00:00,Kinshasa,DR Congo,,,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001442.png,3
+20001447,Montrezl,Harrell,LAC,5.0,F,PF,79,240,1994-01-26T00:00:00,Tarboro,North Carolina,,Louisville,6000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001447.png,3
+20001449,Boban,Marjanovic,DAL,51.0,C,C,88,290,1988-08-15T00:00:00,Zajecar,Yugoslavia,,,3500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001449.png,3
+20001452,Justin,Anderson,BKN,10.0,G,SG,77,231,1993-11-19T00:00:00,Montross,Virginia,,Virginia,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001452.png,3
+20001455,Kevon,Looney,GS,5.0,F,SF,81,222,1996-02-06T00:00:00,Milwaukee,Wisconsin,,UCLA,4464226.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001455.png,3
+20001457,Larry,Nance Jr.,CLE,22.0,F,PF,79,245,1993-01-01T00:00:00,Akron,Ohio,,Wyoming,12727273.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001457.png,3
+20001458,D'Angelo,Russell,MIN,0.0,G,PG,76,193,1996-02-23T00:00:00,Louisville,Kentucky,,Ohio State,27285000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001458.png,3
+20001460,Devin,Booker,PHO,1.0,G,SG,77,206,1996-10-30T00:00:00,Grand Rapids,Michigan,,Kentucky,27285000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001460.png,3
+20001461,Willie,Cauley-Stein,DAL,33.0,C,C,84,240,1993-08-18T00:00:00,Olathe,Kansas,,Kentucky,2177483.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001461.png,3
+20001470,Treveon,Graham,ATL,2.0,F,SF,77,219,1993-10-28T00:00:00,Washington,District of Columbia,,Virginia Commonwealth,1645357.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001470.png,2
+20001479,Michael,Frazier II,HOU,21.0,G,SG,75,200,,Gainesville,Florida,,Florida,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001479.png,0
+20001503,Brad,Wanamaker,BOS,9.0,G,PG,75,210,1989-07-25T00:00:00,Philadelphia,Pennsylvania,,Pittsburgh,1445697.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001503.png,1
+20001521,Thanasis,Antetokounmpo,MIL,43.0,F,SF,78,219,1992-07-18T00:00:00,Athens,Greece,,,1445697.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001521.png,1
+20001525,T.J.,McConnell,IND,9.0,G,PG,73,190,1992-03-25T00:00:00,Pittsburgh,Pennsylvania,,Arizona,3500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001525.png,3
+20001526,Jordan,McRae,DET,52.0,G,SG,77,179,1991-03-28T00:00:00,Hinesville,Georgia,,Tennessee,1645357.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001526.png,2
+20001527,Christian,Wood,DET,35.0,F,PF,82,214,1995-09-27T00:00:00,Long Beach,California,,UNLV,1645357.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001527.png,2
+20001530,Malcolm,Miller,TOR,13.0,F,SF,79,210,1993-03-06T00:00:00,Laytonsville,Maryland,,Holy Cross,1588231.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001530.png,1
+20001567,Deonte,Burton,OKC,30.0,G,PG,76,240,1994-01-31T00:00:00,Los Angeles,California,,Iowa State,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001567.png,0
+20001573,Quinn,Cook,LAL,28.0,G,PG,73,180,1993-03-23T00:00:00,Washington,District of Columbia,,Duke,3000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001573.png,2
+20001597,Dario,Saric,PHO,20.0,F,PF,82,225,1994-04-08T00:00:00,Sibenik,Croatia,,,3481986.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001597.png,2
+20001623,Rodney,McGruder,LAC,19.0,G,SG,76,205,1991-07-29T00:00:00,Landover,Maryland,,Kansas State,4807693.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001623.png,2
+20001630,Khem,Birch,ORL,24.0,C,C,81,233,1992-09-28T00:00:00,,,,UNLV,3000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001630.png,1
+20001661,Ben,Simmons,PHI,25.0,G,PG,82,240,1996-07-20T00:00:00,Melbourne,Australia,,LSU,8113930.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001661.png,1
+20001666,Jamal,Murray,DEN,27.0,G,PG,76,215,1997-02-23T00:00:00,Kitchener,Ontario,,Kentucky,4444746.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001666.png,2
+20001667,Thon,Maker,DET,7.0,C,C,84,221,1997-02-25T00:00:00,Sydney,Australia,,,3569643.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001667.png,2
+20001668,Davis,Bertans,WAS,42.0,F,SF,82,225,1992-11-12T00:00:00,Valmiera,Latvia,,,7000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001668.png,2
+20001670,Kris,Dunn,CHI,32.0,G,PG,75,205,1994-03-18T00:00:00,New London,Connecticut,,Providence,5348007.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001670.png,2
+20001671,Brandon,Ingram,NO,14.0,F,SF,79,190,1997-09-02T00:00:00,Kinston,North Carolina,,Duke,7265485.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001671.png,2
+20001672,Jaylen,Brown,BOS,7.0,G,SG,78,223,1996-10-24T00:00:00,Marietta,Georgia,,California,6534829.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001672.png,2
+20001673,Buddy,Hield,SAC,24.0,G,SG,76,220,1992-12-17T00:00:00,Freeport,Bahamas,,Oklahoma,4861208.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001673.png,2
+20001674,Marquese,Chriss,GS,32.0,F,PF,81,240,1997-07-02T00:00:00,Sacramento,California,,Washington,654469.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001674.png,2
+20001675,Skal,Labissiere,ATL,7.0,F,PF,82,235,1996-03-18T00:00:00,,,,Kentucky,2338847.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001675.png,2
+20001678,Malik,Beasley,MIN,5.0,G,SG,76,187,1996-11-26T00:00:00,Atlanta,Georgia,,Florida State,2731714.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001678.png,2
+20001679,Dejounte,Murray,SA,5.0,G,PG,76,180,1996-09-19T00:00:00,Seattle,Washington,,Washington,2321735.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001679.png,2
+20001680,Taurean,Prince,BKN,2.0,F,SF,79,218,1994-03-22T00:00:00,San Marcos,Texas,,Baylor,3481986.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001680.png,2
+20001682,Patrick,McCaw,TOR,22.0,G,SG,79,181,1995-10-25T00:00:00,St. Louis,Missouri,,UNLV,4000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001682.png,2
+20001683,Domantas,Sabonis,IND,11.0,C,C,83,240,1996-05-03T00:00:00,Portland,Oregon,,Gonzaga,3529555.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001683.png,2
+20001687,Jakob,Poeltl,SA,25.0,C,C,85,245,1995-10-15T00:00:00,Vienna,Austria,,Utah,3754886.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001687.png,2
+20001689,Damian,Jones,ATL,30.0,C,C,83,245,1995-06-30T00:00:00,Baton Rouge,Louisiana,,Vanderbilt,2305057.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001689.png,2
+20001690,Deandre,Bembry,ATL,95.0,F,SF,77,210,1994-07-04T00:00:00,Charlotte,North Carolina,,Saint Joseph&#x27;s,2603982.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001690.png,2
+20001692,Timothe,Luwawu,BKN,9.0,G,SG,79,210,1995-05-09T00:00:00,Cannes,France,,,654469.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001692.png,2
+20001693,Denzel,Valentine,CHI,45.0,F,SF,76,220,1993-11-16T00:00:00,Lansing,Michigan,,Michigan State,3377569.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001693.png,2
+20001694,Ivica,Zubac,LAC,40.0,C,C,84,240,1997-03-18T00:00:00,Mostar,Bosnia and Herzegovina,,,6481482.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001694.png,2
+20001695,Ante,Zizic,CLE,41.0,F,PF,82,266,1997-01-04T00:00:00,Split,Croatia,,,2281800.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001695.png,1
+20001697,Juan,Hernangomez,MIN,41.0,F,PF,81,214,1995-09-28T00:00:00,Madrid,Spain,,,3321030.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001697.png,2
+20001698,Cheick,Diallo,PHO,14.0,F,PF,80,219,1996-09-13T00:00:00,Kayes,Mali,,Kansas,1678854.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001698.png,2
+20001701,Malcolm,Brogdon,IND,7.0,G,PG,77,229,1992-12-11T00:00:00,Norcross,Georgia,,Virginia,20000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001701.png,2
+20001706,Jake,Layman,MIN,10.0,F,SF,80,209,1994-03-07T00:00:00,Wrentham,Massachusetts,,Maryland,3581986.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001706.png,2
+20001707,Caris,Levert,BKN,22.0,G,SG,78,205,1994-08-25T00:00:00,Columbus,Ohio,,Michigan,2625718.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001707.png,2
+20001708,Georges,Niang,UTA,31.0,F,SF,79,230,1993-06-17T00:00:00,Lawrence,Massachusetts,,Iowa State,1645357.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001708.png,2
+20001710,Pascal,Siakam,TOR,43.0,F,PF,81,230,1994-04-02T00:00:00,Douala,Cameroon,,New Mexico State,2351839.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001710.png,2
+20001721,Abdel,Nader,OKC,11.0,F,SF,77,225,1993-09-25T00:00:00,Alexandria,Egypt,,Iowa State,1618520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001721.png,1
+20001722,Furkan,Korkmaz,PHI,30.0,G,SG,79,202,1997-07-24T00:00:00,Bakirkoy,Turkey,,,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001722.png,1
+20001730,Gary,Payton,WAS,20.0,G,PG,75,195,1992-12-01T00:00:00,,,,Oregon State,1052909.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001730.png,2
+20001732,Yogi,Ferrell,SAC,3.0,G,PG,72,178,1993-05-09T00:00:00,Greenfield,Indiana,,Indiana,3150000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001732.png,2
+20001733,Fred,Vanvleet,TOR,23.0,G,PG,73,197,1994-02-25T00:00:00,Rockford,Illinois,,Wichita State,9346153.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001733.png,2
+20001745,Bogdan,Bogdanovic,SAC,8.0,G,SG,78,220,1992-08-18T00:00:00,,,,,8529386.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001745.png,1
+20001746,Ryan,Arcidiacono,CHI,51.0,G,PG,75,195,1994-03-26T00:00:00,Philadelphia,Pennsylvania,,Villanova,3000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001746.png,1
+20001747,Danuel,House,HOU,4.0,F,PF,78,220,1993-06-07T00:00:00,Sugar Land,Texas,,Texas A&amp;M,3540000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001747.png,2
+20001749,Tomas,Satoransky,CHI,31.0,G,PG,79,210,1991-10-30T00:00:00,Prague,Czechoslovakia,,,10000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001749.png,2
+20001757,Dorian,Finney-Smith,DAL,10.0,F,SF,79,220,1993-05-04T00:00:00,Portsmouth,Virginia,,Florida,4000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001757.png,2
+20001760,Bryn,Forbes,SA,11.0,G,SG,74,205,1993-07-23T00:00:00,Lansing,Michigan,,Michigan State,2875000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001760.png,2
+20001767,Jarrod,Uthoff,WAS,7.0,F,SF,81,221,1993-05-19T00:00:00,Cedar Rapids,Illinois,,Iowa,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001767.png,1
+20001791,Damion,Lee,GS,1.0,G,SG,77,210,1992-10-21T00:00:00,Baltimore,Maryland,,Louisville,842327.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001791.png,1
+20001795,Shaquille,Harrison,CHI,3.0,G,PG,79,190,1993-10-06T00:00:00,,,,Tulsa,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001795.png,1
+20001796,Derrick,Jones,MIA,5.0,F,SF,78,210,1997-02-15T00:00:00,,,,UNLV,1645357.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001796.png,2
+20001801,Alex,Caruso,LAL,4.0,G,SG,77,186,1994-02-28T00:00:00,,,,Texas A&amp;M,2750000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001801.png,1
+20001820,David,Nwaba,HOU,0.0,G,SG,77,219,1993-01-14T00:00:00,,,,Cal Poly,903111.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001820.png,2
+20001822,Hamidou,Diallo,OKC,6.0,G,SG,77,202,1998-07-31T00:00:00,,,,Kentucky,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001822.png,0
+20001823,Lonzo,Ball,NO,2.0,G,PG,78,190,1997-10-27T00:00:00,,,,UCLA,8719320.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001823.png,1
+20001824,De'Aaron,Fox,SAC,5.0,G,PG,75,185,1997-12-20T00:00:00,,,,Kentucky,6392760.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001824.png,1
+20001825,Markelle,Fultz,ORL,20.0,G,PG,75,209,1998-05-29T00:00:00,,,,Washington,9745200.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001825.png,1
+20001826,Dennis,Smith Jr.,NY,5.0,G,PG,74,205,1997-11-25T00:00:00,,,,North Carolina State,4463640.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001826.png,1
+20001827,Harry,Giles,SAC,20.0,F,PF,83,240,1998-04-22T00:00:00,,,,Duke,2578800.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001827.png,0
+20001828,Josh,Jackson,MEM,20.0,F,SF,80,207,1997-02-10T00:00:00,,,,Kansas,7059480.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001828.png,1
+20001829,Jayson,Tatum,BOS,0.0,F,SF,80,210,1998-03-03T00:00:00,,,,Duke,7830000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001829.png,1
+20001830,Jonathan,Isaac,ORL,1.0,F,PF,83,230,1997-10-03T00:00:00,,,,Florida State,5806440.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001830.png,1
+20001831,Lauri,Markkanen,CHI,24.0,F,PF,84,240,1997-05-22T00:00:00,,,,Arizona,5300400.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001831.png,1
+20001832,Frank,Ntilikina,NY,11.0,G,PG,76,200,1998-07-28T00:00:00,,,,,4855800.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001832.png,1
+20001833,Malik,Monk,CHA,1.0,G,SG,75,200,1998-02-04T00:00:00,,,,Kentucky,4028400.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001833.png,1
+20001834,Zach,Collins,POR,33.0,C,C,83,250,1997-11-19T00:00:00,,,,Gonzaga,4240200.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001834.png,1
+20001835,John,Collins,ATL,20.0,F,PF,81,235,1997-09-23T00:00:00,,,,Wake Forest,2686560.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001835.png,1
+20001836,Bam,Adebayo,MIA,13.0,C,C,81,255,1997-07-18T00:00:00,,,,Kentucky,3454080.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001836.png,1
+20001837,Jarrett,Allen,BKN,31.0,C,C,83,243,1998-04-21T00:00:00,,,,Texas,2376840.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001837.png,1
+20001838,OG,Anunoby,TOR,3.0,F,SF,79,232,1997-07-17T00:00:00,,,,Indiana,2281800.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001838.png,1
+20001839,TJ,Leaf,IND,22.0,F,PF,82,222,1997-04-30T00:00:00,,,,UCLA,2813280.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001839.png,1
+20001840,Luke,Kennard,DET,5.0,G,SG,77,206,1996-06-24T00:00:00,,,,Duke,3827160.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001840.png,1
+20001841,D.J.,Wilson,MIL,5.0,F,PF,82,231,1996-02-19T00:00:00,,,,Michigan,2961120.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001841.png,1
+20001842,Justin,Patton,DET,13.0,C,C,83,241,1997-06-14T00:00:00,,,,Creighton,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001842.png,1
+20001843,Terrance,Ferguson,OKC,23.0,G,SG,78,190,1998-05-17T00:00:00,,,,,2475840.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001843.png,1
+20001844,Donovan,Mitchell,UTA,45.0,G,SG,73,215,1996-09-07T00:00:00,,,,Louisville,3635760.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001844.png,1
+20001845,Justin,Jackson,DAL,44.0,F,SF,79,220,1995-03-28T00:00:00,,,,North Carolina,3280920.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001845.png,1
+20001846,Jordan,Bell,CLE,5.0,F,PF,80,216,1995-01-07T00:00:00,,,,Oregon,1620564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001846.png,1
+20001847,Frank,Jackson,NO,15.0,G,PG,75,205,1998-05-04T00:00:00,,,,Duke,1618520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001847.png,0
+20001848,Wesley,Iwundu,ORL,25.0,F,SF,78,195,1994-12-20T00:00:00,,,,Kansas State,1618420.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001848.png,1
+20001851,Anzejs,Pasecniks,WAS,18.0,C,C,85,220,1995-12-20T00:00:00,,,,,482144.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001851.png,0
+20001852,Thomas,Bryant,WAS,13.0,C,C,82,248,1997-07-31T00:00:00,,,,Indiana,8000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001852.png,1
+20001853,Josh,Hart,NO,3.0,G,SG,77,215,1995-03-06T00:00:00,,,,Villanova,1655160.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001853.png,1
+20001854,Caleb,Swanigan,POR,50.0,F,PF,81,260,1997-04-18T00:00:00,,,,Purdue,2033160.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001854.png,1
+20001856,Derrick,White,SA,4.0,G,PG,76,190,1994-07-02T00:00:00,,,,Colorado,1948080.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001856.png,1
+20001857,Tony,Bradley,UTA,13.0,C,C,82,248,1998-01-08T00:00:00,,,,North Carolina,1962360.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001857.png,1
+20001858,Kyle,Kuzma,LAL,0.0,F,PF,80,221,1995-07-24T00:00:00,,,,Utah,1974600.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001858.png,1
+20001860,Frank,Mason III,MIL,15.0,G,PG,71,190,1994-04-03T00:00:00,,,,Kansas,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001860.png,1
+20001861,Dwayne,Bacon,CHA,7.0,F,SF,78,221,1995-08-30T00:00:00,,,,Florida State,1618520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001861.png,1
+20001863,Damyean,Dotson,NY,21.0,G,SG,77,210,1994-05-06T00:00:00,,,,Houston,1618520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001863.png,1
+20001864,Sterling,Brown,MIL,23.0,G,SG,77,219,1995-02-10T00:00:00,,,,SMU,1618520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001864.png,1
+20001867,Semi,Ojeleye,BOS,37.0,F,PF,78,240,1994-12-05T00:00:00,,,,SMU,1618520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001867.png,1
+20001869,Sindarius,Thornwell,NO,12.0,G,SG,76,215,1994-11-15T00:00:00,,,,South Carolina,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001869.png,1
+20001870,Vlatko,Cancar,DEN,31.0,F,SF,80,236,1997-04-10T00:00:00,,,,,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001870.png,0
+20001871,Monte,Morris,DEN,11.0,G,PG,74,183,1995-06-27T00:00:00,,,,Iowa State,1588231.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001871.png,1
+20001873,Dillon,Brooks,MEM,24.0,F,SF,79,225,1996-01-22T00:00:00,,,,Oregon,1618520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001873.png,1
+20001875,Edmond,Sumner,IND,5.0,G,PG,76,196,1995-12-31T00:00:00,,,,Xavier,2000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001875.png,1
+20001880,Nigel,Williams-Goss,UTA,0.0,G,PG,74,190,1994-09-16T00:00:00,,,,Gonzaga,1500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001880.png,0
+20001885,P.J.,Dozier,DEN,35.0,G,PG,78,205,1996-10-25T00:00:00,,,,South Carolina,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001885.png,1
+20001886,Chris,Boucher,TOR,25.0,F,PF,81,200,1993-01-11T00:00:00,,,,Oregon,1588231.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001886.png,1
+20001889,Luke,Kornet,CHI,2.0,F,PF,86,250,1995-07-15T00:00:00,,,,Vanderbilt,2250000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001889.png,1
+20001890,Kobi,Simmons,CHA,23.0,G,PG,77,180,1997-07-04T00:00:00,,,,Arizona,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001890.png,1
+20001898,Johnathan,Motley,LAC,15.0,F,PF,80,230,1995-05-04T00:00:00,,,,Baylor,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001898.png,1
+20001901,Daniel,Theis,BOS,27.0,F,PF,80,245,1992-04-04T00:00:00,,,,,5000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001901.png,1
+20001907,Alfonzo,McKinnie,CLE,28.0,F,SF,79,215,1992-09-17T00:00:00,,,,Green Bay,1500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001907.png,1
+20001909,Maximilian,Kleber,DAL,42.0,F,PF,82,240,1992-01-29T00:00:00,,,,,8000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001909.png,1
+20001912,Torrey,Craig,DEN,3.0,G,SG,79,221,1990-12-19T00:00:00,,,,USC Upstate,2000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001912.png,1
+20001913,Royce,O'Neale,UTA,23.0,F,SF,76,226,1993-06-05T00:00:00,,,,Baylor,1618520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001913.png,1
+20001922,Antonius,Cleveland,DAL,3.0,G,SG,77,195,1994-02-02T00:00:00,,,,Southeast Missouri State,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001922.png,1
+20001946,Nazareth,Mitrou-Long,IND,15.0,G,SG,75,218,1993-08-03T00:00:00,,,,Iowa State,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001946.png,1
+20001974,Josh,Gray,NO,5.0,G,PG,72,180,1993-09-09T00:00:00,,,,LSU,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001974.png,0
+20001984,Luka,Doncic,DAL,77.0,G,PG,79,230,1999-02-28T00:00:00,,,,,7683360.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001984.png,0
+20001985,Mohamed,Bamba,ORL,5.0,C,C,84,231,1998-05-12T00:00:00,,,,Texas,5697600.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001985.png,0
+20001986,Grayson,Allen,MEM,3.0,G,SG,76,198,1995-10-08T00:00:00,,,,Duke,2429400.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001986.png,0
+20001987,Donte,Divincenzo,MIL,0.0,G,SG,76,203,1997-01-31T00:00:00,,,,Villanova,2905800.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001987.png,0
+20001988,Michael,Porter Jr.,DEN,1.0,F,PF,82,218,1998-06-29T00:00:00,,,,Missouri,3389400.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001988.png,0
+20001989,Trae,Young,ATL,11.0,G,PG,73,180,1998-09-19T00:00:00,,,,Oklahoma,6273000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001989.png,0
+20001990,Deandre,Ayton,PHO,22.0,C,C,83,250,1998-07-23T00:00:00,,,,Arizona,9562920.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001990.png,0
+20001991,Jaren,Jackson Jr.,MEM,13.0,F,PF,83,242,1999-09-15T00:00:00,,,,Michigan State,6927480.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001991.png,0
+20001993,Kevin,Huerter,ATL,3.0,G,SG,79,190,1998-08-27T00:00:00,,,,Maryland,2636280.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001993.png,0
+20001994,Kevin,Knox,NY,20.0,F,SF,79,215,1999-08-11T00:00:00,,,,Kentucky,4380120.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001994.png,0
+20001995,Marvin,Bagley,SAC,35.0,F,PF,83,235,1999-03-14T00:00:00,,,,Duke,8556120.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001995.png,0
+20001996,Wendell,Carter Jr.,CHI,34.0,F,PF,81,270,1999-04-16T00:00:00,,,,Duke,5201400.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001996.png,0
+20001997,Collin,Sexton,CLE,2.0,G,PG,73,190,1999-01-04T00:00:00,,,,Alabama,4764960.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001997.png,0
+20001998,Mikal,Bridges,PHO,25.0,F,SF,78,209,1996-08-30T00:00:00,,,,Villanova,4161000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001998.png,0
+20001999,Shai,Gilgeous-Alexander,OKC,2.0,G,SG,77,180,1998-07-12T00:00:00,,,,Kentucky,3952920.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20001999.png,0
+20002000,Jerome,Robinson,WAS,12.0,G,SG,76,190,1997-02-22T00:00:00,,,,Boston College,3567720.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002000.png,0
+20002001,Zhaire,Smith,PHI,5.0,G,SG,75,205,1999-06-09T00:00:00,,,,Texas Tech,3058800.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002001.png,0
+20002002,Troy,Brown,WAS,6.0,F,SF,78,215,1999-07-28T00:00:00,,,,Oregon,3219480.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002002.png,0
+20002003,Miles,Bridges,CHA,0.0,F,SF,78,225,1998-03-21T00:00:00,,,,Michigan State,3755400.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002003.png,0
+20002004,Chandler,Hutchison,CHI,15.0,F,SF,79,210,1996-04-26T00:00:00,,,,Boise State,2332320.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002004.png,0
+20002005,Aaron,Holiday,IND,3.0,G,PG,72,185,1996-09-30T00:00:00,,,,UCLA,2329200.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002005.png,0
+20002006,Josh,Okogie,MIN,20.0,G,SG,76,213,1998-09-01T00:00:00,,,,Georgia Tech,2530680.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002006.png,0
+20002007,Anfernee,Simons,POR,1.0,G,SG,75,181,1999-06-08T00:00:00,,,,,2149560.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002007.png,0
+20002008,Lonnie,Walker IV,SA,1.0,G,SG,77,204,1998-12-14T00:00:00,,,,Miami (FL),2689920.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002008.png,0
+20002010,Devonte',Graham,CHA,4.0,G,PG,73,195,1995-02-22T00:00:00,,,,Kansas,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002010.png,0
+20002012,Omari,Spellman,MIN,14.0,F,PF,80,245,1997-07-21T00:00:00,,,,Villanova,1897800.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002012.png,0
+20002013,Melvin,Frazier,ORL,35.0,F,SF,77,215,1996-08-30T00:00:00,,,,Tulane,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002013.png,0
+20002015,Jarred,Vanderbilt,MIN,3.0,F,PF,81,214,1999-04-03T00:00:00,,,,Kentucky,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002015.png,0
+20002016,Mitchell,Robinson,NY,23.0,C,C,84,240,1998-04-01T00:00:00,,,,Western Kentucky,1599712.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002016.png,0
+20002017,Kostas,Antetokounmpo,LAL,37.0,F,PF,82,200,1997-11-20T00:00:00,,,,Dayton,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002017.png,0
+20002018,Isaac,Bonga,WAS,17.0,G,PG,80,180,1999-11-08T00:00:00,,,,,1416842.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002018.png,0
+20002019,Landry,Shamet,LAC,20.0,G,SG,76,190,1997-03-13T00:00:00,,,,Wichita State,1995120.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002019.png,0
+20002020,Ray,Spalding,CHA,26.0,F,PF,82,215,1997-03-11T00:00:00,,,,Louisville,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002020.png,0
+20002021,Khyri,Thomas,DET,13.0,G,SG,75,210,1996-05-08T00:00:00,,,,Creighton,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002021.png,0
+20002022,Rodions,Kurucs,BKN,0.0,F,PF,81,228,1998-02-05T00:00:00,,,,,1699236.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002022.png,0
+20002023,Dzanan,Musa,BKN,13.0,G,SG,81,217,1999-05-08T00:00:00,,,,,1911600.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002023.png,0
+20002024,Robert,Williams,BOS,44.0,F,PF,80,237,1997-10-17T00:00:00,,,,Texas A&amp;M,1937520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002024.png,0
+20002026,Devon,Hall,OKC,14.0,G,SG,74,215,1995-07-07T00:00:00,,,,Virginia,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002026.png,0
+20002027,Gary,Trent Jr.,POR,2.0,G,SG,77,209,1999-01-18T00:00:00,,,,Duke,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002027.png,0
+20002028,Jevon,Carter,PHO,4.0,G,PG,73,200,1995-09-14T00:00:00,,,,West Virginia,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002028.png,0
+20002029,De'Anthony,Melton,MEM,0.0,G,PG,74,200,1998-05-28T00:00:00,,,,USC,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002029.png,0
+20002031,Chimezie,Metu,SA,7.0,F,PF,81,225,1997-03-22T00:00:00,,,,USC,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002031.png,0
+20002032,Jalen,Brunson,DAL,13.0,G,PG,73,190,1996-08-31T00:00:00,,,,Villanova,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002032.png,0
+20002033,Shake,Milton,PHI,18.0,G,SG,77,205,1996-09-26T00:00:00,,,,SMU,1455697.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002033.png,0
+20002034,Jacob,Evans,MIN,12.0,G,SG,76,210,1997-06-18T00:00:00,,,,Cincinnati,1925880.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002034.png,0
+20002035,Sviatoslav,Mykhailiuk,DET,19.0,F,SF,79,205,1997-06-10T00:00:00,,,,Kansas,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002035.png,0
+20002036,Moritz,Wagner,WAS,21.0,F,PF,83,245,1997-04-26T00:00:00,,,,Michigan,2063520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002036.png,0
+20002038,Elie,Okobo,PHO,2.0,G,PG,75,190,1997-10-23T00:00:00,,,,,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002038.png,0
+20002039,Alize,Johnson,IND,24.0,F,PF,79,212,1996-04-22T00:00:00,,,,Missouri State,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002039.png,0
+20002040,Bruce,Brown Jr.,DET,6.0,G,SG,76,202,1996-08-15T00:00:00,,,,Miami (FL),1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002040.png,0
+20002041,Keita,Bates-Diop,DEN,6.0,F,SF,80,229,1996-01-23T00:00:00,,,,Ohio State,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002041.png,0
+20002042,Kevin,Hervey,OKC,15.0,F,PF,81,230,1996-07-09T00:00:00,,,,Texas-Arlington,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002042.png,0
+20002045,Drew,Eubanks,SA,14.0,C,C,81,245,1997-02-01T00:00:00,,,,Oregon State,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002045.png,0
+20002048,Cameron,Reynolds,MIL,13.0,G,PG,79,225,1995-02-07T00:00:00,,,,Tulane,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002048.png,0
+20002056,Kenrich,Williams,NO,34.0,F,PF,78,210,1994-12-02T00:00:00,,,,TCU,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002056.png,0
+20002057,Duncan,Robinson,MIA,55.0,G,PG,79,215,1994-04-22T00:00:00,,,,Michigan,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002057.png,0
+20002058,Yuta,Watanabe,MEM,18.0,G,PG,80,215,1994-10-13T00:00:00,,,,George Washington,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002058.png,0
+20002068,Jaylen,Adams,POR,10.0,G,PG,74,190,1996-05-04T00:00:00,,,,St. Bonaventure,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002068.png,0
+20002073,Johnathan,Williams,WAS,19.0,F,PF,81,228,1995-05-22T00:00:00,,,,Gonzaga,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002073.png,0
+20002080,Wenyen,Gabriel,POR,35.0,F,PF,81,205,1997-03-26T00:00:00,,,,Kentucky,1445697.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002080.png,0
+20002081,Kendrick,Nunn,MIA,25.0,G,PG,74,190,1995-08-03T00:00:00,,,,Oakland,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002081.png,0
+20002102,B.J.,Johnson,ORL,13.0,F,PF,79,200,1995-12-21T00:00:00,,,,La Salle,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002102.png,0
+20002109,Gary,Clark,ORL,12.0,F,PF,78,225,1994-11-16T00:00:00,,,,Cincinnati,555409.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002109.png,0
+20002118,Theo,Pinson,NY,1.0,G,PG,77,212,1995-11-05T00:00:00,,,,North Carolina,1445697.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002118.png,0
+20002122,Kelan,Martin,MIN,30.0,F,PF,77,230,,,,,Butler,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002122.png,0
+20002127,Jordan,McLaughlin,MIN,6.0,G,PG,71,185,1996-04-09T00:00:00,,,,USC,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002127.png,0
+20002155,Brandon,Goodwin,ATL,0.0,G,PG,72,180,1995-10-02T00:00:00,,,,Florida Gulf Coast,522738.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002155.png,0
+20002169,Paul,Watson,TOR,1.0,G,PG,78,210,,,,,Fresno State,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002169.png,0
+20002191,Norvel,Pelle,PHI,14.0,C,C,82,231,1993-02-03T00:00:00,,,,,350189.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002191.png,0
+20002200,Javonte,Green,BOS,43.0,F,PF,76,205,,,,,Radford,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002200.png,0
+20002233,Chris,Chiozza,BKN,4.0,G,PG,71,176,1995-11-21T00:00:00,,,,Florida,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002233.png,0
+20002244,Ryan,Broekhoff,PHI,45.0,G,PG,78,215,1990-08-23T00:00:00,,,,Valparaiso,1416852.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002244.png,0
+20002254,Gabe,Vincent,MIA,2.0,G,PG,75,200,,,,,UC Santa Barbara,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002254.png,0
+20002266,Ja,Morant,MEM,12.0,G,PG,75,174,,,,,Murray State,8730240.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002266.png,0
+20002268,De'Andre,Hunter,ATL,12.0,G,PG,79,225,,,,,Virginia,7068360.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002268.png,0
+20002270,Darius,Garland,CLE,10.0,G,PG,73,192,,,,,Vanderbilt,6400920.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002270.png,0
+20002271,Zion,Williamson,NO,1.0,F,PF,78,284,,,,,Duke,9757440.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002271.png,0
+20002272,RJ,Barrett,NY,9.0,F,PF,78,214,,,,,Duke,7839960.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002272.png,0
+20002273,Jarrett,Culver,MIN,23.0,G,PG,78,195,,,,,Texas Tech,5813640.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002273.png,0
+20002274,Jaxson,Hayes,NO,10.0,F,PF,83,220,,,,,Texas,4862040.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002274.png,0
+20002275,Rui,Hachimura,WAS,8.0,F,PF,80,230,,,,,Gonzaga,4469160.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002275.png,0
+20002276,Cam,Reddish,ATL,22.0,F,PF,80,218,,,,,Duke,4245720.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002276.png,0
+20002277,Romeo,Langford,BOS,45.0,G,PG,76,216,,,,,Indiana,3458400.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002277.png,0
+20002278,Grant,Williams,BOS,12.0,F,PF,78,236,,,,,Tennessee,2379840.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002278.png,0
+20002279,PJ,Washington,CHA,25.0,F,PF,79,230,,,,,Kentucky,3831840.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002279.png,0
+20002280,Coby,White,CHI,0.0,G,PG,76,195,,,,,North Carolina,5307120.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002280.png,0
+20002281,Sekou,Doumbouya,DET,45.0,F,PF,80,230,,,,,,3285120.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002281.png,0
+20002282,Goga,Bitadze,IND,88.0,C,C,83,250,,,,,,2816760.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002282.png,0
+20002283,Brandon,Clarke,MEM,15.0,F,PF,80,215,,,,,Gonzaga,2478840.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002283.png,0
+20002284,Tyler,Herro,MIA,14.0,G,PG,77,195,,,,,Kentucky,3640200.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002284.png,0
+20002285,Nickeil,Alexander-Walker,NO,0.0,G,PG,77,205,,,,,Virginia Tech,2964840.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002285.png,0
+20002286,Darius,Bazley,OKC,7.0,F,PF,80,208,,,,,,2284800.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002286.png,0
+20002288,Matisse,Thybulle,PHI,22.0,G,PG,77,201,,,,,Washington,2582160.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002288.png,0
+20002289,Cameron,Johnson,PHO,23.0,G,PG,80,210,,,,,North Carolina,4033440.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002289.png,0
+20002290,Luka,Samanic,SA,19.0,F,PF,82,227,,,,,,2689920.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002290.png,0
+20002291,Bol,Bol,DEN,10.0,C,C,86,220,,,,,Oregon,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002291.png,0
+20002292,Nicolas,Claxton,BKN,33.0,F,PF,83,215,,,,,Georgia,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002292.png,0
+20002293,Carsen,Edwards,BOS,4.0,G,PG,71,200,,,,,Purdue,1228026.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002293.png,0
+20002294,Cody,Martin,CHA,11.0,F,PF,77,205,,,,,Nevada,1173310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002294.png,0
+20002295,Kevin,Porter Jr.,CLE,4.0,G,PG,76,203,,,,,USC,1290960.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002295.png,0
+20002296,Dylan,Windler,CLE,9.0,G,PG,78,196,,,,,Belmont,2035800.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002296.png,0
+20002297,Isaiah,Roby,OKC,22.0,F,PF,80,230,,,,,Nebraska,1500000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002297.png,0
+20002299,Eric,Paschall,GS,7.0,F,PF,78,255,,,,,Villanova,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002299.png,0
+20002300,Jordan,Poole,GS,3.0,G,PG,76,194,,,,,Michigan,1964760.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002300.png,0
+20002301,Alen,Smailagic,GS,6.0,F,PF,82,215,,,,,,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002301.png,0
+20002302,Mfiondu,Kabengele,LAC,25.0,F,PF,81,250,,,,,Florida State,1977000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002302.png,0
+20002303,Talen,Horton-Tucker,LAL,5.0,G,PG,76,234,,,,,Iowa State,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002303.png,0
+20002304,Kz,Okpala,MIA,4.0,F,PF,80,215,,,,,Stanford,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002304.png,0
+20002306,Bruno,Fernando,ATL,24.0,F,PF,81,240,,,,,Maryland,1400000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002306.png,0
+20002307,Ty,Jerome,PHO,10.0,G,PG,77,195,,,,,Virginia,2193480.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002307.png,0
+20002308,Nassir,Little,POR,9.0,F,PF,77,220,,,,,North Carolina,2105520.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002308.png,0
+20002309,Keldon,Johnson,SA,3.0,G,PG,77,220,,,,,Kentucky,1950600.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002309.png,0
+20002310,Justin,James,SAC,10.0,G,PG,79,190,,,,,Wyoming,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002310.png,0
+20002311,Admiral,Schofield,WAS,1.0,G,PG,77,241,,,,,Tennessee,1000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002311.png,0
+20002312,Terance,Mann,LAC,14.0,G,PG,77,215,,,,,Florida State,1000000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002312.png,0
+20002313,Ignas,Brazdeikis,NY,17.0,F,PF,78,221,,,,,Michigan,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002313.png,0
+20002315,Tremont,Waters,BOS,51.0,G,PG,70,175,,,,,LSU,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002315.png,0
+20002316,Jalen,McDaniels,CHA,6.0,F,PF,82,205,,,,,San Diego State,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002316.png,0
+20002317,Jordan,Bone,DET,18.0,G,PG,75,180,,,,,Tennessee,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002317.png,0
+20002318,John,Konchar,MEM,46.0,G,PG,77,210,,,,,,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002318.png,0
+20002319,Jaylen,Nowell,MIN,4.0,G,PG,76,201,,,,,Washington,1400000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002319.png,0
+20002320,Zylan,Cheatham,NO,45.0,F,PF,77,220,,,,,Arizona State,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002320.png,0
+20002321,Marial,Shayok,PHI,35.0,G,PG,77,198,,,,,Iowa State,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002321.png,0
+20002322,Jaylen,Hoard,POR,6.0,F,PF,80,216,,,,,Wake Forest,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002322.png,0
+20002323,Quinndary,Weatherspoon,SA,15.0,G,PG,75,205,,,,,Mississippi State,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002323.png,0
+20002324,Kyle,Guy,SAC,7.0,G,PG,73,167,,,,,Virginia,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002324.png,0
+20002326,Dewan,Hernandez,TOR,20.0,F,PF,82,235,,,,,Miami (FL),898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002326.png,0
+20002327,Miye,Oni,UTA,81.0,G,PG,77,206,,,,,Yale,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002327.png,0
+20002328,Justin,Wright-Foreman,UTA,3.0,G,PG,72,190,,,,,Hofstra,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002328.png,0
+20002329,Daniel,Gafford,CHI,12.0,F,PF,82,234,,,,,Arkansas,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002329.png,0
+20002330,Jarrell,Brantley,UTA,5.0,F,PF,77,250,,,,,Charleston,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002330.png,0
+20002333,Dean,Wade,CLE,32.0,F,PF,81,228,,,,,Kansas State,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002333.png,0
+20002335,Brian,Bowen,IND,10.0,F,PF,78,190,,,,,,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002335.png,0
+20002336,Naz,Reid,MIN,11.0,C,C,81,264,,,,,LSU,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002336.png,0
+20002339,Luguentz,Dort,OKC,5.0,G,PG,75,215,,,,,Arizona State,155647.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002339.png,0
+20002340,Jalen,Lecque,PHO,0.0,G,PG,76,185,,,,,,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002340.png,0
+20002342,Tacko,Fall,BOS,99.0,C,C,89,311,,,,,UCF,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002342.png,0
+20002343,Max,Strus,CHI,28.0,G,PG,77,215,,,,,DePaul,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002343.png,0
+20002347,Josh,Reaves,DAL,23.0,G,PG,76,214,,,,,Penn State,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002347.png,0
+20002352,Moses,Brown,POR,4.0,C,C,86,245,,,,,UCLA,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002352.png,0
+20002353,Chris,Clemons,HOU,3.0,G,PG,69,180,,,,,Campbell,563347.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002353.png,0
+20002356,Oshae,Brissett,TOR,12.0,F,PF,79,210,,,,,Syracuse,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002356.png,0
+20002359,Devontae,Cacok,LAL,12.0,F,PF,80,240,,,,,North Carolina-Wilmington,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002359.png,0
+20002363,Kyle,Alexander,MIA,17.0,C,C,83,220,,,,,Tennessee,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002363.png,0
+20002365,Rayjon,Tucker,UTA,6.0,G,PG,75,209,,,,,Arkansas-Little Rock,578573.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002365.png,0
+20002374,Daquan,Jeffries,SAC,19.0,G,PG,77,230,,,,,Tulsa,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002374.png,0
+20002378,Jared,Harper,NY,12.0,G,PG,71,175,,,,,Auburn,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002378.png,0
+20002386,Amir,Coffey,LAC,7.0,F,PF,79,210,,,,,Minnesota,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002386.png,0
+20002388,Jeremiah,Martin,BKN,0.0,G,PG,74,185,,,,,Memphis,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002388.png,0
+20002391,Tyler,Cook,DEN,25.0,F,PF,80,255,,,,,Iowa,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002391.png,0
+20002394,Louis,King,DET,14.0,F,PF,79,205,,,,,Oregon,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002394.png,0
+20002398,Tariq,Owens,PHO,41.0,C,C,82,205,,,,,Texas Tech,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002398.png,0
+20002401,Chris,Silva,MIA,30.0,C,C,80,234,,,,,South Carolina,466918.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002401.png,0
+20002406,Vic,Law,ORL,23.0,F,PF,79,200,,,,,Northwestern,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002406.png,0
+20002414,Juan,Toscano-Anderson,GS,95.0,F,PF,78,209,,,,,Marquette,350189.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002414.png,0
+20002415,Ky,Bowman,GS,12.0,G,PG,73,187,,,,,Boston College,350189.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002415.png,0
+20002422,Juwan,Morgan,UTA,16.0,F,PF,79,232,,,,,Indiana,746054.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002422.png,0
+20002425,William,Howard,HOU,52.0,F,PF,80,207,,,,,,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002425.png,0
+20002444,Jontay,Porter,MEM,11.0,C,C,82,236,,,,,Missouri,197933.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002444.png,0
+20002454,Nicolo,Melli,NO,20.0,F,PF,81,236,,,,,,4102564.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002454.png,0
+20002455,Charlie,Brown Jr.,ATL,4.0,F,PF,78,199,,,,,Saint Joseph&#x27;s,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002455.png,0
+20002457,Matt,Thomas,TOR,21.0,G,PG,76,190,,,,,Iowa State,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002457.png,0
+20002458,Adam,Mokoka,CHI,20.0,G,SG,77,190,,,,,,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002458.png,0
+20002459,Vincent,Poirier,BOS,77.0,C,C,84,235,,,,,,2505793.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002459.png,0
+20002462,Donta,Hall,BKN,45.0,F,PF,81,229,,,,,Alabama,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002462.png,0
+20002465,Kenny,Wooten,NY,45.0,F,PF,81,225,,,,,Oregon,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002465.png,0
+20002490,Garrison,Mathews,WAS,24.0,G,PG,77,215,,,,,Lipscomb,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002490.png,0
+20002491,Caleb,Martin,CHA,10.0,G,PG,77,205,,,,,Nevada,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002491.png,0
+20002493,Terence,Davis,TOR,0.0,F,PF,76,201,,,,,Ole Miss,898310.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002493.png,0
+20002494,Mychal,Mulder,GS,12.0,G,PG,76,184,,,,,Kentucky,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002494.png,0
+20002495,Marko,Guduric,MEM,23.0,G,PG,78,201,,,,,,2625000.0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002495.png,0
+20002497,Matt,Mooney,CLE,31.0,G,PG,75,200,,,,,Texas Tech,,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20002497.png,0
