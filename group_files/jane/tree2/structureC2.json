@@ -1,0 +1,486 @@
+{
+    "pred": "9025 of 0, 570 of 1",
+    "side": "right",
+    "name": "Root >",
+    "size": 9595.0,
+    "children": [
+        {
+            "pred": "302 of 0, 420 of 1",
+            "side": "right",
+            "name": "PTS > 18.45",
+            "type": "numerical",
+            "size": 722.0,
+            "children": [
+                {
+                    "pred": "61 of 0, 306 of 1",
+                    "side": "right",
+                    "name": "PIE > 14.25",
+                    "type": "numerical",
+                    "size": 367.0,
+                    "children": [
+                        {
+                            "pred": "18 of 0, 239 of 1",
+                            "side": "right",
+                            "name": "W > 19.5",
+                            "type": "numerical",
+                            "size": 257.0,
+                            "children": [
+                                {
+                                    "pred": "1 of 0, 159 of 1",
+                                    "side": "right",
+                                    "name": "PTS > 22.05",
+                                    "type": "numerical",
+                                    "size": 160.0,
+                                    "children": [
+                                        {
+                                            "pred": "0 of 0, 159 of 1",
+                                            "side": "right",
+                                            "name": "REB > 2.6",
+                                            "type": "numerical",
+                                            "size": 159.0
+                                        },
+                                        {
+                                            "pred": "1 of 0, 0 of 1",
+                                            "side": "left",
+                                            "name": "REB <= 2.6",
+                                            "type": "numerical",
+                                            "size": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "pred": "17 of 0, 80 of 1",
+                                    "side": "left",
+                                    "name": "PTS <= 22.05",
+                                    "type": "numerical",
+                                    "size": 97.0,
+                                    "children": [
+                                        {
+                                            "pred": "1 of 0, 52 of 1",
+                                            "side": "right",
+                                            "name": "W > 25.5",
+                                            "type": "numerical",
+                                            "size": 53.0
+                                        },
+                                        {
+                                            "pred": "16 of 0, 28 of 1",
+                                            "side": "left",
+                                            "name": "W <= 25.5",
+                                            "type": "numerical",
+                                            "size": 44.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "pred": "43 of 0, 67 of 1",
+                            "side": "left",
+                            "name": "W <= 19.5",
+                            "type": "numerical",
+                            "size": 110.0,
+                            "children": [
+                                {
+                                    "pred": "7 of 0, 42 of 1",
+                                    "side": "right",
+                                    "name": "PTS > 23.25",
+                                    "type": "numerical",
+                                    "size": 49.0,
+                                    "children": [
+                                        {
+                                            "pred": "4 of 0, 41 of 1",
+                                            "side": "right",
+                                            "name": "USG% > 26.75",
+                                            "type": "numerical",
+                                            "size": 45.0
+                                        },
+                                        {
+                                            "pred": "3 of 0, 1 of 1",
+                                            "side": "left",
+                                            "name": "USG% <= 26.75",
+                                            "type": "numerical",
+                                            "size": 4.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "pred": "36 of 0, 25 of 1",
+                                    "side": "left",
+                                    "name": "PTS <= 23.25",
+                                    "type": "numerical",
+                                    "size": 61.0,
+                                    "children": [
+                                        {
+                                            "pred": "2 of 0, 10 of 1",
+                                            "side": "right",
+                                            "name": "DEFWS > 0.0",
+                                            "type": "numerical",
+                                            "size": 12.0
+                                        },
+                                        {
+                                            "pred": "34 of 0, 15 of 1",
+                                            "side": "left",
+                                            "name": "DEFWS <= 0.0",
+                                            "type": "numerical",
+                                            "size": 49.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "pred": "241 of 0, 114 of 1",
+                    "side": "left",
+                    "name": "PIE <= 14.25",
+                    "type": "numerical",
+                    "size": 355.0,
+                    "children": [
+                        {
+                            "pred": "193 of 0, 40 of 1",
+                            "side": "right",
+                            "name": "Team Conference Rank > 6.5",
+                            "type": "numerical",
+                            "size": 233.0,
+                            "children": [
+                                {
+                                    "pred": "38 of 0, 27 of 1",
+                                    "side": "right",
+                                    "name": "PTS > 21.55",
+                                    "type": "numerical",
+                                    "size": 65.0,
+                                    "children": [
+                                        {
+                                            "pred": "3 of 0, 12 of 1",
+                                            "side": "right",
+                                            "name": "Prior ASG Appearances > 1.5",
+                                            "type": "numerical",
+                                            "size": 15.0
+                                        },
+                                        {
+                                            "pred": "35 of 0, 15 of 1",
+                                            "side": "left",
+                                            "name": "Prior ASG Appearances <= 1.5",
+                                            "type": "numerical",
+                                            "size": 50.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "pred": "155 of 0, 13 of 1",
+                                    "side": "left",
+                                    "name": "PTS <= 21.55",
+                                    "type": "numerical",
+                                    "size": 168.0,
+                                    "children": [
+                                        {
+                                            "pred": "3 of 0, 3 of 1",
+                                            "side": "right",
+                                            "name": "AST > 8.65",
+                                            "type": "numerical",
+                                            "size": 6.0
+                                        },
+                                        {
+                                            "pred": "152 of 0, 10 of 1",
+                                            "side": "left",
+                                            "name": "AST <= 8.65",
+                                            "type": "numerical",
+                                            "size": 162.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "pred": "48 of 0, 74 of 1",
+                            "side": "left",
+                            "name": "Team Conference Rank <= 6.5",
+                            "type": "numerical",
+                            "size": 122.0,
+                            "children": [
+                                {
+                                    "pred": "28 of 0, 67 of 1",
+                                    "side": "right",
+                                    "name": "PIE > 11.5",
+                                    "type": "numerical",
+                                    "size": 95.0,
+                                    "children": [
+                                        {
+                                            "pred": "21 of 0, 65 of 1",
+                                            "side": "right",
+                                            "name": "W > 13.5",
+                                            "type": "numerical",
+                                            "size": 86.0
+                                        },
+                                        {
+                                            "pred": "7 of 0, 2 of 1",
+                                            "side": "left",
+                                            "name": "W <= 13.5",
+                                            "type": "numerical",
+                                            "size": 9.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "pred": "20 of 0, 7 of 1",
+                                    "side": "left",
+                                    "name": "PIE <= 11.5",
+                                    "type": "numerical",
+                                    "size": 27.0,
+                                    "children": [
+                                        {
+                                            "pred": "2 of 0, 7 of 1",
+                                            "side": "right",
+                                            "name": "PTS > 20.55",
+                                            "type": "numerical",
+                                            "size": 9.0
+                                        },
+                                        {
+                                            "pred": "18 of 0, 0 of 1",
+                                            "side": "left",
+                                            "name": "PTS <= 20.55",
+                                            "type": "numerical",
+                                            "size": 18.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "pred": "8723 of 0, 150 of 1",
+            "side": "left",
+            "name": "PTS <= 18.45",
+            "type": "numerical",
+            "size": 8873.0,
+            "children": [
+                {
+                    "pred": "559 of 0, 103 of 1",
+                    "side": "right",
+                    "name": "PIE > 12.95",
+                    "type": "numerical",
+                    "size": 662.0,
+                    "children": [
+                        {
+                            "pred": "113 of 0, 74 of 1",
+                            "side": "right",
+                            "name": "Prior ASG Appearances > 0.5",
+                            "type": "numerical",
+                            "size": 187.0,
+                            "children": [
+                                {
+                                    "pred": "20 of 0, 33 of 1",
+                                    "side": "right",
+                                    "name": "PTS > 16.55",
+                                    "type": "numerical",
+                                    "size": 53.0,
+                                    "children": [
+                                        {
+                                            "pred": "11 of 0, 3 of 1",
+                                            "side": "right",
+                                            "name": "Team Conference Rank > 7.5",
+                                            "type": "numerical",
+                                            "size": 14.0
+                                        },
+                                        {
+                                            "pred": "9 of 0, 30 of 1",
+                                            "side": "left",
+                                            "name": "Team Conference Rank <= 7.5",
+                                            "type": "numerical",
+                                            "size": 39.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "pred": "93 of 0, 41 of 1",
+                                    "side": "left",
+                                    "name": "PTS <= 16.55",
+                                    "type": "numerical",
+                                    "size": 134.0,
+                                    "children": [
+                                        {
+                                            "pred": "6 of 0, 13 of 1",
+                                            "side": "right",
+                                            "name": "AST > 8.5",
+                                            "type": "numerical",
+                                            "size": 19.0
+                                        },
+                                        {
+                                            "pred": "87 of 0, 28 of 1",
+                                            "side": "left",
+                                            "name": "AST <= 8.5",
+                                            "type": "numerical",
+                                            "size": 115.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "pred": "446 of 0, 29 of 1",
+                            "side": "left",
+                            "name": "Prior ASG Appearances <= 0.5",
+                            "type": "numerical",
+                            "size": 475.0,
+                            "children": [
+                                {
+                                    "pred": "44 of 0, 17 of 1",
+                                    "side": "right",
+                                    "name": "W > 24.5",
+                                    "type": "numerical",
+                                    "size": 61.0,
+                                    "children": [
+                                        {
+                                            "pred": "3 of 0, 7 of 1",
+                                            "side": "right",
+                                            "name": "PTS > 16.45",
+                                            "type": "numerical",
+                                            "size": 10.0
+                                        },
+                                        {
+                                            "pred": "41 of 0, 10 of 1",
+                                            "side": "left",
+                                            "name": "PTS <= 16.45",
+                                            "type": "numerical",
+                                            "size": 51.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "pred": "402 of 0, 12 of 1",
+                                    "side": "left",
+                                    "name": "W <= 24.5",
+                                    "type": "numerical",
+                                    "size": 414.0,
+                                    "children": [
+                                        {
+                                            "pred": "5 of 0, 4 of 1",
+                                            "side": "right",
+                                            "name": "DEFWS > 0.01",
+                                            "type": "numerical",
+                                            "size": 9.0
+                                        },
+                                        {
+                                            "pred": "397 of 0, 8 of 1",
+                                            "side": "left",
+                                            "name": "DEFWS <= 0.01",
+                                            "type": "numerical",
+                                            "size": 405.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "pred": "8164 of 0, 47 of 1",
+                    "side": "left",
+                    "name": "PIE <= 12.95",
+                    "type": "numerical",
+                    "size": 8211.0,
+                    "children": [
+                        {
+                            "pred": "263 of 0, 24 of 1",
+                            "side": "right",
+                            "name": "PTS > 16.05",
+                            "type": "numerical",
+                            "size": 287.0,
+                            "children": [
+                                {
+                                    "pred": "19 of 0, 12 of 1",
+                                    "side": "right",
+                                    "name": "DEFWS > 0.0",
+                                    "type": "numerical",
+                                    "size": 31.0,
+                                    "children": [
+                                        {
+                                            "pred": "5 of 0, 12 of 1",
+                                            "side": "right",
+                                            "name": "PIE > 11.55",
+                                            "type": "numerical",
+                                            "size": 17.0
+                                        },
+                                        {
+                                            "pred": "14 of 0, 0 of 1",
+                                            "side": "left",
+                                            "name": "PIE <= 11.55",
+                                            "type": "numerical",
+                                            "size": 14.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "pred": "244 of 0, 12 of 1",
+                                    "side": "left",
+                                    "name": "DEFWS <= 0.0",
+                                    "type": "numerical",
+                                    "size": 256.0,
+                                    "children": [
+                                        {
+                                            "pred": "1 of 0, 2 of 1",
+                                            "side": "right",
+                                            "name": "STL > 2.3",
+                                            "type": "numerical",
+                                            "size": 3.0
+                                        },
+                                        {
+                                            "pred": "243 of 0, 10 of 1",
+                                            "side": "left",
+                                            "name": "STL <= 2.3",
+                                            "type": "numerical",
+                                            "size": 253.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "pred": "7901 of 0, 23 of 1",
+                            "side": "left",
+                            "name": "PTS <= 16.05",
+                            "type": "numerical",
+                            "size": 7924.0,
+                            "children": [
+                                {
+                                    "pred": "0 of 0, 1 of 1",
+                                    "side": "right",
+                                    "name": "TOV > 5.05",
+                                    "type": "numerical",
+                                    "size": 1.0
+                                },
+                                {
+                                    "pred": "7901 of 0, 22 of 1",
+                                    "side": "left",
+                                    "name": "TOV <= 5.05",
+                                    "type": "numerical",
+                                    "size": 7923.0,
+                                    "children": [
+                                        {
+                                            "pred": "36 of 0, 5 of 1",
+                                            "side": "right",
+                                            "name": "Prior ASG Appearances > 8.5",
+                                            "type": "numerical",
+                                            "size": 41.0
+                                        },
+                                        {
+                                            "pred": "7865 of 0, 17 of 1",
+                                            "side": "left",
+                                            "name": "Prior ASG Appearances <= 8.5",
+                                            "type": "numerical",
+                                            "size": 7882.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
