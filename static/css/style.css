@@ -2,4 +2,57 @@ html,
 body {
     margin: 0;
     padding: 0;
+    color: white;
+    background-color: #0a1b29;
 }
+
+.panel {
+    height: 100%;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.panel.green {
+    margin-bottom: 400px
+}
+
+.container {
+    width: 100%;
+    /* position: relative; */
+    /* overflow-y: scroll; */
+}
+
+div.datafields {
+    height: 600px;
+    /* width: auto; */
+    position: relative;
+    overflow-y: scroll;
+}
+
+div>p {
+    margin-top: 50px;
+}
+
+
+/* 
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+
+} */
+
+
+/* 
+body {
+    padding: 50px;
+    background-color: #EAC5D8;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 128px;
+    margin: 0;
+    line-height: 1em;
+    font-weight: bold;
+    color: #D68FB5;
+} */

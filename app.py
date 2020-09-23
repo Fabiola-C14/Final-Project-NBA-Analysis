@@ -34,11 +34,16 @@ db = SQLAlchemy(app)
 def home():
     return render_template("index.html")
 
+@app.route("/test")
+def test():
+    return render_template("test.html")
 
+
+
+# NOT USING YET
 # Query the database and send the jsonified results
 @app.route("/send", methods=["GET", "POST"])
 def send():
-
 
     return render_template("")
 
@@ -47,6 +52,11 @@ def send():
 def pals():
 
     return jsonify()
+
+
+
+
+
 
 
 if __name__ == "__main__":
