@@ -135,3 +135,4 @@ test_files/
 /test_files/
 /.ipynb_checkpoints/
 /_pycache_/
+.DS_Store
