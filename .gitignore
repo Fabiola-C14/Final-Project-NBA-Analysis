@@ -138,3 +138,5 @@ test_files/
 .DS_Store.DS_STORE
 /.DS_Store
 /.DS_Store.DS_STORE
+/groups_notebooks/
+/groups_notebooks
