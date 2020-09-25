@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>NBA Stats</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/jane.css') }}">
+    <link rel="stylesheet" href="../css/jane.css" />
 </head>
 
 <body>
@@ -38,56 +38,83 @@
             </ul>
         </nav>
         <div data-spy="scroll" data-target="#navigation" data-offset="0" class="datafields">
-            <h4 id="objectives">objectives</h4>
-            <p>
+            <div id="content">
+                <br>
+                <br>
+                <br>
+                <br>
 
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
-                dictum. Ut sit amet feugiat lectus. In tristique aliquet diam, vitae porttitor lacus lobortis ac. Sed orci massa, viverra eu quam nec, tincidunt feugiat leo. Integer vitae lorem id magna ullamcorper vehicula. Suspendisse a magna pellentesque,
-                pretium metus vitae, aliquet elit. Mauris dictum volutpat quam sed pulvinar. Aenean convallis feugiat iaculis. Praesent sed molestie ante, id condimentum velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
-                curae; Maecenas et neque a tortor iaculis mattis. Nullam eget dui quis lectus aliquet volutpat ornare vel ante. Sed imperdiet urna ac nibh ullamcorper, eget facilisis leo bibendum. Duis vel nisi urna. Vivamus sit amet condimentum ipsum.
-                Vestibulum commodo orci sem, ac lacinia sapien luctus at. In ac laoreet lacus. Quisque malesuada neque nulla, et hendrerit orci placerat vitae. Nullam ac leo a purus aliquam dictum eget sit amet ex. In nisl massa, vehicula vitae dapibus
-                quis, ultrices id velit. Suspendisse potenti. Nam eu lorem faucibus ligula suscipit sodales. Sed consequat dolor at nisl laoreet, vel rutrum mi hendrerit. Mauris nec mattis magna. Proin nec efficitur orci. In porttitor ex non purus vehicula
-                ultrices. Suspendisse tincidunt convallis nunc, et sagittis velit varius ac. Nam eu pellentesque neque. Aenean vitae sem dignissim, elementum urna vitae, fringilla ipsum. Aenean accumsan quis dui ac vestibulum. Curabitur aliquet varius
-                lacus, quis molestie massa venenatis sed. Cras nisl eros, rutrum nec risus ac, suscipit luctus ex. Nunc ultrices nulla non sem tristique fermentum. Nam sagittis arcu quis metus vehicula, id consectetur odio tristique. Proin ut convallis
-                felis. Proin nulla purus, fringilla id dapibus sit amet, maximus id tellus. Maecenas enim lectus, dignissim eget porttitor eget, semper eu mi. Pellentesque enim ligula, feugiat ut nibh et, ultrices tempor lorem. Praesent feugiat nisl at
-                varius efficitur. In ac tortor nec enim blandit suscipit at et lectus. Donec at rhoncus justo. Pellentesque at blandit ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In sed porta augue.
-                Suspendisse potenti. Ut at est quis purus ullamcorper maximus. Maecenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
-            <h4 id="page1">page1</h4>
-            <p>
+                <div class="col-md-12 text-center">
+                    <h1>NBA All Stars vs Salary</h1>
+                    <p>
+                        There's a clear correlation between All Star achievement and salary, as the highest salaries over the years are the All Star players. 
+                    </p>
+                    <div style="max-width: 100%" id="myDiv" class="js-plotly-plot">
+                    </div>
+                    <br>
+                    <br>
+                    <h3>Prediction Models</h3>
+                    <p>
+                        In order to take a deep dive in understanding the factors that most impact a players path to All Stars and higher salary, we ran classification models: Decision Tree and Random Forest.
+                    </p>
+                    <table class="table table-bordered">
+                        <thead>
+                        <tr>
+                            <th scope="col">Decision Tree</th>
+                            <th scope="col">Random Forest</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>95.91% Accuracy</td>
+                            <td>97.46% Accuracy</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <br>
+                    <br>
+                    <p>
+                        Based on the Random Forest model, we ranked the features by importance to identify the top stats that impact a player's success to the All Stars games:
+                    </p>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th scope="col">Feature</th>
+                                <th scope="col">Importance</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>PTS - Points</td>
+                                <td>23.36%</td>
+                            </tr>
+                            <tr>
+                                <td>PIE - Player Impact Estimate</td>
+                                <td>15.99%</td>
+                            </tr>
+                            <tr>
+                                <td>USG - Usage Player Was Involved in</td>
+                                <td>8.99%</td>
+                            </tr>
+                            <tr>
+                                <td>PASG - Prior All Star Games</td>
+                                <td>8.17%</td>
+                            </tr>
+                            <tr>
+                                <td>W - Wins</td>
+                                <td>7.10%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <br>
+                    <h4><a href="../js/tree.html" target="_blank">Click here for an interactive decision tree</a></h4>
 
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
-                dictum. Ut sit amet feugiat lectus. In tristique aliquet diam, vitae porttitor lacus lobortis ac. Sed orci massa, viverra eu quam nec, tincidunt feugiat leo. Integer vitae lorem id magna ullamcorper vehicula. Suspendisse a magna pellentesque,
-                pretium metus vitae, aliquet elit. Mauris dictum volutpat quam sed pulvinar. Aenean convallis feugiat iaculis. Praesent sed molestie ante, id condimentum velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
-                curae; Maecenas et neque a tortor iaculis mattis. Nullam eget dui quis lectus aliquet volutpat ornare vel ante. Sed imperdiet urna ac nibh ullamcorper, eget facilisis leo bibendum. Duis vel nisi urna. Vivamus sit amet condimentum ipsum.
-                Vestibulum commodo orci sem, ac lacinia sapien luctus at. In ac laoreet lacus. Quisque malesuada neque nulla, et hendrerit orci placerat vitae. Nullam ac leo a purus aliquam dictum eget sit amet ex. In nisl massa, vehicula vitae dapibus
-                quis, ultrices id velit. Suspt at et lectus. Donec at rhoncus justo. Pellentesque at blandit ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In sed porta augue. Suspendisse potenti. Ut at
-                est quis purus ullamcorper maximus. Maecenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
-            <h4 id="page2">objectives</h4>
-            <p>
+                </div>
 
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
-                dictum. Ut sit amet feugiat lectus. In tristique aliquet diam, vitae porttitor lacus lobortis ac. Sed orci massa, viverra eu quam nec, tincidunt feugiat leo. Integer vitae lorem id magna ullamcorper vehicula. Suspendisse a magna pellentesque,
-                pretium metus vitae, aliquet elit. Mauris dictum volutpat quam sed pulvinar. Aenean convallis feugiat iaculis. Praesent sed molestie ante, id condimentum velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
-                curae; Maecenas et nequeit suscipit at et lectus. Donec at rhoncus justo. Pellentesque at blandit ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In sed porta augue. Suspendisse potenti.
-                Ut at est quis purus ullamcorper maximus. Maecenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
-            <h4 id="page3">page1</h4>
-            <p>
-
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
-                dictum. Ut sit amet feugcipit at et lectus. Donec at rhoncus justo. Pellentesque at blandit ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In sed porta augue. Suspendisse potenti. Ut at
-                est quis purus ullamcorper maximus. Maecenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
-            <h4 id="page4">objectives</h4>
-            <p>
-
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
-                dictum. Ut sit amet feugicenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
-            <h4 id="page5">page1</h4>
-            <p>
-
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
-                dictum. Ut sit amet feugiaecenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
-
+            </div>
         </div>
+
+        
 
 
 
@@ -95,8 +122,11 @@
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-        <!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
-        <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
-</body>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+        <script src="../js/jane.js" type="text/javascript"></script>
+    </body>
 
 </html>
