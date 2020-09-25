@@ -13,7 +13,7 @@ body {
 }
 
 div.datafields {
-    height: 800px;
+    height: 99%;
     width: 100%;
     position: relative;
     overflow-y: scroll;
@@ -26,12 +26,52 @@ div>p {
 
 h4 {
     margin-left: 100px;
-    margin-top: 70px;
+    padding-top: 70px;
+    font-family: 'Oswald', sans-serif;
+}
+
+span.top-talent-title {
+    text-align: center;
 }
 
 ::-webkit-scrollbar {
     width: 0px;
     background: transparent;
+}
+
+.navbar-brand {
+    font-family: 'Oswald', sans-serif;
+}
+
+a.nav-link,
+a.active {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.player-predict {
+    height: 500px;
+    /* background-color: yellow; */
+}
+
+.row-player-details {
+    margin: 0;
+    padding: 10px;
+    height: 100%;
+    background-image: url("../../static/images/person-template.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+div.player-details {
+    margin: 0;
+    padding: 10px 10px 10px 200px;
+    /* background-color: green; */
+}
+
+div.player-list {
+    margin: 0;
+    padding: 10px;
+    background-color: #167a7a;
 }
 
 

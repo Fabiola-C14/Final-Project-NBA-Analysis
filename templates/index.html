@@ -6,12 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>NBA Stats</title>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 
-<body>
-    <div class="container">
+<body data-spy="scroll">
+    <div class="container-fluid">
+
+
         <nav id="navigation" class="navbar fixed-top navbar-light bg-light">
             <a class="navbar-brand" href="#">NBA Projection</a>
             <ul class="nav nav-pills">
@@ -37,7 +40,11 @@
 
             </ul>
         </nav>
-        <div data-spy="scroll" data-target="#navigation" data-offset="0" class="datafields">
+
+
+
+
+        <div data-target="#navigation" data-offset="0" class="datafields">
 
             <h4 id="objectives">objectives</h4>
             <p>
@@ -78,26 +85,42 @@
                 dictum. Ut sit amet feugcipit at et lectus. Donec at rhoncus justo. Pellentesque at blandit ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In sed porta augue. Suspendisse potenti. Ut at
                 est quis purus ullamcorper maximus. Maecenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
 
-            <h4 id="page4">objectives</h4>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
-                dictum. Ut sit amet feugicenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
+            <h4 id="page4">objectives</h4><br>
+
+
+            <div class='col-lg-8 player-predict '>
+                <div class='row top-talent-title'>
+                    <h5>2020 TOP YOUNG TALENT, UNDER 3 YEARS IN THE LEAGUE (YIL)</h5>
+                </div>
+                <div class='row row-player-details'>
+                    <div class='col player-details'>player-details</div>
+                    <div class='col player-list'>player-list</div>
+                </div>
+            </div>
+
+
 
             <h4 id="page5">page1</h4>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
                 dictum. Ut sit amet feugiaecenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
 
-        </div>
 
+
+        </div>
 
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+        <script type="text/javascript" src="./static/js/app.js" type="module"></script>
+
         <!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
+
         <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
+        <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
 </body>
 
 </html>
