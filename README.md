@@ -3,7 +3,7 @@
 ## Objective
 <strong>Use machine learning to predict the next big NBA star</strong>
 
-Data analysis of NBA player stats, such as player position, minutes played per game, All Star status, biometrics, and injuries over a 5 year span to train machine learning models to learn important factors of the most successful players to predict who the next big players will be.
+Data analysis of NBA salaries and player stats, such as player position, minutes played per game, All Star status, biometrics, and injuries to train machine learning models to learn important factors of the most successful players to predict who the next big players will be and evaluation of players' value.
 
 ## Tools and Libraries
 * Python
