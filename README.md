@@ -71,7 +71,7 @@ combined.corr()
 
 ![index](group_files/images/correlationimg.png)
 
-
+Link to APIs are below:
 https://sportsdata.io
 https://pypi.org/project/nba-api/
 
