@@ -2,4 +2,148 @@ html,
 body {
     margin: 0;
     padding: 0;
+    color: white;
+    background-color: #0a1b29;
+}
+
+.container {
+    width: 100%;
+    /* position: relative; */
+    /* overflow-y: scroll; */
+}
+
+div.datafields {
+    height: 800px;
+    width: 100%;
+    position: relative;
+    overflow-y: scroll;
+}
+
+div>p {
+    /* margin-top: 50px; */
+    padding: 0px 25px 25px 25px;
+}
+
+h4 {
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+/* Decision Tree */
+.node {
+    cursor: pointer;
+  }
+  
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+  }
+  
+  .node text {
+    font: 10px sans-serif;
+  }
+  
+  .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
+  }
+
+/* jane html */
+.box {
+height: 450px;
+padding: 20px;
+color: #fff;
+background: #157a79;
+}
+
+.header {
+/* height: 450px; */
+color: #0a1b29;
+background: #ffbe26;
+}
+
+.margin-top-80 {
+margin-top: 80px;
+}
+
+img {
+position: absolute;
+left: 0px;
+top: 0px;
+opacity: 0.5;
+width: 35%;
+}
+
+/* naz html */
+.bmiscatter {
+    margin:0;
+    padding:0;
+    padding-left:100px;
+    padding-right:100px;
+}
+
+.main{
+    margin: 50px 100PX;
+}
+
+/* 
+body {
+    padding: 50px;
+    background-color: #EAC5D8;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 128px;
+    margin: 0;
+    line-height: 1em;
+    font-weight: bold;
+    color: #D68FB5;
+} */
+
+
+/* // Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.98px) {
+    ...
+}
+
+
+/* // Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    ...
+}
+
+
+/* // Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    ...
+}
+
+
+/* // Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    ...
+}
+
+
+/* // Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 100%;
+        padding: 0;
+        /* position: relative; */
+        /* overflow-y: scroll; */
+    }
 }

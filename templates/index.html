@@ -6,34 +6,248 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>NBA Stats</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 
 <body>
     <div class="container">
-        <div class="jumbotron" style="text-align: center">
-            <h1>NBA Stats</h1>
-            <p>Final Project</p>
-        </div>
+        <nav id="navigation" class="navbar fixed-top navbar-light bg-light">
+            <a class="navbar-brand" href="#">NBA Projection</a>
+            <ul class="nav nav-pills">
+                <li class="nav-item">
+                    <a class="nav-link" href="#objectives">objectives</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#page1">All-Stars</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#page2">Biometrics</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#page3">Injuries</a>
+                </li>
 
-        <div class="row">
-            <div class="col-md-12">
-                <h2>Header 2</h2>
-                <!-- <div id="plot"></div> -->
+                <li class="nav-item">
+                    <a class="nav-link" href="#page4">Salary Evaluation</a>
+                </li>
+
+            </ul>
+        </nav>
+        <div data-spy="scroll" data-target="#navigation" data-offset="0" class="datafields">
+
+            <h4 id="objectives">objectives</h4>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
+                dictum. Ut sit amet feugiat lectus. In tristique aliquet diam, vitae porttitor lacus lobortis ac. Sed orci massa, viverra eu quam nec, tincidunt feugiat leo. Integer vitae lorem id magna ullamcorper vehicula. Suspendisse a magna pellentesque,
+                pretium metus vitae, aliquet elit. Mauris dictum volutpat quam sed pulvinar. Aenean convallis feugiat iaculis. Praesent sed molestie ante, id condimentum velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+                curae; Maecenas et neque a tortor iaculis mattis. Nullam eget dui quis lectus aliquet volutpat ornare vel ante. Sed imperdiet urna ac nibh ullamcorper, eget facilisis leo bibendum. Duis vel nisi urna. Vivamus sit amet condimentum ipsum.
+                Vestibulum commodo orci sem, ac lacinia sapien luctus at. In ac laoreet lacus. Quisque malesuada neque nulla, et hendrerit orci placerat vitae. Nullam ac leo a purus aliquam dictum eget sit amet ex. In nisl massa, vehicula vitae dapibus
+                quis, ultrices id velit. Suspendisse potenti. Nam eu lorem faucibus ligula suscipit sodales. Sed consequat dolor at nisl laoreet, vel rutrum mi hendrerit. Mauris nec mattis magna. Proin nec efficitur orci. In porttitor ex non purus vehicula
+                ultrices. Suspendisse tincidunt convallis nunc, et sagittis velit varius ac. Nam eu pellentesque neque. Aenean vitae sem dignissim, elementum urna vitae, fringilla ipsum. Aenean accumsan quis dui ac vestibulum. Curabitur aliquet varius
+                lacus, quis molestie massa venenatis sed. Cras nisl eros, rutrum nec risus ac, suscipit luctus ex. Nunc ultrices nulla non sem tristique fermentum. Nam sagittis arcu quis metus vehicula, id consectetur odio tristique. Proin ut convallis
+                felis. Proin nulla purus, fringilla id dapibus sit amet, maximus id tellus. Maecenas enim lectus, dignissim eget porttitor eget, semper eu mi. Pellentesque enim ligula, feugiat ut nibh et, ultrices tempor lorem. Praesent feugiat nisl at
+                varius efficitur. In ac tortor nec enim blandit suscipit at et lectus. Donec at rhoncus justo. Pellentesque at blandit ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In sed porta augue.
+                Suspendisse potenti. Ut at est quis purus ullamcorper maximus. Maecenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
+
+
+            <h4 id="page1">All-Stars</h4>
+            <div class="container">
+                <img src='../group_files/images/star.png' alt='All-Star logo'>
+                <div class="col-md-12 text-center">
+                    <h1>NBA All-Stars vs Salary</h1>
+                    <br>
+                    <p>The NBA All-Star Game has always been a midseason showdown between the best players from each conference. 
+                        The game has consistently showcased a copious amount of talent playing for their respective coast.
+                        What better place to explore top talent and see what stats factor into the highest salaries.
+                        <br>
+                        <br>
+                        First, we wanted to see if there was a correlation between All-Star status and salary. 
+                        The interactive scatter plot shows that all the top salaries each year were also All-Star players. 
+                        We confirmed a strong case to use All-Star achievement as a benchmark to train and test machine learning 
+                        models to predict players' success.
+                        <br>
+                    </p>
+                    <div style="max-width: 100%" id="myDiv" class="js-plotly-plot">
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="box">
+                                <h3>Machine Learning Models</h3>
+                                <p>
+                                    We ran 2 classification models to train and test our dataset using All-Star achievement as the target 
+                                    against player stats, such as games played, wins, rebounds, blocks and steals.
+                                </p>
+                                <table class="table table-bordered">
+                                    <thead>
+                                    <tr>
+                                        <th scope="col" class="header">Decision Tree</th>
+                                        <th scope="col" class="header">Random Forest</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td>95.91% Accuracy</td>
+                                        <td>97.46% Accuracy</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="box">
+                                <p>
+                                    Based on the Random Forest model, we ranked the features by importance to identify the top stats that impact a player's success to the All-Stars games:
+                                </p>
+                                <table class="table table-bordered" >
+                                    <thead>
+                                        <tr>
+                                            <th scope="col" class="header">Stat</th>
+                                            <th scope="col" class="header">Importance</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>PTS - Points</td>
+                                            <td>23.36%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PIE - Player Impact Estimate</td>
+                                            <td>15.99%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>USG - Usage Player Was Involved In</td>
+                                            <td>8.99%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PASG - Prior All Star Games</td>
+                                            <td>8.17%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>W - Wins</td>
+                                            <td>7.10%</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <h5>To explore how the top stats relate to each other in importance, <a href="../static/js/tree.html" target="_blank">click here</a> to view an interactive decision tree.</h5>
+                    
+                </div>
             </div>
-        </div>
 
-        <div class="row">
-            <div class="col-md-12">
-                <h2><a href="/send">Header 2</a></h2>
+            <h4 id="page2">Biometrics</h4>
+            <div class="main">
+                <!-- <iframe src="{{ url_for('static', filename='naz_imgs/Position_BMI_box.html') }}" height="500" width="800" title="Iframe Example"></iframe> -->
+
+                <h2>NBA Health BMI</h5>
+                <p>
+                    Body Mass Index is a good gauge of body fat.  The most basic definition of overweight and obesity is having too much body fat-so much so that it “presents a risk to health.”
+                    A reliable way to determine whether a person has too much body fat is to calculate the ratio of their weight to their height squared. This ratio, called the body mass index (BMI), accounts for the fact that taller people have more tissue than shorter people, 
+                    and so they tend to weigh more.
+                </p>
+
+                <h5>BMI Table</h5>
+
+                <table class="table table-striped"><tbody><tr class="thead-light"><th style="padding-left:0">BMI</th><th><b>Weight</b> Status</th></tr><tr><td style="padding-left:0">Below 18.5</td><td>Underweight</td></tr><tr><td style="padding-left:0">18.5—24.9</td><td><b>Normal</b></td></tr><tr><td style="padding-left:0">25.0—29.9</td><td>Overweight</td></tr><tr><td style="padding-left:0">30.0 and Above</td><td>Obese</td></tr></tbody></table>
+                
+                </br>
+                
+                <h5>Correlation Table</h5>
+                <table border="1" class="table table-striped"><thead><tr class="thead-light" style=""><th></th><th>Height</th><th>Weight</th><th>Salary</th><th>Experience</th><th>BMI</th><th>age</th><th>num_season</th><th>num_games</th><th>min_game</th></tr></thead><tbody><tr><th>Height</th><td>1.00</td><td>0.77</td><td>0.06</td><td>0.04</td><td>-0.01</td><td>-0.01</td><td>0.08</td><td>0.07</td><td>-0.02</td></tr><tr><th>Weight</th><td>0.77</td><td>1.00</td><td>0.13</td><td>0.13</td><td>0.63</td><td>0.05</td><td>0.16</td><td>0.17</td><td>0.08</td></tr><tr><th>Salary</th><td>0.06</td><td>0.13</td><td>1.00</td><td>0.50</td><td>0.13</td><td>0.16</td><td>0.54</td><td>0.59</td><td>0.56</td></tr><tr><th>Experience</th><td>0.04</td><td>0.13</td><td>0.50</td><td>1.00</td><td>0.13</td><td>0.34</td><td>0.72</td><td>0.74</td><td>0.50</td></tr><tr><th>BMI</th><td>-0.01</td><td>0.63</td><td>0.13</td><td>0.13</td><td>1.00</td><td>0.09</td><td>0.14</td><td>0.17</td><td>0.14</td></tr><tr><th>age</th><td>-0.01</td><td>0.05</td><td>0.16</td><td>0.34</td><td>0.09</td><td>1.00</td><td>0.55</td><td>0.46</td><td>0.11</td></tr><tr><th>num_season</th><td>0.08</td><td>0.16</td><td>0.54</td><td>0.72</td><td>0.14</td><td>0.55</td><td>1.00</td><td>0.92</td><td>0.57</td></tr><tr><th>num_games</th><td>0.07</td><td>0.17</td><td>0.59</td><td>0.74</td><td>0.17</td><td>0.46</td><td>0.92</td><td>1.00</td><td>0.71</td></tr><tr><th>min_game</th><td>-0.02</td><td>0.08</td><td>0.56</td><td>0.50</td><td>0.14</td><td>0.11</td><td>0.57</td><td>0.71</td><td>1.00</td></tr></tbody></table>
+                <p>
+                    Weight is pretty much the only feature that is correlated to BMI.
+                </p>
+
+                <br>
+                {% include "test/salary_bmi_player_name_scatter.html" %} 
+                </br>
+
+                <br>
+                </br>
+
+                <br>
+                {% include "test/min_game_experience_bmi_scatter.html" %}
+                </br>
+
+                <br>
+               </br>
+
+                <br>
+                {% include "test/Position_BMI_box.html" %}   
+                </br>
+
+                <br>
+                </br>
+
+                <br>
+                {% include "test/PositionCategory_BMI_violinbox.html" %}   
+                </br>
+                 
+   
+            
+                <p>
+
+                </p>
             </div>
+
+            <h4 id="page3">Injuries</h4>
+            <div class="col-md-12 text-center">
+                <h4 id="objectives">NBA Player's Injury Analysis</h4>
+                <br>
+                <p>
+                    In this analysis we take a close look at the correlation between income, and the days of games missed due to injuries. 
+                    The last two slides provide a list of players with the highest and lowest number of games missed. Our findings indicate there are many players with successful careers in spite of multiple injuries. 
+                    A good example is Kevin Love, who has 82 days of games missed due to injuries, but has a long career (10 years of experience), and  makes $28.9 million. </p>
+                <p>   
+       
+                <div class='tableauPlaceholder' id='viz1601006649752' style='position: absolute;margin-left: 300px'>
+                    <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NB&#47;NBAPlayersInjuriesAnalysis&#47;NBAPlayersInjuries&#47;1_rss.png' style='border: none' /></a>
+                    </noscript><object class='tableauViz'  style='display:none;'>
+                        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                        <param name='embed_code_version' value='3' /> 
+                        <param name='site_root' value='' />
+                        <param name='name' value='NBAPlayersInjuriesAnalysis&#47;NBAPlayersInjuries' />
+                        <param name='tabs' value='no' />
+                        <param name='toolbar' value='yes' />
+                        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NB&#47;NBAPlayersInjuriesAnalysis&#47;NBAPlayersInjuries&#47;1.png' /> 
+                        <param name='animate_transition' value='yes' />
+                        <param name='display_static_image' value='yes' />
+                        <param name='display_spinner' value='yes' />
+                        <param name='display_overlay' value='yes' />
+                        <param name='display_count' value='yes' />
+                        <param name='language' value='en' />
+                        <param name='filter' value='publish=yes' />
+                    </object></div>                
+                    <script type='text/javascript'>                    
+                        var divElement = document.getElementById('viz1601006649752');                    
+                        var vizElement = divElement.getElementsByTagName('object')[0];                    
+                        vizElement.style.width='800px';vizElement.style.height='827px';                    
+                        var scriptElement = document.createElement('script');                    
+                        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+                        vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>  
+   
+            </div>
+            <h4 id="page4">Salary Evaluation</h4>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros magna, vulputate sit amet urna nec, dignissim egestas arcu. Nulla consequat vitae magna at tristique. Duis ac consectetur nulla, in tristique risus. Fusce eget sem eget lacus ultricies
+                dictum. Ut sit amet feugicenas fringilla quam justo, sit amet mattis mi interdum at. In hac habitasse platea dictumst. Quisque at nisi sem. </p>
+
         </div>
-    </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
 
-    <!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
-    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
+        <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
 </body>
 
 </html>
