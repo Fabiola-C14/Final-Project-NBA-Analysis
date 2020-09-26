@@ -7,11 +7,13 @@ Data analysis of NBA salaries and player stats, such as player position, minutes
 
 ## Tools and Libraries
 * Python
-* JSON, CSV
-* HTML, CSS, JS
-* Flask
+* Pandas, Numpy
 * Sci-kit Learn
 * Plotly
+* JSON, CSV
+* HTML, CSS
+* Javascript
+* Flask
 * Tableau
 
 ## Datasets
@@ -25,15 +27,24 @@ https://xxxxxxxxx
 
 ## Analysis Details
 
-### Salary Analysis
+### All-Star Achievement 
+Analysis of All-Star and non All-Star players ranging from 1996 to 2018 to find correlation between All-Star achievements and player salary. Using scatter plot confirmed that all the highest salaries were also All-Stars. We used this insight to use All-Star status as a benchmark to train and test machine learning models to predict player's success. We ran 2 classification models to train and test our dataset using All-Star achievement as the target against player stats, such as games played, wins, rebounds, blocks and steals.
+
+![index](group_files/images/readme1.png)
+
+https://xxxxxxxxx
+
+#### Health and Biometrics
 xxxxx
 
-### All Star Achievement 
+https://xxxxxxxxx
+
+#### Injuries
 xxxxx
 
-### Health and Biometrics
+https://xxxxxxxxx
+
+#### Salary Analysis
 xxxxx
 
-### Injuries
-xxxxx
-
+https://xxxxxxxxx
