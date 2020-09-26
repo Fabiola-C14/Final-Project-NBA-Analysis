@@ -61,9 +61,9 @@ const margin = {
 let barPadding = (height - (margin.bottom + margin.top)) / (top_n * 5);
 
 //Create svg wrapper to append into to hold chart  
-const svg = d3.selectAll("#content").append("svg")
+const svg = d3.selectAll("#content")
     .attr("width", 1000)
-    .attr("height", 600);
+    .attr("height", 200);
 
 function makeplot() {
     Plotly.d3.csv('./static/datasets/all_stars_yes.csv', function(data) {
