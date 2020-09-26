@@ -41,9 +41,6 @@ def test():
     return render_template("test.html")
 
 
-
-
-
 @app.route("/jane")
 def jane():
     return render_template("jane.html")
@@ -59,44 +56,6 @@ def naz():
 @app.route("/fabiola")
 def fabiola():
     return render_template("fabiola.html")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -121,4 +80,4 @@ def pals():
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
