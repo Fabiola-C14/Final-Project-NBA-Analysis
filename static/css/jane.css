@@ -34,53 +34,7 @@ h4 {
     background: transparent;
 }
 
-/* Decision Tree */
-.node {
-    cursor: pointer;
-  }
-  
-  .node circle {
-    fill: #fff;
-    stroke: steelblue;
-    stroke-width: 1.5px;
-  }
-  
-  .node text {
-    font: 10px sans-serif;
-  }
-  
-  .link {
-    fill: none;
-    stroke: #ccc;
-    stroke-width: 1.5px;
-  }
 
-/* jane html */
-.box {
-height: 450px;
-padding: 20px;
-color: #fff;
-background: #157a79;
-}
-
-.header {
-/* height: 450px; */
-color: #0a1b29;
-background: #ffbe26;
-}
-
-.margin-top-80 {
-margin-top: 80px;
-}
-
-img {
-position: absolute;
-left: 0px;
-top: 0px;
-opacity: 0.5;
-width: 35%;
-}
-  
 /* 
 body {
     padding: 50px;
@@ -99,39 +53,39 @@ h1 {
 
 /* // Extra small devices (portrait phones, less than 576px) */
 
-/* @media (max-width: 575.98px) {
-    /* ...
-} */
+@media (max-width: 575.98px) {
+    ...
+}
 
 
 /* // Small devices (landscape phones, 576px and up) */
 
-/* @media (min-width: 576px) and (max-width: 767.98px) {
+@media (min-width: 576px) and (max-width: 767.98px) {
     ...
-} */
+}
 
 
 /* // Medium devices (tablets, 768px and up) */
 
-/* @media (min-width: 768px) and (max-width: 991.98px) {
+@media (min-width: 768px) and (max-width: 991.98px) {
     ...
-} */
+}
 
 
 /* // Large devices (desktops, 992px and up) */
 
-/* @media (min-width: 992px) and (max-width: 1199.98px) {
+@media (min-width: 992px) and (max-width: 1199.98px) {
     ...
-} */
+}
 
 
 /* // Extra large devices (large desktops, 1200px and up) */
 
-/* @media (min-width: 1200px) {
+@media (min-width: 1200px) {
     .container {
         max-width: 100%;
         padding: 0;
         /* position: relative; */
         /* overflow-y: scroll; */
-    /* } */
-/* } */ 
+    }
+}

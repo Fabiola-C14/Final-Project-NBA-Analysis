@@ -13,7 +13,7 @@ body {
 }
 
 div.datafields {
-    /*height: 800px; */
+    height: 800px;
     width: 100%;
     position: relative;
     overflow-y: scroll;
@@ -34,16 +34,6 @@ h4 {
     background: transparent;
 }
 
-.bmiscatter {
-    margin:0;
-    padding:0;
-    padding-left:100px;
-    padding-right:100px;
-}
-
-.main{
-    margin: 50px 100PX;
-}
 
 /* 
 body {
