@@ -43,9 +43,9 @@ Random Forest Classifier scored 97% on test data. We used Sci-Kit Learn's `featu
 Link to All-Star analysis: https://xxxxxxxxx
 
 ### Health and Biometrics
-<br> Sportsdata API was used combined along with NBA API in order to look at the biometrics.   Body Mass Index is a good gauge of body fat. The most basic definition of overweight and obesity is having too much body fat-so much so that it “presents a risk to health.” A reliable way to determine whether a person has too much body fat is to calculate the ratio of their weight to their height squared. This ratio, called the body mass index (BMI), accounts for the fact that taller people have more tissue than shorter people, and so they tend to weigh more.  This is something to take into importance because most basketball players are tall. </br>
+<p> Sportsdata API was used combined along with NBA API in order to look at the biometrics.   Body Mass Index is a good gauge of body fat. The most basic definition of overweight and obesity is having too much body fat-so much so that it “presents a risk to health.” A reliable way to determine whether a person has too much body fat is to calculate the ratio of their weight to their height squared. This ratio, called the body mass index (BMI), accounts for the fact that taller people have more tissue than shorter people, and so they tend to weigh more.  This is something to take into importance because most basketball players are tall. </p>
 
-<br>Looking at all the features such as Height, Weight, Salary, Experience, BMI, Avg Age, Number of Seasons, Number of Games, and Minutes Per Game, the feature that was the most correlated to BMI was Weight by .63 coefficient correlation. </br>
+<p>Looking at all the features such as Height, Weight, Salary, Experience, BMI, Avg Age, Number of Seasons, Number of Games, and Minutes Per Game, the feature that was the most correlated to BMI was Weight by .63 coefficient correlation. </p>
 
 ```python
      def agg_stats(rows):
@@ -72,8 +72,7 @@ combined.corr()
 ![index](group_files/images/correlationimg.png)
 
 <br>Link to APIs are below:</br>
-<br>https://sportsdata.io</br>
-</br>https://pypi.org/project/nba-api/</br>
+<br>https://sportsdata.io, https://pypi.org/project/nba-api/</br>
 
 ### Injuries
 Player's injuries were analyzed and measured against salary to find a correlation between the two. To perform this analysis, active player’s data was extracted from sportsdata.io through an API and joined with an injury csv file obtained from Kaggle’s Competition site.  The extracted data was cleaned in python and plotted using Tableau.
