@@ -75,10 +75,10 @@ function reply_click(clicked_id) {
         var box2 = d3.select("div.player-details");
         var tpDetails = box2.append("div").attr("class", "col").attr("id", "");
         tpDetails.html(`
-                <div class='row prow-details-called '> <h3>${data[clicked_id_]['PLAYER_NAME']}  <tr class='list-details'> <img src='${data[clicked_id_]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50">   </tr></h3></div>
-                <div class='row prow-details-called '> <h3> ${data[clicked_id_]['PER']} </h3>  <span class='stat-header'>PERFORMANCE EFFICIENCY RATING </span></div>
-                <div class='row prow-details-called '> <h3> ${data[clicked_id_]['INFLATION']}</h3>  <span class='stat-header'>  SALARY /ANNUAL </span></div>
-                <div class='row prow-details-called '> <h3> ${data[clicked_id_]['SAL_PRED']}</h3>  <span class='stat-header'>  SALARY PREDICTION BASED ON PERFORMANCE /ANNUAL </span></div>
+                <div class='row prow-details-called '> <h3 class='player-stats-selected'>${data[clicked_id_]['PLAYER_NAME']}  <tr class='list-details'> <img src='${data[clicked_id_]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50">   </tr></h3></div>
+                <div class='row prow-details-called '> <h3 class='player-stats-selected'> ${data[clicked_id_]['PER']} </h3>  <span class='stat-header'>PERFORMANCE EFFICIENCY RATING </span></div>
+                <div class='row prow-details-called '> <h3 class='player-stats-selected'> ${data[clicked_id_]['INFLATION']}</h3>  <span class='stat-header'>  SALARY /ANNUAL </span></div>
+                <div class='row prow-details-called '> <h3 class='player-stats-selected'> ${data[clicked_id_]['SAL_PRED']}</h3>  <span class='stat-header'>  SALARY PREDICTION BASED ON PERFORMANCE /ANNUAL </span></div>
                         `);
     });
 };
