@@ -28,11 +28,15 @@ https://xxxxxxxxx
 ## Analysis Details
 
 ### All-Star Achievement 
-Analysis of All-Star and non All-Star players ranging from 1996 to 2018 to find correlation between All-Star achievements and player salary. Using scatter plot confirmed that all the highest salaries were also All-Stars. We used this insight to use All-Star status as a benchmark to train and test machine learning models to predict player's success. We ran 2 classification models to train and test our dataset using All-Star achievement as the target against player stats, such as games played, wins, rebounds, blocks and steals.
+Analysis of All-Star and non All-Star players ranging from 1996 to 2018 to find correlation between All-Star achievements and player salary. Using Plotly scatter graphs confirmed that all the highest salaries were also All-Stars. We used this insight to use All-Star status as a benchmark to train and test machine learning models to predict player's success and identify which stats were most important. We ran 2 classification models from Sci-kit Learn to train and test our dataset using All-Star achievement as the target against player stats, such as games played, wins, rebounds, blocks and steals.
 
+Decision Tree Classifier scored a 96% on test data:
 ![index](group_files/images/readme1.png)
 
-https://xxxxxxxxx
+Random Forest Classifier scored 97% on test data. We used Sci-Kit Learn's `feature_importances_` function to highlight which stats were the most important in predicting player's path to the All-Stars:
+![index](group_files/images/readme2.png)
+
+Link to All-Star analysis: https://xxxxxxxxx
 
 #### Health and Biometrics
 xxxxx
