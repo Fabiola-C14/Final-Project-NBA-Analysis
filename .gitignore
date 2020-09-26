@@ -135,4 +135,12 @@ test_files/
 /test_files/
 /.ipynb_checkpoints/
 /_pycache_/
+<<<<<<< HEAD
+.DS_Store.DS_STORE
+/.DS_Store
+/.DS_Store.DS_STORE
+/groups_notebooks/
+/groups_notebooks
+=======
 .DS_Store >> ~/.gitignore_global
+>>>>>>> 21f43be9f6e77ee89f1a6640d6086f6dbadff98e

@@ -7,7 +7,9 @@ from flask import (
     jsonify,
     request,
     redirect)
-
+import update_data
+from collections import namedtuple
+from json import JSONEncoder
 #################################################
 # Flask Setup
 #################################################
@@ -35,6 +37,17 @@ def home():
     return render_template("index.html")
 
 
+
+@app.route("/api/predict")
+def predict2020YIL5():
+    # weather_facts = update_data.predict2020_YIL5()
+    def movieJsonDecod(movieDict):
+        return namedtuple('X', movieDict.keys())(*movieDict.values())
+
+    with open('./static/datasets/top_2020_yil_5.json') as json_file:
+        data = json.loads(json_file, object_hook=movieJsonDecod)
+        
+    return jsonify(data)
 
 @app.route("/test")
 def test():
