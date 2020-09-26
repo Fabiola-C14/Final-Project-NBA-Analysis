@@ -47,10 +47,33 @@ Link to All-Star analysis: https://xxxxxxxxx
 
 <br>Looking at all the features such as Height, Weight, Salary, Experience, BMI, Avg Age, Number of Seasons, Number of Games, and Minutes Per Game, the feature that was the most correlated to BMI was Weight by .63 coefficient correlation. </br>
 
+```python
+     def agg_stats(rows):
+    num_season = rows['SEASON_ID'].nunique()
+    num_games = rows['GP'].sum()
+    min_game = (rows['MIN']/rows['GP']).mean()
+    age = rows['PLAYER_AGE'].max()
+    return pd.Series({'age': age, 'num_season': num_season, 'num_games': num_games, 'min_game': min_game})
+```
+
+```python
+player_stats = stats.groupby('PLAYER_NAME').apply(agg_stats).reset_index()
+player_stats.head()
+```
+
+```python
+combined = healthinfo_df.merge(player_stats, on='PLAYER_NAME')
+```
+
+```python
+combined.corr()
+```
+
 ![index](group_files/images/correlationimg.png)
 
-
-https://xxxxxxxxx
+Link to APIs are below:
+https://sportsdata.io
+https://pypi.org/project/nba-api/
 
 ### Injuries
 Player's injuries were analyzed and measured against salary to find a correlation between the two. To perform this analysis, active player’s data was extracted from sportsdata.io through an API and joined with an injury csv file obtained from Kaggle’s Competition site.  The extracted data was cleaned in python and plotted using Tableau.
