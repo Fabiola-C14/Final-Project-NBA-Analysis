@@ -23,7 +23,7 @@ Data analysis of NBA salaries and player stats, such as player position, minutes
 
 
 ## Presentation Site
-https://xxxxxxxxx
+https://nbs-stats-predict.herokuapp.com/
 
 ***
 
@@ -43,7 +43,11 @@ Random Forest Classifier scored 97% on test data. We used Sci-Kit Learn's `featu
 Link to All-Star analysis: https://xxxxxxxxx
 
 ### Health and Biometrics
+<br> Sportsdata API was used combined along with NBA API in order to look at the biometrics.   Body Mass Index is a good gauge of body fat. The most basic definition of overweight and obesity is having too much body fat-so much so that it “presents a risk to health.” A reliable way to determine whether a person has too much body fat is to calculate the ratio of their weight to their height squared. This ratio, called the body mass index (BMI), accounts for the fact that taller people have more tissue than shorter people, and so they tend to weigh more.  This is something to take into importance because most basketball players are tall. </br>
 
+<br>Looking at all the features such as Height, Weight, Salary, Experience, BMI, Avg Age, Number of Seasons, Number of Games, and Minutes Per Game, the feature that was the most correlated to BMI was Weight by .63 coefficient correlation. </br>
+
+![index](group_files/images/correlationimg.png)
 
 
 https://xxxxxxxxx
