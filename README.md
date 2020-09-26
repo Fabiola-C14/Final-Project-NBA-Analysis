@@ -16,8 +16,11 @@ Tableau
 
 ## Datasets
 https://github.com/swar/nba_api
+
 https://sportsdata.io/developers/data-dictionary/nba
+
 http://www.espn.com/nba/salaries
+
 
 ## Presentation Site
 XXXXXXXX
@@ -25,14 +28,14 @@ XXXXXXXX
 ## Analysis Details
 
 ### Salary Analysis
-
+xxxxx
 
 ### All Star Achievement 
-
+xxxxx
 
 ### Health and Biometrics
-
+xxxxx
 
 ### Injuries
-
+xxxxx
 
