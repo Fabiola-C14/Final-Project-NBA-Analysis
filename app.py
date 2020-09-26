@@ -10,6 +10,11 @@ from flask import (
 import update_data
 from collections import namedtuple
 from json import JSONEncoder
+
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func, inspect
 #################################################
 # Flask Setup
 #################################################
@@ -19,17 +24,29 @@ app = Flask(__name__)
 # Database Setup
 #################################################
 
-from flask_sqlalchemy import SQLAlchemy
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db.sqlite"
+# from flask_sqlalchemy import SQLAlchemy
+# app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db.sqlite"
 
-# Remove tracking modifications
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+# # Remove tracking modifications
+# app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
-db = SQLAlchemy(app)
+# db = SQLAlchemy(app)
 
 # db_all = create_classes(db)
 ##############################################
 
+#################################################
+# Database Setup
+#################################################
+engine = create_engine("sqlite:///db.sqlite")
+
+Base = automap_base()
+Base.prepare(engine, reflect=True)
+# Check db table names
+# Base.classes.keys()
+data_from_db = Base.classes.top2020Yil5
+
+#################################################
 
 # create route that renders index.html template
 @app.route("/")
@@ -40,14 +57,10 @@ def home():
 
 @app.route("/api/predict")
 def predict2020YIL5():
-    # weather_facts = update_data.predict2020_YIL5()
-    def movieJsonDecod(movieDict):
-        return namedtuple('X', movieDict.keys())(*movieDict.values())
 
-    with open('./static/datasets/top_2020_yil_5.json') as json_file:
-        data = json.loads(json_file, object_hook=movieJsonDecod)
-        
-    return jsonify(data)
+    prediction = update_data.top2020_yil_5()
+    return jsonify(prediction)
+
 
 @app.route("/test")
 def test():
