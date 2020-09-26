@@ -23,7 +23,7 @@ Data analysis of NBA salaries and player stats, such as player position, minutes
 
 
 ## Presentation Site
-https://xxxxxxxxx
+https://nbs-stats-predict.herokuapp.com/
 
 ***
 
