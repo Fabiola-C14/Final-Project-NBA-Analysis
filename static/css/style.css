@@ -6,6 +6,13 @@ body {
     background-color: #0a1b29;
 }
 
+.container-fluid {
+    /* background-image: url(../images/bg-floor.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat; */
+}
+
 .container {
     width: 100%;
     /* position: relative; */
@@ -70,6 +77,10 @@ div.datafields {
     width: 100%;
     position: relative;
     overflow-y: scroll;
+    background-image: url(../images/bg-floor.png);
+    background-size: contain;
+    background-position: center top;
+    background-repeat: no-repeat;
 }
 
 div>p {
