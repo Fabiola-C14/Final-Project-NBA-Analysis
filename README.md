@@ -43,18 +43,16 @@ Random Forest Classifier scored 97% on test data. We used Sci-Kit Learn's `featu
 Link to All-Star analysis: https://xxxxxxxxx
 
 ### Health and Biometrics
-Player's injuries were analyzed and measured against salary to find a correlation between the two. To perform this analysis, active player’s data was extracted from sportsdata.io through an API and joined with an injury csv file obtained from Kaggle’s Competition site.  The extracted data was cleaned in python and plotted using Tableau.
-Our findings indicate many NBA player’s have long and successful careers despite multiple injuries.
 
-Link to Tableau visuals: https://public.tableau.com/views/NBAPlayersInjuriesAnalysis/NBAPlayersInjuries?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 
 https://xxxxxxxxx
 
 ### Injuries
+Player's injuries were analyzed and measured against salary to find a correlation between the two. To perform this analysis, active player’s data was extracted from sportsdata.io through an API and joined with an injury csv file obtained from Kaggle’s Competition site.  The extracted data was cleaned in python and plotted using Tableau.
+Our findings indicate many NBA player’s have long and successful careers despite multiple injuries.
 
-
-https://xxxxxxxxx
+Link to Tableau visuals: https://public.tableau.com/views/NBAPlayersInjuriesAnalysis/NBAPlayersInjuries?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 ### Salary Analysis
 xxxxx
