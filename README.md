@@ -40,17 +40,17 @@ Random Forest Classifier scored 97% on test data. We used Sci-Kit Learn's `featu
 
 Link to All-Star analysis: https://xxxxxxxxx
 
-#### Health and Biometrics
+### Health and Biometrics
 xxxxx
 
 https://xxxxxxxxx
 
-#### Injuries
+### Injuries
 xxxxx
 
 https://xxxxxxxxx
 
-#### Salary Analysis
+### Salary Analysis
 xxxxx
 
 https://xxxxxxxxx
