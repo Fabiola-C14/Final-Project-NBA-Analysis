@@ -17,7 +17,7 @@ Data analysis of NBA salaries and player stats, such as player position, minutes
 * Tableau
 
 ## Datasets
-* https://github.com/swar/nba_api
+* https://pypi.org/project/nba-api/
 * https://sportsdata.io/developers/data-dictionary/nba
 * http://www.espn.com/nba/salaries
 
