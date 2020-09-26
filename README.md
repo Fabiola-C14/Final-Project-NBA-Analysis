@@ -71,9 +71,9 @@ combined.corr()
 
 ![index](group_files/images/correlationimg.png)
 
-Link to APIs are below:
-https://sportsdata.io
-https://pypi.org/project/nba-api/
+<br>Link to APIs are below:</br>
+<br>https://sportsdata.io</br>
+</br>https://pypi.org/project/nba-api/</br>
 
 ### Injuries
 Player's injuries were analyzed and measured against salary to find a correlation between the two. To perform this analysis, active player’s data was extracted from sportsdata.io through an API and joined with an injury csv file obtained from Kaggle’s Competition site.  The extracted data was cleaned in python and plotted using Tableau.
