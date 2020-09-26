@@ -69,7 +69,6 @@ combined = healthinfo_df.merge(player_stats, on='PLAYER_NAME')
 combined.corr()
 ```
 
-
 ![index](group_files/images/correlationimg.png)
 
 
