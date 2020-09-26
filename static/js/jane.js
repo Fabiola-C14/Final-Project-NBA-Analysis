@@ -66,8 +66,8 @@ const svg = d3.select("#content").append("svg")
     .attr("height", 600);
 
 function makeplot() {
-    Plotly.d3.csv('../../group_files/datasets/all_stars_yes.csv', function(data){
-    Plotly.d3.csv('../../group_files/datasets/all_stars_no.csv', function(data2){
+    Plotly.d3.csv('../datasets/all_stars_yes.csv', function(data){
+    Plotly.d3.csv('../datasets/all_stars_no.csv', function(data2){
     
         var x1 = [], y1 = [], m1 = [], p1 = [];
         var x2 = [], y2 = [], m2 = [], p2 = [];
