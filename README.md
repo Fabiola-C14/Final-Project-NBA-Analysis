@@ -1,4 +1,4 @@
-# NBA Analysis
+# NBA Stats and Salary Analysis
 
 ## Objective
 <strong>Use machine learning to predict the next big NBA star</strong>
