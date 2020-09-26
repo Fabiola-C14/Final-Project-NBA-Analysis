@@ -34,6 +34,7 @@ h4 {
     background: transparent;
 }
 
+/* Decision Tree */
 .node {
     cursor: pointer;
   }
@@ -54,6 +55,32 @@ h4 {
     stroke-width: 1.5px;
   }
 
+/* jane html */
+.box {
+height: 450px;
+padding: 20px;
+color: #fff;
+background: #157a79;
+}
+
+.header {
+/* height: 450px; */
+color: #0a1b29;
+background: #ffbe26;
+}
+
+.margin-top-80 {
+margin-top: 80px;
+}
+
+img {
+position: absolute;
+left: 0px;
+top: 0px;
+opacity: 0.5;
+width: 35%;
+}
+  
 /* 
 body {
     padding: 50px;

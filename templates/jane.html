@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>NBA Stats</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/jane.css" />
+    <link rel="stylesheet" href="../static/css/jane.css" />
 </head>
 
 <body>
@@ -43,74 +43,94 @@
                 <br>
                 <br>
                 <br>
-
-                <div class="col-md-12 text-center">
-                    <h1>NBA All Stars vs Salary</h1>
-                    <p>
-                        There's a clear correlation between All Star achievement and salary, as the highest salaries over the years are the All Star players. 
-                    </p>
-                    <div style="max-width: 100%" id="myDiv" class="js-plotly-plot">
+                <div class="container">
+                    <img src='../group_files/images/star.png' alt='All-Star logo'>
+                    <div class="col-md-12 text-center">
+                        <h1>NBA All-Stars vs Salary</h1>
+                        <br>
+                        <p>The NBA All-Star Game has always been a midseason showdown between the best players from each conference. 
+                            The game has consistently showcased a copious amount of talent playing for their respective coast.
+                            What better place to explore top talent and see what stats factor into the highest salaries.
+                            <br>
+                            <br>
+                            First, we wanted to see if there was a correlation between All-Star status and salary. 
+                            The interactive scatter plot shows that all the top salaries each year were also All-Star players. 
+                            We confirmed a strong case to use All-Star achievement as a benchmark to train and test machine learning 
+                            models to predict player success.
+                            <br>
+                        </p>
+                        <div style="max-width: 100%" id="myDiv" class="js-plotly-plot">
+                        </div>
+                        <br>
+                        <br>
+                        <br>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="box">
+                                    <h3>Machine Learning Models</h3>
+                                    <p>
+                                        We ran 2 classification models to train and test our dataset using All-Star achievement as the target 
+                                        against player stats, such as games played, wins, rebounds, blocks and steals.
+                                    </p>
+                                    <table class="table table-bordered">
+                                        <thead>
+                                        <tr>
+                                            <th scope="col" class="header">Decision Tree</th>
+                                            <th scope="col" class="header">Random Forest</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td>95.91% Accuracy</td>
+                                            <td>97.46% Accuracy</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="box">
+                                    <p>
+                                        Based on the Random Forest model, we ranked the features by importance to identify the top stats that impact a player's success to the All-Stars games:
+                                    </p>
+                                    <table class="table table-bordered" >
+                                        <thead>
+                                            <tr>
+                                                <th scope="col" class="header">Stat</th>
+                                                <th scope="col" class="header">Importance</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>PTS - Points</td>
+                                                <td>23.36%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>PIE - Player Impact Estimate</td>
+                                                <td>15.99%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>USG - Usage Player Was Involved in</td>
+                                                <td>8.99%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>PASG - Prior All Star Games</td>
+                                                <td>8.17%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>W - Wins</td>
+                                                <td>7.10%</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+                        <h5>To explore how the top stats relate to each other in importance, <a href="../static/js/tree.html" target="_blank">click here</a> to view an interactive decision tree.</h5>
+                        
                     </div>
-                    <br>
-                    <br>
-                    <h3>Prediction Models</h3>
-                    <p>
-                        In order to take a deep dive in understanding the factors that most impact a players path to All Stars and higher salary, we ran classification models: Decision Tree and Random Forest.
-                    </p>
-                    <table class="table table-bordered">
-                        <thead>
-                        <tr>
-                            <th scope="col">Decision Tree</th>
-                            <th scope="col">Random Forest</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td>95.91% Accuracy</td>
-                            <td>97.46% Accuracy</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                    <br>
-                    <br>
-                    <p>
-                        Based on the Random Forest model, we ranked the features by importance to identify the top stats that impact a player's success to the All Stars games:
-                    </p>
-                    <table class="table table-bordered">
-                        <thead>
-                            <tr>
-                                <th scope="col">Feature</th>
-                                <th scope="col">Importance</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>PTS - Points</td>
-                                <td>23.36%</td>
-                            </tr>
-                            <tr>
-                                <td>PIE - Player Impact Estimate</td>
-                                <td>15.99%</td>
-                            </tr>
-                            <tr>
-                                <td>USG - Usage Player Was Involved in</td>
-                                <td>8.99%</td>
-                            </tr>
-                            <tr>
-                                <td>PASG - Prior All Star Games</td>
-                                <td>8.17%</td>
-                            </tr>
-                            <tr>
-                                <td>W - Wins</td>
-                                <td>7.10%</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <br>
-                    <h4><a href="../js/tree.html" target="_blank">Click here for an interactive decision tree</a></h4>
-
                 </div>
-
             </div>
         </div>
 
@@ -126,7 +146,7 @@
 
         <script src="https://d3js.org/d3.v5.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
-        <script src="../js/jane.js" type="text/javascript"></script>
+        <script src="../static/js/jane.js" type="text/javascript"></script>
     </body>
 
 </html>
