@@ -18,13 +18,13 @@
 // };
 
 // Clean box1 before loading new data. If not cleaned, clean again-- info will overlap if not. 
-function cleanBox() {
-    var svgArea = d3.select("div.player-details").selectAll("*").remove();
-    if (!svgArea.empty()) {
-        svgArea.remove();
-    };
-    console.log('cleaned.....')
-};
+// function cleanBox() {
+//     var svgArea = d3.select("div.player-list").selectAll("*").remove();
+//     if (!svgArea.empty()) {
+//         svgArea.remove();
+//     };
+//     // console.log('cleaned.....')
+// };
 
 // var data = d3.json("/static/datasets/top_2020_yil_5.json", function(data2) {
 //     console.log(data2);
@@ -42,83 +42,21 @@ function cleanBox() {
 //     // var tData = tRow.append("div").attr("class", "col").attr("id", "");
 //     // tRow.html(`<span class=''>Player</span><p class=''> ${d[0]} </p><div class='small_details'>City:  </div>`);
 // });
-// function displayPlayerData(jsonData, indexClicked) {
-//     d = jsonData;
-//     indexClicked = indexClicked[1];
-//     console.log(jsonData, indexClicked);
-//     // cleanBox();
-//     var box2 = d3.select("div.player-details");
-//     var tpDetails = box2.append("div").attr("class", "col").attr("id", "");
-//     tpDetails.html(`<div class='row prow-details '><a id='select-player' href=""> 1. <img src='${d[indexClicked]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[0]['PLAYER_NAME']} </span></a></div>
-//                 <div class='row prow-details '><a id='select-player' href=""> 2. <img src='${d[indexClicked]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[0]['PLAYER_NAME']} </span></a></div>
-//                 <div class='row prow-details '><a id='select-player' href=""> 3. <img src='${d[indexClicked]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[0]['PLAYER_NAME']} </span></a></div>
-//                         `);
-// };
 
-
-
-function reply_click(clicked_id) {
-    // alert(clicked_id);
-    cleanBox();
-    d3.json(`api/predict`, function(d) {
-        data = d;
-        // console.log(d, clicked_id);
-        var clicked_id_ = clicked_id - 1;
-        // if (clicked_id_ = 9) {
-        //     var clicked_id_ = 10;
-        // } else {
-        //     var clicked_id_ = clicked_id_;
-        // }
-
-        console.log(clicked_id_);
-
-        var box2 = d3.select("div.player-details");
-        var tpDetails = box2.append("div").attr("class", "col").attr("id", "");
-        tpDetails.html(`
-                <div class='row prow-details-called '> <h3>${data[clicked_id_]['PLAYER_NAME']}  <tr class='list-details'> <img src='${data[clicked_id_]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50">   </tr></h3></div>
-                <div class='row prow-details-called '> <h3> ${data[clicked_id_]['PER']} </h3>  <span class='stat-header'>PERFORMANCE EFFICIENCY RATING </span></div>
-                <div class='row prow-details-called '> <h3> ${data[clicked_id_]['INFLATION']}</h3>  <span class='stat-header'>  SALARY /ANNUAL </span></div>
-                <div class='row prow-details-called '> <h3> ${data[clicked_id_]['SAL_PRED']}</h3>  <span class='stat-header'>  SALARY PREDICTION BASED ON PERFORMANCE /ANNUAL </span></div>
-                        `);
-    });
-};
 
 
 function GetDataFromJson() {
-
+    var jsonData;
     d3.json(`api/predict`, function(d) {
+        jsonData = d;
+        callback(NewValue(jsonData));
+        // var box1 = d3.select("div.player-list");
+        // var tRow = box1.append("div").attr("class", "row");
 
-        // console.log(jsonData);
-
-        var box1 = d3.select("div.player-list");
-        var tRow = box1.append("div").attr("class", "row");
-
-
-        tRow.html(`<div class='row prow-details '><a id='select-player' onClick="reply_click( this.text[1]);" href="javascript:void();"> 1. <img src='${d[0]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[0]['PLAYER_NAME']} </span></a></div>
-        <div class='row prow-details '><a id='select-player' onClick="reply_click( this.text[1]);"  href="javascript:void();"> 2. <img src='${d[1]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[1]['PLAYER_NAME']} </span></a></div>
-        <div class='row prow-details '><a id='select-player' onClick="reply_click( this.text[1]);"  href="javascript:void();"> 3. <img src='${d[2]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[2]['PLAYER_NAME']} </span></a></div>
-        <div class='row prow-details '><a id='select-player' onClick="reply_click( this.text[1]);"  href="javascript:void();"> 4. <img src='${d[3]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[3]['PLAYER_NAME']} </span></a></div>
-        <div class='row prow-details '><a id='select-player' onClick="reply_click( this.text[1]);"  href="javascript:void();"> 5. <img src='${d[4]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[4]['PLAYER_NAME']} </span></a></div>
-        <div class='row prow-details '><a id='select-player' onClick="reply_click( this.text[1]);" href="javascript:void();"> 6. <img src='${d[5]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[5]['PLAYER_NAME']} </span></a></div>
-        <div class='row prow-details '><a id='select-player' onClick="reply_click( this.text[1]);"  href="javascript:void();"> 7. <img src='${d[6]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[6]['PLAYER_NAME']} </span></a></div>
-        <div class='row prow-details '><a id='select-player' onClick="reply_click( this.text[1]);"  href="javascript:void();"> 8. <img src='${d[7]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[7]['PLAYER_NAME']} </span></a></div>
-        <div class='row prow-details '><a id='select-player' onClick="reply_click( this.text[1]);"  href="javascript:void();"> 9. <img src='${d[8]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[8]['PLAYER_NAME']} </span></a></div>
-        <div class='row prow-details '><a id='select-player' onClick="reply_click( (this.text[1]+0));"  href="javascript:void();"> 10. <img src='${d[9]['PHOTO']}' class="rounded-circle" alt="Player Picture" height="50"> <span class='list-details'> ${d[9]['PLAYER_NAME']} </span></a></div>
-
-                `);
-
-        // var indexClicked = document.getElementById("select-player").text;
-        // console.log(indexClicked[1]);
-        // tRow.enter().addEventListener("click", displayPlayerData(jsonData, indexClicked));
-
-        // tRow.selectAll("select-player").enter()
-        //     .on("click", function() {
-        //         // get value of selection
-        //         var value = d3.select(this).attr("value");
-        //         console.log(value);
+        // var tData = tRow.append("div").attr("class", "col").attr("id", "");
+        // tRow.html(`<span class=''>Player</span><p class=''> ${d[0]} </p><div class='small_details'>City:  </div>`);
 
 
-        //     });
     });
     return;
 
@@ -128,7 +66,6 @@ function GetDataFromJson() {
 
 GetDataFromJson(function(result) {
     console.log(result);
-    console.log('works');
 });
 
 
