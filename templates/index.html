@@ -49,28 +49,80 @@
 
         <div data-target="#navigation" data-offset="0" class="datafields">
 
-            <h2 id="objective">objective</h2>
-            <p class='objective-text'>
-                The purpose of this analysis is to evaluate various NBA’s players, and determine which players are most likely to succeed or move to the next level in their careers. The first step was to identify the important factors that distinguish NBA legends from
-                the rest. We began by closely examining the characteristics of All Stars players, such as: points, wins, player’s impact estimate, usage player was involved in, prior All-Star games, and annual salary (adjusted for inflation and contractual
-                caps) . We also analyzed the player’s biometrics, and injuries to help us determine any potential correlation between their health and success, which was defined by the player's earnings. We then applied learnings from our analysis to
-                train different machine learning models to see how closely the models can predict a player's salary and expose the true value of players based on their performance against other similar players. Analysis of the dataset can provide competitive
-                insight to all teams.
-
-
-                <br><br>
-
-
-            </p>
+            <div class="jumbotron jumbotron-fluid">
+                <div class="container">
+                    <h1 class="">NBA Analysis</h1>
+                    <p class="jumbotron-text">Salary Expectations to Performance</p>
+                </div>
+            </div>
 
 
 
+
+            <h2 class='the-team-title'>The Team</h2>
+
+            <div class='text-center'>
+                <table class="table-borderless center the-team">
+                    <tbody>
+                        <!-- <tr>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr> -->
+                        <tr>
+                            <td><img src='../static/images/fc.jpg' alt='fabiola cartagena' class='figure-img img-fluid rounded resize'></td>
+                            <td><img src='../static/images/jh.jpg' alt='jane hurr' class='figure-img img-fluid rounded resize'></td>
+                            <td><img src='../static/images/nh.jpg' alt='nazia haque' class='figure-img img-fluid rounded resize'></td>
+                            <td><img src='../static/images/cp.jpg' alt='christian pompa' class='figure-img img-fluid rounded resize'></td>
+                        </tr>
+                        <tr>
+                            <td>Fabiola Cartagena</td>
+                            <td>Jane Hurr</td>
+                            <td>Nazia Haque</td>
+                            <td>Christian Pompa</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href='https://github.com/Fabiola-C14'><img src='../static/images/github.png' class='resize-icons'></a>
+                                <a href='https://www.linkedin.com/in/fabiola-cartagena/'><img src='../static/images/linkedin.png' class='resize-icons'></a>
+                            </td>
+                            <td>
+                                <a href='https://github.com/janejanejam'><img src='../static/images/github.png' class='resize-icons'></a>
+                                <a href='https://www.linkedin.com/in/jane-hur-2663594/'><img src='../static/images/linkedin.png' class='resize-icons'></a>
+                            </td>
+                            <td>
+                                <a href='https://github.com/Nazzy88'><img src='../static/images/github.png' class='resize-icons'></a>
+                                <a href='https://www.linkedin.com/in/haquenazia/'><img src='../static/images/linkedin.png' class='resize-icons'></a>
+                            </td>
+                            <td>
+                                <a href='https://www.linkedin.com/in/christianpompa/'><img src='../static/images/github.png' class='resize-icons'></a>
+                                <a href='https://www.linkedin.com/in/christianpompa/'><img src='../static/images/linkedin.png' class='resize-icons'></a>
+                            </td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+
+
+            <div class='row'>
+                <h2 id="objective">Objective</h2>
+                <p class='objective-text'>
+                    The purpose of this analysis is to evaluate various NBA’s players, and determine which players are most likely to succeed or move to the next level in their careers. The first step was to identify the important factors that distinguish NBA legends from
+                    the rest. We began by closely examining the characteristics of All Stars players, such as: points, wins, player’s impact estimate, usage player was involved in, prior All-Star games, and annual salary (adjusted for inflation and contractual
+                    caps) . We also analyzed the player’s biometrics, and injuries to help us determine any potential correlation between their health and success, which was defined by the player's earnings. We then applied learnings from our analysis
+                    to train different machine learning models to see how closely the models can predict a player's salary and expose the true value of players based on their performance against other similar players. Analysis of the dataset can provide
+                    competitive insight to all teams.
+                </p>
+            </div>
 
 
 
             <h2 id="allstar">NBA All-Stars vs Salary</h2>
-            <div class="container">
-                <img class='star-img' src='../static/images/star.png' alt='All-Star logo'>
+            <div class="container allstar">
+                <!-- <img class='star-img' src='../static/images/star.png' alt='All-Star logo'> -->
 
                 <div class="col-md-12 text-center">
 
@@ -170,23 +222,23 @@
                 <table class="table table-striped">
                     <tbody>
                         <tr class="thead-light">
-                            <th style="padding-left:0">BMI</th>
+                            <th>BMI</th>
                             <th><b>Weight</b> Status</th>
                         </tr>
                         <tr>
-                            <td style="padding-left:0">Below 18.5</td>
+                            <td>Below 18.5</td>
                             <td>Underweight</td>
                         </tr>
                         <tr>
-                            <td style="padding-left:0">18.5—24.9</td>
+                            <td>18.5—24.9</td>
                             <td><b>Normal</b></td>
                         </tr>
                         <tr>
-                            <td style="padding-left:0">25.0—29.9</td>
+                            <td>25.0—29.9</td>
                             <td>Overweight</td>
                         </tr>
                         <tr>
-                            <td style="padding-left:0">30.0 and Above</td>
+                            <td>30.0 and Above</td>
                             <td>Obese</td>
                         </tr>
                     </tbody>
@@ -395,86 +447,168 @@
 
 
 
-            <h2 id="salaryPerformance">Salary / Performance</h2><br>
-
-            <p>
-                An individual is paid to perform at a professional level in any sport and/or career field of their choice. The better the performance, the better pay. The chart focuses on the 2020 season and players who have 3 years or less in the NBA. The chart ranks
-                the player by thier Performance Efficiency Rating (PER).
-                <span>
-                <h5>Performance Efficiency Rating (PER)</h5> <span> Performance Efficiency Rating gives positives for scoring if you shoot a decent percentage.</span>
-                <blockquote class="blockquote">
-                    <p class="mb-0">'Breakeven' Shooting %:</br> 2P = 37.5%, 3P = 28%, FT = 65%.</p>
-                </blockquote>
-                <span class='equationp'><p class="text-right"> Equation:
-                <br> Simple PER is calculated as follows: (2FG Made * 2) - (2FG Attempted *.75) + (3FG Made * 3) – (3FG Attempted * .84) + (FT Made) - (FT Attempted * -.65) + Rebounds + Assists + Blocks + Steals - Turnovers.
-            </span>
-
-
-                <span>If a player scores a ton of points but shoots a very low percentage then they would not have a positive Simple PER. </span>
-
-
-            </p>
-            </span>
-
-            <h5>Research: Assigning Independent/Dependent features, Multi-Logistic Regression</h5>
-            <span>If a player has played 'x' amount of minutes played, we use multi-linear regression to predict and approximate amount of minutes played based on the stats (independent features) provided. The correlation percentage of this model is approximately 96% correct
-            in predicting minutes needed for independent features passed. found throughout the dataset and similar correlations. We can use this tool to visualize which players around the league are over/under performing to their 'salary expectations'.
-            Additionally, the tool can provide insight on future players to acquire or look out for. The PER score is a good place to start when ranking player efficiency... as explained above. Eventually this tool allow comparing by all years, position
-            and year range.</span>
-
-
-            <h5>Estimate amount of minutes needed <span class="badge badge-success">~96%</span></h5>
-
-            <figure class="figure text-right">
-                <img src="../static/images/scatter-temp.jpg" class="figure-img img-fluid rounded" alt="scatter plot. minutes to points - first year of player career">
-                <figcaption class="figure-caption text-right">annual total points scored by total minutes. Color represents year in the league (1-5). - first year of player career</figcaption>
-            </figure>
-            <span> Multiple Linear Regression, using multiple sklearn modules, was used to fit the models. The dependent features for the first regression is Minutes Played(MIN). Independent features include: Player age, years in the league, round number picked, overall pick, games played, games started, field goals made, field goal assists, field goal percentage, 3 points made, 3 points attempted, 3 point percent, free throws made, free throws attempted, free throw percentage, offensive rebounds, defensive rebounds, rebounds, assists, steals, blocks, turnovers, pf, points, performance efficienct report, all star appearances, injuries per year.</span>
-
-
-            </span>
-
-
-            <h5>Estimated minutes to Salary<span class="badge badge-warning">~46%</span></h5>
-
-            <span> Due to the high prediction score, the second regression adds predicted minutes and year of player record along with the features mentioned as the Independent features. Salary is the Dependent feature. </span>
-            </p>
 
 
 
             <div class='container'>
-                <div class='col-lg-8 player-predict'>
+                <h2 id="salaryPerformance">Salary / Performance</h2><br>
+
+                <p>
+                    An individual is paid to perform at a professional level in any sport and/or career field of their choice. The better the performance, the better pay. The chart focuses on the 2020 season and players who have 3 years or less in the NBA. The chart ranks
+                    the player by thier Performance Efficiency Rating (PER).</p>
+
+
+
+
+                <h5>Research: Assigning Independent/Dependent features, Multi-Logistic Regression</h5>
+                <figure class="figure text-right">
+                    <!-- <img src="../static/images/scatter-temp.jpg" class="figure-img img-fluid rounded" alt="scatter plot. minutes to points - first year of player career"> -->
+                    <br> {% include "test/yil_points_min.html" %}
+                    <figcaption class="figure-caption text-right">Data Represents first 5 years of a players career 2000-2020. Annual points scored by total minutes. Color represents year in the league (YIL). </figcaption>
+                </figure>
+                <p class='research-text'>If a player has played 'x' amount of minutes played, we use multi-linear regression to predict and approximate amount of minutes played based on the stats (independent features) provided. The correlation percentage of this model is approximately
+                    96% correct in predicting minutes needed for independent features passed. found throughout the dataset and similar correlations. We can use this tool to visualize which players around the league are over/under performing to their 'salary
+                    expectations'. Additionally, the tool can provide insight on future players to acquire or look out for. The PER score is a good place to start when ranking player efficiency... as explained above. Eventually this tool allow comparing
+                    by all years, position and year range.</p>
+
+
+
+
+
+
+
+
+
+                <h5>Performance Efficiency Rating (PER)</h5>
+                <p> Performance Efficiency Rating gives positives for scoring if you shoot a decent percentage.</p>
+
+
+                <div class='row' id='salary-context'>
+                    <div class="d-flex justify-content-center">
+                        <blockquote class="blockquote">
+                            <p class="mb-0">
+                                <h3>Simple PER is calculated as follows:</h3>
+                                </br>(2FG Made * 2) - (2FG Attempted *.75) + (3FG Made * 3) – (3FG Attempted * .84) + (FT Made) - (FT Attempted * -.65) + Rebounds + Assists + Blocks + Steals - Turnovers.</p> <cite title="Source Title">stats.nba.com</cite>
+                        </blockquote>
+                        <blockquote class="blockquote">
+                            <p class="mb-0">
+                                <h3>'Breakeven' Shooting %:</h3>
+                                </br> 2P = 37.5%, 3P = 28%, FT = 65%.</p>
+                        </blockquote>
+
+
+                    </div>
+                    <br>
+                    <p>If a player scores an excess amount of points but shoots a very low percentage, they would not have a positive Simple PER. </p>
+                </div>
+
+
+
+                <h5>Estimate amount of minutes needed <span class="badge badge-success">~96%</span></h5>
+
+
+                <p> Multiple Linear Regression, using multiple sklearn modules, was used to fit the models. The dependent features for the first regression is Minutes Played(MIN). Independent features include: Player age, years in the league, round number
+                    picked, overall pick, games played, games started, field goals made, field goal assists, field goal percentage, 3 points made, 3 points attempted, 3 point percent, free throws made, free throws attempted, free throw percentage, offensive
+                    rebounds, defensive rebounds, rebounds, assists, steals, blocks, turnovers, pf, points, performance efficienct report, all star appearances, injuries per year.</p>
+
+
+
+                <h5>Estimated minutes to Salary<span class="badge badge-warning">~46%</span></h5>
+
+                <p> Due to the high prediction score, the second regression adds predicted minutes and year of player record along with the features mentioned as the Independent features. Salary is the Dependent feature. </p>
+
+
+
+
+
+                <div class='col-lg player-predict'>
+
+
+                    <h5 class='predict-title'>Performance - 2020 Season</h5>
+                    <p>Using performance metrics to predict players potential salary, we used twenty years of data ranging from 2000 - 2020. I generally focused on the players 3rd year in the league. Rookie contracts, in the early stages of the first round,
+                        can be up to 5 years; 5 years being the max for a rookie. Within the third year, you can see who is standing out in the league. We will use the dashboard to visualize our predictions. The dashboard displays top over-performers
+                        PER and Salary projection/expectations. <strong></strong>I compare current players that have been in the NBA for less than 3 years to every player in the last 20 years first 3 years in the NBA. </strong>
+                    </p>
                     <div class='row top-talent-title'>
-                        <span>
-                        <h5 class='predict-title'>2020 Season. 3 Years or less in the NBA.</h5>top over performers /salary</span>
+
                     </div>
                     <div class='row row-player-details'>
-                        <div class='col player-details'>PLAYER</div>
-                        <div class='col player-list'>Top 10 Players</div>
+                        <!-- LEFT -->
+                        <div class='col player-details text-right'>PLAYER</div>
+
+
+                        <div class='col player-list'>Top 10 (2020)</div>
+                        <!-- CENTER -->
+                        <div class='col player-list-center'>
+                            <table class='rank-table'>
+                                <tr>
+                                    <th>Rank</th>
+                                </tr>
+                                <tr>
+                                    <td>1</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                </tr>
+                                <tr>
+                                    <td>9</td>
+                                </tr>
+                                <tr>
+                                    <td>10</td>
+                                </tr>
+                            </table>
+
+                        </div>
+                        <!-- RIGHT -->
+                        <div class='col player-list-right'>Top 10 (00-2020)</div>
+
+
+                        <div class='col player-details-right'>PLAYER</div>
+
                     </div>
                 </div>
 
+
             </div>
-
-
-
         </div>
 
 
-        <script src="https://d3js.org/d3.v4.min.js"></script>
-        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-        <script type="text/javascript" src="./static/js/jane.js" type="module"></script>
-        <script type="text/javascript" src="./static/js/app.js" type="module"></script>
+    </div>
 
 
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="./static/js/jane.js" type="module"></script>
+    <script type="text/javascript" src="./static/js/app.js" type="module"></script>
 
 
-        <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
-        <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+
+
+    <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
 </body>
 
 </html>

@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NBA Stats</title>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body data-spy="scroll">
+    <div class="container-fluid">
+
+
+        <nav id="navigation" class="navbar fixed-top navbar-light bg-light">
+            <a class="navbar-brand" href="#"><strong>NBA Analysis:</strong> Salary Expectations to Performance</a>
+            <ul class="nav nav-pills">
+                <li class="nav-item">
+                    <a class="nav-link" href="#objective">objective</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#allstar">All-Stars</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#biometrics">Biometrics</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#injuries">Injuries</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#salaryPerformance">Salary/Performance</a>
+                </li>
+
+            </ul>
+        </nav>
+
+
+
+
+        <div data-target="#navigation" data-offset="0" class="datafields">
+
+            <h2 id="objective">objective</h2>
+            <p class='objective-text'>
+                The purpose of this analysis is to evaluate various NBA’s players, and determine which players are most likely to succeed or move to the next level in their careers. The first step was to identify the important factors that distinguish NBA legends from
+                the rest. We began by closely examining the characteristics of All Stars players, such as: points, wins, player’s impact estimate, usage player was involved in, prior All-Star games, and annual salary (adjusted for inflation and contractual
+                caps) . We also analyzed the player’s biometrics, and injuries to help us determine any potential correlation between their health and success, which was defined by the player's earnings. We then applied learnings from our analysis to
+                train different machine learning models to see how closely the models can predict a player's salary and expose the true value of players based on their performance against other similar players. Analysis of the dataset can provide competitive
+                insight to all teams.
+
+
+                <br><br>
+
+
+            </p>
+
+
+
+
+
+
+            <h2 id="allstar">NBA All-Stars vs Salary</h2>
+            <div class="container">
+                <img class='star-img' src='../static/images/star.png' alt='All-Star logo'>
+
+                <div class="col-md-12 text-center">
+
+                    <br>
+                    <p>The NBA All-Star Game has always been a midseason showdown between the best players from each conference. The game has consistently showcased a copious amount of talent playing for their respective coast. What better place to explore
+                        top talent and see what stats factor into the highest salaries.
+                        <br>
+                        <br> First, we wanted to see if there was a correlation between All-Star status and salary. The interactive scatter plot shows that all the top salaries each year were also All-Star players. We confirmed a strong case to use All-Star
+                        achievement as a benchmark to train and test machine learning models to predict players' success.
+                        <br>
+                    </p>
+                    <div style="max-width: 100%" id="content" class="js-plotly-plot">
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="box">
+                                <h3 id="box">Machine Learning Models</h3>
+                                <p>
+                                    We ran 2 classification models to train and test our dataset using All-Star achievement as the target against player stats, such as games played, wins, rebounds, blocks and steals.
+                                </p>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col" class="header">Decision Tree</th>
+                                            <th scope="col" class="header">Random Forest</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>95.91% Accuracy</td>
+                                            <td>97.46% Accuracy</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="box">
+                                <p>
+                                    Based on the Random Forest model, we ranked the features by importance to identify the top stats that impact a player's success to the All-Stars games:
+                                </p>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col" class="header">Stat</th>
+                                            <th scope="col" class="header">Importance</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>PTS - Points</td>
+                                            <td>23.36%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PIE - Player Impact Estimate</td>
+                                            <td>15.99%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>USG - Usage Player Was Involved In</td>
+                                            <td>8.99%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>PASG - Prior All Star Games</td>
+                                            <td>8.17%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>W - Wins</td>
+                                            <td>7.10%</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <h5>To explore how the top stats relate to each other in importance, <a href="../static/js/tree.html" target="_blank">click here</a> to view an interactive decision tree.</h5>
+
+                </div>
+            </div>
+
+
+            <h2 id="biometrics">Biometrics</h2>
+            <div class="main">
+                <!-- <iframe src="{{ url_for('static', filename='naz_imgs/Position_BMI_box.html') }}" height="500" width="800" title="Iframe Example"></iframe> -->
+
+                <h4>NBA Health BMI</h4>
+                <p>
+                    Body Mass Index is a good gauge of body fat. The most basic definition of overweight and obesity is having too much body fat-so much so that it “presents a risk to health.” A reliable way to determine whether a person has too much body fat is to calculate
+                    the ratio of their weight to their height squared. This ratio, called the body mass index (BMI), accounts for the fact that taller people have more tissue than shorter people, and so they tend to weigh more.
+                </p>
+
+                <h5>BMI Table</h5>
+
+                <table class="table table-striped">
+                    <tbody>
+                        <tr class="thead-light">
+                            <th style="padding-left:0">BMI</th>
+                            <th><b>Weight</b> Status</th>
+                        </tr>
+                        <tr>
+                            <td style="padding-left:0">Below 18.5</td>
+                            <td>Underweight</td>
+                        </tr>
+                        <tr>
+                            <td style="padding-left:0">18.5—24.9</td>
+                            <td><b>Normal</b></td>
+                        </tr>
+                        <tr>
+                            <td style="padding-left:0">25.0—29.9</td>
+                            <td>Overweight</td>
+                        </tr>
+                        <tr>
+                            <td style="padding-left:0">30.0 and Above</td>
+                            <td>Obese</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                </br>
+
+                <h5>Correlation Table</h5>
+                <table border="1" class="table table-striped">
+                    <thead>
+                        <tr class="thead-light" style="">
+                            <th></th>
+                            <th>Height</th>
+                            <th>Weight</th>
+                            <th>Salary</th>
+                            <th>Experience</th>
+                            <th>BMI</th>
+                            <th>age</th>
+                            <th>num_season</th>
+                            <th>num_games</th>
+                            <th>min_game</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th>Height</th>
+                            <td>1.00</td>
+                            <td>0.77</td>
+                            <td>0.06</td>
+                            <td>0.04</td>
+                            <td>-0.01</td>
+                            <td>-0.01</td>
+                            <td>0.08</td>
+                            <td>0.07</td>
+                            <td>-0.02</td>
+                        </tr>
+                        <tr>
+                            <th>Weight</th>
+                            <td>0.77</td>
+                            <td>1.00</td>
+                            <td>0.13</td>
+                            <td>0.13</td>
+                            <td>0.63</td>
+                            <td>0.05</td>
+                            <td>0.16</td>
+                            <td>0.17</td>
+                            <td>0.08</td>
+                        </tr>
+                        <tr>
+                            <th>Salary</th>
+                            <td>0.06</td>
+                            <td>0.13</td>
+                            <td>1.00</td>
+                            <td>0.50</td>
+                            <td>0.13</td>
+                            <td>0.16</td>
+                            <td>0.54</td>
+                            <td>0.59</td>
+                            <td>0.56</td>
+                        </tr>
+                        <tr>
+                            <th>Experience</th>
+                            <td>0.04</td>
+                            <td>0.13</td>
+                            <td>0.50</td>
+                            <td>1.00</td>
+                            <td>0.13</td>
+                            <td>0.34</td>
+                            <td>0.72</td>
+                            <td>0.74</td>
+                            <td>0.50</td>
+                        </tr>
+                        <tr>
+                            <th>BMI</th>
+                            <td>-0.01</td>
+                            <td>0.63</td>
+                            <td>0.13</td>
+                            <td>0.13</td>
+                            <td>1.00</td>
+                            <td>0.09</td>
+                            <td>0.14</td>
+                            <td>0.17</td>
+                            <td>0.14</td>
+                        </tr>
+                        <tr>
+                            <th>age</th>
+                            <td>-0.01</td>
+                            <td>0.05</td>
+                            <td>0.16</td>
+                            <td>0.34</td>
+                            <td>0.09</td>
+                            <td>1.00</td>
+                            <td>0.55</td>
+                            <td>0.46</td>
+                            <td>0.11</td>
+                        </tr>
+                        <tr>
+                            <th>num_season</th>
+                            <td>0.08</td>
+                            <td>0.16</td>
+                            <td>0.54</td>
+                            <td>0.72</td>
+                            <td>0.14</td>
+                            <td>0.55</td>
+                            <td>1.00</td>
+                            <td>0.92</td>
+                            <td>0.57</td>
+                        </tr>
+                        <tr>
+                            <th>num_games</th>
+                            <td>0.07</td>
+                            <td>0.17</td>
+                            <td>0.59</td>
+                            <td>0.74</td>
+                            <td>0.17</td>
+                            <td>0.46</td>
+                            <td>0.92</td>
+                            <td>1.00</td>
+                            <td>0.71</td>
+                        </tr>
+                        <tr>
+                            <th>min_game</th>
+                            <td>-0.02</td>
+                            <td>0.08</td>
+                            <td>0.56</td>
+                            <td>0.50</td>
+                            <td>0.14</td>
+                            <td>0.11</td>
+                            <td>0.57</td>
+                            <td>0.71</td>
+                            <td>1.00</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>
+                    Weight is pretty much the only feature that is correlated to BMI.
+                </p>
+
+                <br> {% include "test/salary_bmi_player_name_scatter.html" %}
+                </br>
+
+                <br>
+                </br>
+
+                <br> {% include "test/min_game_experience_bmi_scatter.html" %}
+                </br>
+
+                <br>
+                </br>
+
+                <br> {% include "test/Position_BMI_box.html" %}
+                </br>
+
+                <br>
+                </br>
+
+                <br> {% include "test/PositionCategory_BMI_violinbox.html" %}
+                </br>
+
+
+
+                <p>
+
+                </p>
+            </div>
+
+            <div class="col-lg-12 injuries-container justify-content-center">
+                <h2 id="injuries">Injuries</h2>
+
+                <h4 id="objectives">NBA Player's Injury Analysis</h4>
+                <br>
+                <p>
+                    In this analysis we take a close look at the correlation between income, and the days of games missed due to injuries. The last two slides provide a list of players with the highest and lowest number of games missed. Our findings indicate there are many
+                    players with successful careers in spite of multiple injuries. A good example is Kevin Love, who has 82 days of games missed due to injuries, but has a long career (10 years of experience), and makes $28.9 million. </p>
+                <p>
+                    <div class='row container'>
+                        <div class='tableauPlaceholder ' id='viz1601006649752' style='position: absolute;margin-left: 20%'>
+                            <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NB&#47;NBAPlayersInjuriesAnalysis&#47;NBAPlayersInjuries&#47;1_rss.png' style='border: none' /></a>
+                    </noscript><object class='tableauViz' style='display:none;'>
+                        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                        <param name='embed_code_version' value='3' /> 
+                        <param name='site_root' value='' />
+                        <param name='name' value='NBAPlayersInjuriesAnalysis&#47;NBAPlayersInjuries' />
+                        <param name='tabs' value='no' />
+                        <param name='toolbar' value='yes' />
+                        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NB&#47;NBAPlayersInjuriesAnalysis&#47;NBAPlayersInjuries&#47;1.png' /> 
+                        <param name='animate_transition' value='yes' />
+                        <param name='display_static_image' value='yes' />
+                        <param name='display_spinner' value='yes' />
+                        <param name='display_overlay' value='yes' />
+                        <param name='display_count' value='yes' />
+                        <param name='language' value='en' />
+                        <param name='filter' value='publish=yes' />
+                    </object></div>
+                        <script type='text/javascript'>
+                            var divElement = document.getElementById('viz1601006649752');
+                            var vizElement = divElement.getElementsByTagName('object')[0];
+                            vizElement.style.width = '800px';
+                            vizElement.style.height = '827px';
+                            var scriptElement = document.createElement('script');
+                            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+                            vizElement.parentNode.insertBefore(scriptElement, vizElement);
+                        </script>
+                    </div>
+            </div>
+
+
+            <div class='container'>
+                <h2 id="salaryPerformance">Salary / Performance</h2><br>
+
+                <p>
+                    An individual is paid to perform at a professional level in any sport and/or career field of their choice. The better the performance, the better pay. The chart focuses on the 2020 season and players who have 3 years or less in the NBA. The chart ranks
+                    the player by thier Performance Efficiency Rating (PER).
+                    <span>
+                <h5>Performance Efficiency Rating (PER)</h5> <span> Performance Efficiency Rating gives positives for scoring if you shoot a decent percentage.</span>
+
+                    <span class='equationp'><p class="text-right"> Equation:
+                <br> Simple PER is calculated as follows: (2FG Made * 2) - (2FG Attempted *.75) + (3FG Made * 3) – (3FG Attempted * .84) + (FT Made) - (FT Attempted * -.65) + Rebounds + Assists + Blocks + Steals - Turnovers.
+            </span>
+
+                    <blockquote class="blockquote">
+                        <p class="mb-0">'Breakeven' Shooting %:</br> 2P = 37.5%, 3P = 28%, FT = 65%.</p>
+                    </blockquote>
+
+
+
+                    <span>If a player scores a ton of points but shoots a very low percentage then they would not have a positive Simple PER. </span>
+
+
+                </p>
+                </span>
+
+                <h5>Research: Assigning Independent/Dependent features, Multi-Logistic Regression</h5>
+                <span>If a player has played 'x' amount of minutes played, we use multi-linear regression to predict and approximate amount of minutes played based on the stats (independent features) provided. The correlation percentage of this model is approximately 96% correct
+            in predicting minutes needed for independent features passed. found throughout the dataset and similar correlations. We can use this tool to visualize which players around the league are over/under performing to their 'salary expectations'.
+            Additionally, the tool can provide insight on future players to acquire or look out for. The PER score is a good place to start when ranking player efficiency... as explained above. Eventually this tool allow comparing by all years, position
+            and year range.</span>
+
+
+                <h5>Estimate amount of minutes needed <span class="badge badge-success">~96%</span></h5>
+
+                <figure class="figure text-right">
+                    <img src="../static/images/scatter-temp.jpg" class="figure-img img-fluid rounded" alt="scatter plot. minutes to points - first year of player career">
+                    <figcaption class="figure-caption text-right">annual total points scored by total minutes. Color represents year in the league (1-5). - first year of player career</figcaption>
+                </figure>
+                <span> Multiple Linear Regression, using multiple sklearn modules, was used to fit the models. The dependent features for the first regression is Minutes Played(MIN). Independent features include: Player age, years in the league, round number picked, overall pick, games played, games started, field goals made, field goal assists, field goal percentage, 3 points made, 3 points attempted, 3 point percent, free throws made, free throws attempted, free throw percentage, offensive rebounds, defensive rebounds, rebounds, assists, steals, blocks, turnovers, pf, points, performance efficienct report, all star appearances, injuries per year.</span>
+
+
+                </span>
+
+
+                <h5>Estimated minutes to Salary<span class="badge badge-warning">~46%</span></h5>
+
+                <span> Due to the high prediction score, the second regression adds predicted minutes and year of player record along with the features mentioned as the Independent features. Salary is the Dependent feature. </span>
+                </p>
+
+
+
+
+                <div class='col-lg-8 player-predict'>
+                    <div class='row top-talent-title'>
+                        <span>
+                        <h5 class='predict-title'>2020 Season. 3 Years or less in the NBA.</h5>top over performers /salary</span>
+                    </div>
+                    <div class='row row-player-details'>
+                        <div class='col player-details'>PLAYER</div>
+                        <div class='col player-list'>Top 10 Players</div>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+        <script type="text/javascript" src="./static/js/jane.js" type="module"></script>
+        <script type="text/javascript" src="./static/js/app.js" type="module"></script>
+
+
+
+
+        <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
+        <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+</body>
+
+</html>

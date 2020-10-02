@@ -19,6 +19,7 @@ import json
 def top2020_yil_5():
     # Sets an object to utilize the default declarative base in SQL Alchemy
     Base = declarative_base()
+    Base_all = declarative_base()
     ## Class base template to upload to sqlite
     class Top2020Yil5(Base):
         __tablename__ = 'top2020Yil5'
@@ -38,6 +39,25 @@ def top2020_yil_5():
         SAL_PRED = Column(String(170))
         SAL_RISIDUAL = Column(Float)
 
+        
+    class TopAllYil5(Base_all):
+        __tablename__ = 'topAllYil5'
+
+        id = Column(Integer, primary_key=True)
+        POSITION = Column(String(3))
+        PLAYER_NAME = Column(String(70))
+        PHOTO = Column(String())
+        YEAR = Column(Float)
+        YIL = Column(Float)
+        ROUND_NUMBER = Column(Float)
+        OVERALL_PICK = Column(Float)
+        MIN_PRED = Column(Float)
+        PER = Column(Float)
+        INJURY_PY = Column(Float)
+        INFLATION = Column(String(70))
+        SAL_PRED = Column(String(70))
+        SAL_RISIDUAL = Column(Float)
+
     # Create Database Connection
     # ----------------------------------
     # Creates a connection to our DB
@@ -48,19 +68,30 @@ def top2020_yil_5():
     # ----------------------------------
     # Create (if not already in existence) the tables associated with our classes.
     Base.metadata.create_all(engine)
+    Base_all.metadata.create_all(engine)
     # Create a Session Object to Connect to DB
     # ----------------------------------
     session = Session(bind=engine)
-
+    both_sets = {}
     def parseDataAndFormat():
         Base = automap_base()
+        Base_all = automap_base()
+        
         Base.prepare(engine, reflect=True)
+        Base_all.prepare(engine, reflect=True)
+        
         # Check db table names
         Base.classes.keys()
         data_from_db = Base.classes.top2020Yil5
+        all_stats_db = Base_all.classes.topAllYil5
+        
         data_container = session.query(data_from_db).limit(10)
+        data_container_all = session.query(all_stats_db).limit(10)
+        
+        
         analysis_container = []
-
+        analysis_container_all = []
+        
         for data in data_container:
             # get specific data from db
             container = {
@@ -79,23 +110,36 @@ def top2020_yil_5():
                 'SAL_RISIDUAL': data.SAL_RISIDUAL,
                 }
             analysis_container.append(container)
-
-
-
-
-
-
-
-
-
-
-        return analysis_container
+            
+        for data in data_container_all:
+            print(data)
+            # get specific data from db
+            container2 = {
+                'POSITION': data.POSITION,
+                'PLAYER_NAME': data.PLAYER_NAME,
+                'PHOTO': data.PHOTO,
+                'YEAR': data.YEAR,
+                'YIL': data.YIL,
+                'ROUND_NUMBER': data.ROUND_NUMBER,
+                'OVERALL_PICK': data.OVERALL_PICK,
+                'MIN_PRED': data.MIN_PRED,
+                'PER': data.PER,
+                'INJURY_PY': data.INJURY_PY,
+                'INFLATION': data.INFLATION,
+                'SAL_PRED': data.SAL_PRED,
+                'SAL_RISIDUAL': data.SAL_RISIDUAL,
+                }
+            analysis_container_all.append(container2)
+            
+        both_sets = {
+            'current': analysis_container,
+            'historic': analysis_container_all
+            }
+        return both_sets
 
     analysis_container = parseDataAndFormat()
     # Return results
     return analysis_container
-
-
 
 
 # #################################################################
