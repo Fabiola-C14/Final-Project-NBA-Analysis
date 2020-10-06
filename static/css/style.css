@@ -281,6 +281,7 @@ figure {
     margin: 0px 5px 10px 10px;
     margin-top: -30px;
     padding: 0;
+    margin-bottom: 120px;
 }
 
 h5.predict-title {
@@ -492,11 +493,31 @@ div#salary-context {
     background-color: black;
 }
 
-*/
+
 /* // Extra small devices (portrait phones, less than 576px) */
 
 @media (max-width: 575.98px) {
-    ...
+    .container-fluid {
+        width: 100%;
+    }
+    .container {
+        max-width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    p {
+        padding: 0;
+        margin: 0;
+    }
+    div.svg-container {
+        width: 100%;
+    }
+    .main {
+        width: auto;
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
 }
 
 
