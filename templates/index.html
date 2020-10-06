@@ -404,7 +404,7 @@
 
                 </p>
             </div>
-
+            <!-- 
             <div class="col-lg-12 injuries-container justify-content-center">
                 <h2 id="injuries">Injuries</h2>
 
@@ -444,7 +444,7 @@
                         </script>
                     </div>
             </div>
-
+ -->
 
 
 
@@ -454,22 +454,49 @@
                 <h2 id="salaryPerformance">Salary / Performance</h2><br>
 
                 <p>
-                    An individual is paid to perform at a professional level in any sport and/or career field of their choice. The better the performance, the better pay. The chart focuses on the 2020 season and players who have 3 years or less in the NBA. The chart ranks
-                    the player by thier Performance Efficiency Rating (PER).</p>
+                    An individual is paid to perform at a professional level in any sport and/or career field of their choice. The better the performance, the better pay. The results focus on the 2020 season and players who have 3 years or less in the NBA. The result ranks
+                    the player by thier Performance Efficiency Rating (PER). The base measurement we focused on was how each independent feature correlates to salary. Salary was chosen as it relates to all foundations of business when hiring and measuring
+                    talent. The baseline of salary is compared to each player annual stats and tenure in the league. For the machine learning models, I created a two multi-linear regression models using sklearn. The first model provides the estimated
+                    minutes, played based off in game statistics. The results add the following additional columns: Minutes Predicted, Residual difference. The second model provides the estimated salary based on in game stats, injuries, and all-star appearances.
+                    Exploratory analysis was examined before choosing independent features to verify correlations before processing through the machine learning models.
+                </p>
+                <p>
+                    <strong>Data Collection:</strong> NBA-API is a free to use API which scrapes stats.nba.com. Player stats, seasonal stats, injury information and historical game information can be found. As a team, we used this API multiple times for
+                    different segments. The player name and ID was kept, merging the data frames later in the workflow. I specifically used the ‘PlayerCareerStats’ & ‘DraftHistory’ module to retrieve and analyze data. Data Cleaning:
+                    <ul>
+                        <li>
+                            Merge multiple datasets (4) together. Inner was used in the merge but outer was also used to keep all data. A threshold of 5-7 was applied to remove any rows with less than 5-7 NaN values in a row—Keeping the rest of the data.
 
+                        </li>
+                        <li>
+                            Fill specific NaN values with zeros (ex: all star column = 0 if they did not make the all-star team)
+
+                        </li>
+                        <li>
+                            Performance Efficiency Rating (PER) column added by calculating multiple stats and applying the value to the samples row. PER formula breakdown provided below.
+
+                        </li>
+                        <li>
+                            Removed players who have not played a third of a season (28 games) in a year; for their first 5 years in the league.
+
+                        </li>
+                    </ul>
+
+                </p>
 
 
 
                 <h5>Research: Assigning Independent/Dependent features, Multi-Logistic Regression</h5>
                 <figure class="figure text-right">
-                    <!-- <img src="../static/images/scatter-temp.jpg" class="figure-img img-fluid rounded" alt="scatter plot. minutes to points - first year of player career"> -->
                     <br> {% include "test/yil_points_min.html" %}
                     <figcaption class="figure-caption text-right">Data Represents first 5 years of a players career 2000-2020. Annual points scored by total minutes. Color represents year in the league (YIL). </figcaption>
                 </figure>
-                <p class='research-text'>If a player has played 'x' amount of minutes played, we use multi-linear regression to predict and approximate amount of minutes played based on the stats (independent features) provided. The correlation percentage of this model is approximately
-                    96% correct in predicting minutes needed for independent features passed. found throughout the dataset and similar correlations. We can use this tool to visualize which players around the league are over/under performing to their 'salary
-                    expectations'. Additionally, the tool can provide insight on future players to acquire or look out for. The PER score is a good place to start when ranking player efficiency... as explained above. Eventually this tool allow comparing
-                    by all years, position and year range.</p>
+                <p class='research-text'>If a player has played 'x' amount of minutes played, we use linear regression to predict and approximate amount of minutes played based on the stats (independent features) provided. The correlation percentage of this model predicts minutes
+                    needed for independent features passed. We can use this tool to visualize which players around the league are over/under performing to their 'salary expectations'. Additionally, the tool can provide insight on future players to acquire
+                    or look out for. The PER score is a good place to start when ranking player efficiency... as explained above. Eventually this tool allow comparing by all years, position and year range. <br>Multi-linear regression is a statistical
+                    technique that uses several explanatory variables to predict the outcome of a response variable. I specifically used the models found in sklearn such as: metrics.r2_score, linear_model importing LinearRegression, and model_selection
+                    importing train_test_split.
+                </p>
 
 
 
@@ -515,7 +542,8 @@
 
                 <h5>Estimated minutes to Salary<span class="badge badge-warning">~46%</span></h5>
 
-                <p> Due to the high prediction score, the second regression adds predicted minutes and year of player record along with the features mentioned as the Independent features. Salary is the Dependent feature. </p>
+                <p> The second model uses the minutes predicted, year in the league, and select in-game stats as the independent feature. The dependent feature is the annual salary for the player. The model accuracy score is ~46%. The score indicates an estimated
+                    player salary based on the features passed. We can use this salary baseline to see if players are over-performing, under-performing, and for scouting purposes. </p>
 
 
 
