@@ -493,6 +493,10 @@ div#salary-context {
     background-color: black;
 }
 
+ul {
+    width: 80%
+}
+
 
 /* // Extra small devices (portrait phones, less than 576px) */
 
